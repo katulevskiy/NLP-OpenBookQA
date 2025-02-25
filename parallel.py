@@ -5,6 +5,7 @@ import requests
 from dotenv import load_dotenv
 from tqdm import tqdm
 from itertools import islice
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Load environment variables from .env file
 load_dotenv()
@@ -55,57 +56,87 @@ def extract_final_answer(answer_text):
     return None
 
 
+def process_question(data, use_context, context_text):
+    """
+    Processes a single question:
+      - Builds the prompt (with or without additional context)
+      - Calls DeepSeek
+      - Extracts the final answer label.
+    Returns a dict with all relevant information.
+    """
+    qid = data.get("id", "unknown")
+    question_stem = data["question"]["stem"]
+    choices = data["question"]["choices"]
+    answer_key = data["answerKey"]
+
+    # Build the prompt
+    prompt = ""
+    if use_context:
+        prompt += f"Context:\n{context_text}\n\n"
+    prompt += f"Question: {question_stem}\n"
+    prompt += "Choices:\n"
+    for choice in choices:
+        prompt += f"{choice['label']}: {choice['text']}\n"
+    prompt += (
+        "\nPlease choose the correct answer label (A, B, C, or D) and "
+        "state your final decision at the end of your answer in the format 'Final Answer: <label>'."
+    )
+
+    answer_text = call_deepseek(prompt)
+    final_label = extract_final_answer(answer_text) if answer_text else None
+    correct = 1 if final_label == answer_key else 0
+
+    return {
+        "qid": qid,
+        "answer_key": answer_key,
+        "answer_text": answer_text,
+        "final_label": final_label,
+        "correct": correct,
+    }
+
+
 def run_experiment(questions_num, use_context=False, context_text=""):
     """
-    Processes the first 10 questions in dev.jsonl, sends a prompt to DeepSeek,
-    prints the expected answer and the full DeepSeek response, and checks the answer.
-    If use_context is True, prepends the provided context_text to every prompt.
+    Processes questions concurrently from dev.jsonl, prints the expected answer and
+    full DeepSeek response, and computes the accuracy.
     """
     correct = 0
     total = 0
     dev_file = os.path.join("OpenBookQA-V1-Sep2018", "Data", "Main", "dev.jsonl")
 
     with open(dev_file, "r") as f:
-        # Process only the first 10 questions
+        # Process only the first questions_num questions
         lines = list(islice(f, questions_num))
 
-    for line in tqdm(lines, total=questions_num, desc="Processing questions"):
-        if not line.strip():
-            continue
-        data = json.loads(line)
-        qid = data.get("id", "unknown")
-        question_stem = data["question"]["stem"]
-        choices = data["question"]["choices"]
-        answer_key = data["answerKey"]
+    # Parse each non-empty line as JSON
+    questions = [json.loads(line) for line in lines if line.strip()]
 
-        # Build the prompt
-        prompt = ""
-        if use_context:
-            prompt += f"Context:\n{context_text}\n\n"
-        prompt += f"Question: {question_stem}\n"
-        prompt += "Choices:\n"
-        for choice in choices:
-            prompt += f"{choice['label']}: {choice['text']}\n"
-        prompt += "\nPlease choose the correct answer label (A, B, C, or D) and state your final decision at the end of your answer in the format 'Final Answer: <label>'."
+    results = []
+    # Adjust max_workers as needed (here using 5 workers)
+    with ThreadPoolExecutor(max_workers=50) as executor:
+        futures = {
+            executor.submit(process_question, data, use_context, context_text): data
+            for data in questions
+        }
+        for future in tqdm(
+            as_completed(futures), total=len(futures), desc="Processing questions"
+        ):
+            result = future.result()
+            results.append(result)
+            print(f"\n--- Question {result['qid']} ---")
+            print(f"Expected Answer: {result['answer_key']}")
+            if result["answer_text"] is None:
+                print("DeepSeek Response: No answer received.")
+            else:
+                print("DeepSeek Response:")
+                print(result["answer_text"])
+            if result["final_label"] is None:
+                print("Could not extract final answer label from DeepSeek response.\n")
+            else:
+                print(f"Extracted Final Answer Label: {result['final_label']}\n")
 
-        # Get answer from DeepSeek
-        answer_text = call_deepseek(prompt)
-        print(f"\n--- Question {qid} ---")
-        print(f"Expected Answer: {answer_key}")
-        if answer_text is None:
-            print("DeepSeek Response: No answer received.")
-        else:
-            print("DeepSeek Response:")
-            print(answer_text)
-        final_label = extract_final_answer(answer_text) if answer_text else None
-        if final_label is None:
-            print("Could not extract final answer label from DeepSeek response.\n")
-        else:
-            print(f"Extracted Final Answer Label: {final_label}\n")
-            if final_label == answer_key:
-                correct += 1
-        total += 1
-
+    total = len(results)
+    correct = sum(r["correct"] for r in results)
     accuracy = (correct / total * 100) if total > 0 else 0
     context_str = "with context" if use_context else "without context"
     print(
