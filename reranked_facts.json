@@ -1,0 +1,3423 @@
+{
+  "9-1039": {
+    "question": "An example of data collection is",
+    "selected_facts": [
+      "An example of collecting data is measuring.",
+      "An example of an adaptation is camel humps.",
+      "An example of stormy weather is rain."
+    ]
+  },
+  "8-9": {
+    "question": "Magma contains",
+    "selected_facts": [
+      "magma below ground \u2013 location",
+      "minerals from cooling magma \u2013 content"
+    ]
+  },
+  "9-900": {
+    "question": "Tunnels",
+    "selected_facts": [
+      "Earthworms create tunnels in soil. - This is directly about tunnels.",
+      "Tunnels in soil loosen the soil. - Also directly related to tunnels and their effect.",
+      "Food sources increasing lead to population growth. - Not obviously related to tunnels."
+    ]
+  },
+  "7-57": {
+    "question": "Gas can fill any container it is given, and liquid",
+    "selected_facts": [
+      "When a gas in an open container evaporates, it spreads into the air. Hmm, evaporation is part of how gas behaves.",
+      "As heat increases, a flexible container with gas expands. This shows gas can change shape with heat.",
+      "Flowing liquid can push objects. Maybe relates to movement but not directly about filling containers."
+    ]
+  },
+  "9-241": {
+    "question": "An example of lots kinetic energy would be",
+    "selected_facts": [
+      "**Fact 2**: Motion is a source of kinetic energy in an object. This explains that objects in motion possess kinetic energy, which helps identify examples.",
+      "**Fact 3**: As an object moves, its kinetic energy will increase. This indicates that higher speeds mean more kinetic energy, guiding towards examples with significant movement.",
+      "**Fact 1**: Potential energy changes to kinetic energy through motion. While it discusses the transformation, it connects energy types relevant to identifying kinetic energy sources."
+    ]
+  },
+  "9-106": {
+    "question": "Plants need light for",
+    "selected_facts": []
+  },
+  "1953": {
+    "question": "Which organism cannot specialize?",
+    "selected_facts": []
+  },
+  "142": {
+    "question": "Which describes the size of an object?",
+    "selected_facts": [
+      "The volume of an object can be used to describe the size of that object.",
+      "As the size of an object appears larger, that object will be observed better.",
+      "As the size of an object appears larger, that object will be seen more easily."
+    ]
+  },
+  "7-1024": {
+    "question": "When birds migrate south for the winter, they do it because",
+    "selected_facts": [
+      "Fact 1: \"an animal knows how to do instinctive behaviors when it is born\" - Explains that migration is an innate behavior.",
+      "Fact 2: \"An example of migration is birds flying south in the winter\" - Directly provides the reason for their movement.",
+      "Fact 6: \"Earth's magnetic patterns are used for finding locations by animals that migrate\" - Describes how they navigate during migration."
+    ]
+  },
+  "9-1126": {
+    "question": "Dew is formed when what condenses?",
+    "selected_facts": [
+      "Fact 1 says \"dew is formed when water vapor cools over night.\" This seems relevant because cooling of water vapor is part of the condensation process.",
+      "Fact 2 states, \"dew is formed when water vapor condenses over night.\" That directly mentions condensation and specifically relates to dew formation.",
+      "Fact 3 talks about a kettle forming from melted glacier ice, which doesn't seem related at all."
+    ]
+  },
+  "7-316": {
+    "question": "The Earth revolving around the sun can cause",
+    "selected_facts": [
+      "Fact 1 says Earth's revolution causes seasons to change on its axis. That sounds relevant because seasons are indeed caused by the tilt of Earth's axis as it orbits the Sun.",
+      "Fact 2 is similar but mentions \"seasons to occur.\" It's almost the same as fact 1, just phrased differently. I might consider both, but since the question is asking for three facts, maybe one between them would suffice.",
+      "Fact 3 states that Earth revolves around the Sun. This seems like a basic statement of what happens, not necessarily an effect or cause, so it's probably less relevant unless needed to establish context."
+    ]
+  },
+  "529": {
+    "question": "Taking shorter showers leads to",
+    "selected_facts": [
+      "As time spent taking a shower decreases, water used will decrease.",
+      "Changes in environment cause animals to adapt to survive.",
+      "Changes in environment cause plants to adapt to survive."
+    ]
+  },
+  "7-684": {
+    "question": "Oil is a nonrenewable resource which tells us that when",
+    "selected_facts": [
+      "Oil is a nonrenewable resource.",
+      "Aluminum is a nonrenewable resource.",
+      "Coal is a nonrenewable resource."
+    ]
+  },
+  "8-376": {
+    "question": "Frilled sharks and angler fish live far beneath the surface of the ocean, which is why they are known as",
+    "selected_facts": [
+      "Remora fish eat food by attaching themselves to sharks and eating leftovers.",
+      "Stars in the night sky are very far away from Earth.",
+      "Musical instruments make sound when played."
+    ]
+  },
+  "7-1139": {
+    "question": "To have a positive impact of the environment",
+    "selected_facts": []
+  },
+  "7-97": {
+    "question": "A person can grow cabbage in January with the help of what product?",
+    "selected_facts": [
+      "**Bacteria can help digest food in humans** - This seems unrelated because it's about human digestion, not plant growth or gardening.",
+      "**Vaccines can help prevent illness** - Also unrelated; vaccines are for preventing diseases, not growing crops.",
+      "**January is during the winter in the northern hemisphere** - This is directly relevant because it sets the context of the question\u2014growing cabbage in winter conditions."
+    ]
+  },
+  "8-22": {
+    "question": "If a person enjoys long, sunny days their favorite month would be",
+    "selected_facts": []
+  },
+  "231": {
+    "question": "Roads present danger to animals because",
+    "selected_facts": [
+      "Animals adapt to their environment. Well, roads might change the environment, so maybe this is relevant because if the environment changes, animals have to adapt or face consequences.",
+      "Cold temperatures cause shivering. This seems unrelated unless roads affect temperature regulation, but I don't think that's the main issue with roads and animal danger.",
+      "Cool temperatures cause shivering. Similar to fact 2, probably not directly related to road dangers."
+    ]
+  },
+  "1981": {
+    "question": "Alligators",
+    "selected_facts": [
+      "**Fact 1**: Directly discusses the diet of alligators, which is crucial information.",
+      "**Fact 2**: Explains predator competition when prey decreases, affecting alligators' survival dynamics.",
+      "**Fact 10**: Highlights temperature's impact on reptiles, relevant to alligators as ectothermic animals."
+    ]
+  },
+  "230": {
+    "question": "What boils at the boiling point?",
+    "selected_facts": [
+      "Boiling point is the temperature above which a liquid boils.",
+      "Boiling occurs when liquids are heated above their boiling point."
+    ]
+  },
+  "7-921": {
+    "question": "A body may find its temperature to be lowered after",
+    "selected_facts": []
+  },
+  "9-472": {
+    "question": "plant requires what for photosynthesis",
+    "selected_facts": []
+  },
+  "8-422": {
+    "question": "A frog, in winter, will burrow itself into soft mud, until it freezes, then in the spring",
+    "selected_facts": []
+  },
+  "7-131": {
+    "question": "When vapor condenses overnight it often ends up on",
+    "selected_facts": []
+  },
+  "7-606": {
+    "question": "Winter solstice occurs on a day when",
+    "selected_facts": [
+      "Fact 1 says that the amount of daylight is least on the winter solstice. That makes sense because during winter solstice, the days are shortest in the hemisphere experiencing winter. This fact explains a characteristic of the day but doesn't directly state when it occurs.",
+      "Fact 2 mentions that winter solstice is on December 21st in the northern hemisphere. That's a direct answer to the question for one hemisphere.",
+      "Fact 3 states that winter solstice is on June 21st in the southern hemisphere. This complements fact 2 by providing the date for the other hemisphere, showing that it happens around different times depending on where you are."
+    ]
+  },
+  "959": {
+    "question": "If a person walks in the opposite direction of a compass arrow they are walking",
+    "selected_facts": [
+      "Fact 1 says that the floating arrow on a compass always points towards the north.",
+      "Fact 2 mentions that a compass is a tool for determining direction by pointing north.",
+      "Fact 3 talks about sugar dissolving in water, which seems unrelated to navigation or movement."
+    ]
+  },
+  "739": {
+    "question": "An animal can hunt by cracking open a",
+    "selected_facts": [
+      "Fact 1 gives a direct example of an animal (otter) using cracking as part of its hunting strategy with clams and a rock.",
+      "Fact 8 explains that cracking has a negative impact, which in this context means it's effective for accessing prey, supporting why animals would use this method.",
+      "I'm not seeing another fact that directly ties into the process beyond these two. However, maybe Fact 7 is slightly relevant because the brain controls the hunting behavior, but it's more of a general statement and doesn't specifically address cracking."
+    ]
+  },
+  "1565": {
+    "question": "The epidermis is part of",
+    "selected_facts": []
+  },
+  "8-162": {
+    "question": "which of these animal's habitat is peat likely to be found?",
+    "selected_facts": []
+  },
+  "7-512": {
+    "question": "Cocoon creation occurs",
+    "selected_facts": []
+  },
+  "7-847": {
+    "question": "Which is a good source of nutrients for a mushroom?",
+    "selected_facts": []
+  },
+  "1324": {
+    "question": "Which would best store new whale offspring?",
+    "selected_facts": [
+      "The type of material through which sound passes changes the speed at which sound travels.",
+      "A stem is used to store water by some plants.",
+      "Usually, plants store the food they produce for future use."
+    ]
+  },
+  "670": {
+    "question": "What might occur during an experiment",
+    "selected_facts": [
+      "Chemical splashing (fact 7) as a direct occurrence during experiments.",
+      "Reproduction (fact 5) as an event that might occur in biological experiments.",
+      "Landslides (fact 1) as a potential outcome in geology or soil mechanics experiments."
+    ]
+  },
+  "7-1028": {
+    "question": "Squirrels store acorns",
+    "selected_facts": [
+      "\"a chipmunk eats acorns\" - Hmm, while this mentions acorns and an animal, it's about a chipmunk, not squirrels. So maybe less relevant unless I'm considering similar behaviors in related animals.",
+      "\"squirrels eat edible plants\" - This tells me that squirrels have a diet that includes plants, which is good to know but doesn't directly talk about storing acorns specifically.",
+      "\"squirrels gather nuts in the autumn to eat during the winter\" - Oh, this seems very relevant because it's about squirrels gathering nuts (which include acorns) for winter storage. This directly supports the idea that squirrels store acorns."
+    ]
+  },
+  "9-108": {
+    "question": "Why can an Owl retain it's body temperature during the winter?",
+    "selected_facts": []
+  },
+  "721": {
+    "question": "What is most necessary for a  bitcoin operation",
+    "selected_facts": [
+      "\"most animals avoid bad odors\" - I don't see a connection here.",
+      "\"oceans contain most of Earth's water\" - Maybe if it's about resources, but not sure how it ties to Bitcoin operations.",
+      "\"water causes the most soil and rock erosion\" - Again, relates to natural processes, maybe infrastructure? But still unclear."
+    ]
+  },
+  "1061": {
+    "question": "In the desert it was harder to find a",
+    "selected_facts": [
+      "Body parts burned and heat energy \u2013 this could be relevant if the question was about burns, but since it's general, maybe not the top pick.",
+      "Habitat destruction causing animals to move \u2013 possibly related to why finding something is harder because habitats change.",
+      "Lizards in deserts \u2013 might be relevant if talking about finding specific creatures, but not sure yet."
+    ]
+  },
+  "7-289": {
+    "question": "A strawberry is in zero way a true berry because it",
+    "selected_facts": []
+  },
+  "7-620": {
+    "question": "An herbivore like a giraffe will only consume",
+    "selected_facts": [
+      "An example of camouflage is an organism looking like leaves.",
+      "Cows only eat plants.",
+      "Carnivores only eat animals."
+    ]
+  },
+  "9-902": {
+    "question": "A fire starts in a wide, open field and catches onto a forest. The fire started even though people were far away from the woods. A potential cause for the start of it could have been",
+    "selected_facts": []
+  },
+  "9-989": {
+    "question": "If something is outside during the day what will it receive?",
+    "selected_facts": []
+  },
+  "353": {
+    "question": "Where would animals shiver the most?",
+    "selected_facts": []
+  },
+  "1282": {
+    "question": "What is the source of energy for physical cycles on Earth?",
+    "selected_facts": [
+      "The sun is mentioned as the source for physical cycles.",
+      "It's also said that the sun provides energy for life on Earth.",
+      "Food as a source for plants \u2013 but food relates more to biological processes rather than physical cycles."
+    ]
+  },
+  "7-191": {
+    "question": "A turtle may lay six eggs, and a sea turtle may lay a hundred eggs, and",
+    "selected_facts": [
+      "A sea turtle lives in the ocean.",
+      "Reptiles lay eggs.",
+      "Fish lay eggs."
+    ]
+  },
+  "9-805": {
+    "question": "A person is trapped in a cabin while it storms outside. The person knows it is storming because of",
+    "selected_facts": [
+      "An animal knows instinctive behaviors when born - Hmm, maybe not directly related unless considering sounds or instincts during storms.",
+      "Candle as a light source - If power is out, they might use candles, but does that tell them it's storming? Maybe indirectly if the storm caused a power outage.",
+      "Night means sun has set - This could relate to time, but how does knowing it's night help them know it's storming?"
+    ]
+  },
+  "9-753": {
+    "question": "All the deer in one area moved away. This could be because",
+    "selected_facts": []
+  },
+  "1715": {
+    "question": "Climate change has sped up dramatically because",
+    "selected_facts": [
+      "Carbon dioxide concentrations have increased dramatically (fact 2) because that's a primary driver.",
+      "Chemical reactions causing change (fact 7), as CO2 reacting in the atmosphere contributes to global warming.",
+      "Electrical current heating up wires (fact 6), if we're considering energy use contributing to emissions, but I'm not sure if this is directly about climate change acceleration."
+    ]
+  },
+  "7-915": {
+    "question": "Frogs are unable to give live birth, and their eggs are soft, unlike other eggs, in fact",
+    "selected_facts": [
+      "Mammals give birth to live young. Hmm, since frogs aren't mammals, but this might help contrast how they reproduce differently.",
+      "Animals live and feed near their habitats. Not directly about reproduction, more about behavior in general.",
+      "Organisms live in their habitat. Again, more about where they live than how they reproduce."
+    ]
+  },
+  "8-38": {
+    "question": "A woman wants to figure out what renewable resources she can use in order to be more environmentally friendly and sufficient. She decides to use all of these resources that are renewable, with the exception of the one nonrenewable, which is",
+    "selected_facts": []
+  },
+  "9-634": {
+    "question": "Pasteurization reduces the amount of bacteria in",
+    "selected_facts": [
+      "pasteurization reduces the amount of bacteria in milk",
+      "In the food chain process bacteria have the role of decomposer",
+      "reducing bacteria in food prevents illness in people"
+    ]
+  },
+  "391": {
+    "question": "An organism's requirements and its survival rate have what kind of relationship?",
+    "selected_facts": [
+      "Talks about matter changing shape and volume\u2014probably not relevant.",
+      "Camouflage example, which relates to survival but not directly about requirements like nutrients or air.",
+      "Producers in ecosystems\u2014they make their own food, so they're a role in the food chain, maybe related to providing resources for others."
+    ]
+  },
+  "7-114": {
+    "question": "An electric car uses less gasoline than a regular car because",
+    "selected_facts": [
+      "\"an electric car uses less gasoline than a regular car\"",
+      "\"an electric car contains an electric motor\"",
+      "\"a car engine usually converts gasoline into motion and heat through combustion\""
+    ]
+  },
+  "1343": {
+    "question": "Plant growth may be positively affected by",
+    "selected_facts": [
+      "**The looseness of soil has a positive impact on a plant's roots' growth in that soil** - This directly affects root development, which is crucial for nutrient uptake and overall plant health.",
+      "**As the amount of water received by a plant increases, that plant will usually grow** - Adequate water supply is essential for photosynthesis and nutrient transport, significantly promoting plant growth.",
+      "**An organism requires energy for growth** - While general, it highlights the necessity of energy, which plants obtain through photosynthesis, a fundamental factor in their growth process."
+    ]
+  },
+  "7-384": {
+    "question": "Revolution happens when",
+    "selected_facts": []
+  },
+  "9-1081": {
+    "question": "What could be used as an electrical conductor",
+    "selected_facts": [
+      "**Water** being a conductor directly answers the question with a specific example.",
+      "**Wiring requiring conductors** highlights practical applications and implies materials like metal are used.",
+      "**Metal as a conductor** provides another direct example of a common material used."
+    ]
+  },
+  "702": {
+    "question": "An example of a seasonal change that a furry animal might adopt could be similar to:",
+    "selected_facts": []
+  },
+  "7-1069": {
+    "question": "Were the situation to be that all zebra were sterile,",
+    "selected_facts": []
+  },
+  "1303": {
+    "question": "Fossils are formed when what happens?",
+    "selected_facts": []
+  },
+  "9-115": {
+    "question": "How does ice wedging cause rocks to crack?",
+    "selected_facts": [
+      "Ice wedging is when ice causes rocks to crack by expanding in openings.",
+      "Cycles of freezing and thawing water cause ice wedging."
+    ]
+  },
+  "1177": {
+    "question": "When going in the basement, it's better to have a laser than a",
+    "selected_facts": []
+  },
+  "7-1148": {
+    "question": "Pumpkin pie spice comes from",
+    "selected_facts": [
+      "Pumpkin contains seeds \u2013 possibly related if spices include seeds.",
+      "Raw materials come from a source \u2013 definitely relevant for the origin of spices.",
+      "Amphibians hatch from eggs \u2013 unrelated."
+    ]
+  },
+  "8-195": {
+    "question": "Some areas are known for experiencing all four seasons, and winter is one of those seasons. During said season, one may partake in activities such as",
+    "selected_facts": [
+      "Snow falls during winter in some environments - This seems directly relevant because if it snows, people can engage in snow-based activities.",
+      "Nutrients in soil affecting the food chain - Not sure how this ties into winter activities. Maybe not relevant.",
+      "Solutions made of substances dissolved in others - Doesn't seem related to winter activities."
+    ]
+  },
+  "1212": {
+    "question": "What can show that loss of resources has a negative impact on the organisms in an area?",
+    "selected_facts": [
+      "\"loss of resources has a negative impact on the organisms in an area\" - directly states the effect of resource loss.",
+      "\"cutting down trees has a negative impact on an organism living in an ecosystem\" - provides an example through deforestation, leading to habitat and food loss.",
+      "\"erosion of soil has a negative impact on the environment\" - illustrates how soil loss affects organisms dependent on that resource."
+    ]
+  },
+  "701": {
+    "question": "What vehicle would you use to travel on the majority of the surface of the planet on which we live?",
+    "selected_facts": [
+      "Mass causes gravity on a planet \u2013 relevant but broad.",
+      "Exposed to star's heat \u2013 not directly helpful.",
+      "Day-night cycles \u2013 might affect travel times or navigation, but perhaps less so for vehicle choice."
+    ]
+  },
+  "539": {
+    "question": "When would the sun set later?",
+    "selected_facts": [
+      "Fact 1 says if it's night, the sun has set. That's pretty basic but doesn't directly help with when sunset occurs later.",
+      "Fact 2 explains that summer is when a hemisphere is tilted towards the sun. This makes sense because being tilted towards the sun would mean more direct sunlight and longer days, so sunset would be later.",
+      "Fact 3 mentions winter is when a hemisphere tilts away from the sun, which would result in shorter days and earlier sunsets. So comparing summer to winter could help explain why sunset times differ."
+    ]
+  },
+  "9-851": {
+    "question": "If a species population increases in the birth rate has",
+    "selected_facts": [
+      "If members are born, population increases. That directly relates to birth rate increasing leading to population increase.",
+      "Harming animals decreases population. Not relevant here since we're talking about increased births, not harm.",
+      "No offspring leads to extinction. Opposite of high birth rate, so probably not relevant."
+    ]
+  },
+  "1408": {
+    "question": "What's an example of the idea that if one mineral can scratch another mineral then that other mineral is softer than that one mineral?",
+    "selected_facts": [
+      "This fact directly states the idea we're looking for: if a mineral can scratch another, the scratched one is softer. That's exactly what the question is about.",
+      "This talks about a mineral being scratched by a fingernail implying softness. It's related to hardness but doesn't involve two minerals scratching each other.",
+      "About pencil lead and graphite. Not directly relevant here."
+    ]
+  },
+  "9-280": {
+    "question": "What is a source of energy?",
+    "selected_facts": [
+      "Identified that oil (fact 2) and wind (fact 4) are direct sources of energy.",
+      "Recognized that radiators provide heat, which is a form of thermal energy (fact 7).",
+      "Discarded other facts as they either discuss byproducts or unrelated concepts."
+    ]
+  },
+  "7-1196": {
+    "question": "In order for a journal to be produced, it first requires",
+    "selected_facts": []
+  },
+  "1277": {
+    "question": "What is an example of a raw material being something that comes directly from a source?",
+    "selected_facts": [
+      "Fact 1: Establishes that raw materials come directly from a source.",
+      "Fact 6: Provides an example in photosynthesis where CO\u2082 is a raw material.",
+      "Fact 10: Explains that organisms can be sources of organic material."
+    ]
+  },
+  "536": {
+    "question": "A bear's fur and duck's feathers both help the animal survive by",
+    "selected_facts": [
+      "Fact 9: down feathers are thermal insulators (covers both animals' insulation needs).",
+      "**Fact 2**: Shedding affects fur density, aiding in temperature regulation by adjusting insulation levels according to seasonal changes.",
+      "**Fact 5**: Storing fat helps animals survive when food is scarce, a benefit supported by insulation which reduces energy loss."
+    ]
+  },
+  "607": {
+    "question": "A mark of adulthood common in most species is",
+    "selected_facts": []
+  },
+  "933": {
+    "question": "A source of sugar in an ecosystem is",
+    "selected_facts": [
+      "Fact 1 says that a producer is a source of sugar in an ecosystem.",
+      "Fact 2 mentions an organism breaking down sugar as a source of water.",
+      "Fact 3 states that a tree provides food for birds."
+    ]
+  },
+  "9-513": {
+    "question": "What core ingredient of red pasta sauce comes from a flower?",
+    "selected_facts": [
+      "Fact 4 says sugars are transported from leaves to roots. This might relate because plants transport nutrients, but I'm not sure how this directly connects to tomatoes or pasta sauce.",
+      "Fact 3 talks about xylem carrying water from roots to leaves. That's part of plant structure but again, maybe not directly relevant unless considering the growth aspects.",
+      "The other facts don't seem as directly related. They discuss things like amphibians hatching, runoff with pesticides and fertilizers, limestone formation, light intensity, animals distancing themselves, and minerals from magma."
+    ]
+  },
+  "7-1191": {
+    "question": "Layers of the earth include all but",
+    "selected_facts": [
+      "Fossils are formed when layers of sediment cover remains. This talks about how fossils are created, which relates to sedimentary layers but not directly the Earth's main layers like crust, mantle, core.",
+      "Earthquakes cause rock layers to fold. This is more about tectonic activity and how layers can change, but not about what layers exist.",
+      "All animals breathe \u2013 this seems unrelated; it's about biology, not geology."
+    ]
+  },
+  "8-457": {
+    "question": "If a farmland up the hill gets rainfall, what could happen to lower lands?",
+    "selected_facts": [
+      "A solar eclipse occurs during a new moon. I don't see the connection here. Solar eclipses are astronomical events and probably unrelated to rainfall on farmland affecting lower areas.",
+      "Electrical current causes wires to heat up. This seems about physics, but not directly related to water movement or land effects from rain.",
+      "Compass needle aligns with Earth's magnetic poles. Again, this is more about magnetism and navigation, which doesn't seem relevant here."
+    ]
+  },
+  "7-844": {
+    "question": "Bill decided the wolf was a predator after he saw it eat the",
+    "selected_facts": [
+      "The first quarter phase of the moon occurs after the new moon.",
+      "If a body part was burned then that body part was exposed to a lot of heat energy.",
+      "A predator eats other animals for food."
+    ]
+  },
+  "7-605": {
+    "question": "If something were to be melted, it would be heated above its melting point, like",
+    "selected_facts": [
+      "Fact 1 says that melting is when solids are heated above their melting point. That seems directly relevant because it defines what happens when a solid is heated beyond its melting point, which is exactly what the question is about.",
+      "Fact 2 talks about using composition to identify something. I don't see how this relates to melting or heating, so probably not relevant here.",
+      "Fact 3 mentions reusable items being used more than once. This doesn't connect to the process of melting, so it's likely irrelevant."
+    ]
+  },
+  "7-324": {
+    "question": "As far as plants go, considering their growth, it is unlikely that they would do well in",
+    "selected_facts": []
+  },
+  "68": {
+    "question": "What is likely to be the most direct result of offshore oil leaking?",
+    "selected_facts": [
+      "Offshore oil platforms can cause oil leaks into water.",
+      "Oceans contain most of Earth's water.",
+      "Animals avoid bad odors."
+    ]
+  },
+  "136": {
+    "question": "Which is the slowest to move through water?",
+    "selected_facts": []
+  },
+  "633": {
+    "question": "An individual can conserve by",
+    "selected_facts": [
+      "When available resources decrease in an environment, organisms have to conserve those resources.",
+      "An animal can survive in an environment with little food by storing fat.",
+      "A tree can be replaced by planting a new tree."
+    ]
+  },
+  "9-1192": {
+    "question": "carbon dioxide plays the same role in plants that oxygen plays in animals",
+    "selected_facts": [
+      "Fact 1 says that CO2 is a raw material in photosynthesis. That makes sense because in photosynthesis, plants use CO2 along with water and sunlight to make glucose. So this seems relevant since it's about CO2's role in plants.",
+      "Fact 4 mentions that oxygen is a waste product in photosynthesis. Wait, but the question is comparing CO2 in plants to O2 in animals. Hmm, maybe I should think about how O2 is used by animals. Animals use O2 for cellular respiration, which is their energy process. So if I can find facts that show O2's role in animals and CO2's role in plants similarly.",
+      "Fact 1: CO2 as raw material in photosynthesis (plants using CO2)"
+    ]
+  },
+  "7-139": {
+    "question": "Organic food is currently considered best for people because",
+    "selected_facts": [
+      "\"reducing bacteria in food prevents illness in people.\"",
+      "\"bacteria can cause people to become ill.\"",
+      "\"decomposition increases amount of organic matter in soil.\""
+    ]
+  },
+  "8-101": {
+    "question": "A horse eats some hay, an apple and a sugar cube, then peacefully roams a field after eating while digesting the meal. During this time",
+    "selected_facts": [
+      "Snow falls during winter in some environments.",
+      "A producer is a source of sugar in an ecosystem.",
+      "A salamander eats insects."
+    ]
+  },
+  "9-193": {
+    "question": "Who would be healthier?",
+    "selected_facts": [
+      "Renewable resource can be renewed: This is about sustainability but not directly health.",
+      "Renewable resource can be replaced: Similar to the first, more about resources than health.",
+      "Electromagnets powered by electricity: This seems unrelated to health."
+    ]
+  },
+  "1252": {
+    "question": "What is a good example of camouflage?",
+    "selected_facts": [
+      "Good bacteria grow on the skin.",
+      "Similar to 1, just more specific about human skin.",
+      "Animal needs nutrients for health. Doesn't seem related to camouflage."
+    ]
+  },
+  "7-946": {
+    "question": "Bats have many quirks, with the exception of",
+    "selected_facts": [
+      "Bats can echolocate.",
+      "The Earth contains many ecosystems.",
+      "The lunar surface contains many craters."
+    ]
+  },
+  "8-322": {
+    "question": "plants are the source of",
+    "selected_facts": [
+      "Spices: That makes sense because many spices like cinnamon or turmeric come from plants.",
+      "Fruit: Yes, fruits are definitely a product of plants.",
+      "Fibers: Plants provide fibers used in textiles, so this is relevant too."
+    ]
+  },
+  "9-961": {
+    "question": "Living things can all",
+    "selected_facts": [
+      "**Living things can all reproduce** \u2013 Reproduction is a fundamental trait of life. All living things need to reproduce to continue their species, whether it's through sexual reproduction, asexual reproduction, or other methods. This seems relevant.",
+      "**All living things grow** \u2013 Growth is another essential characteristic. Organisms start small and develop into adults, which is a key aspect of their life cycle. This fact definitely applies universally.",
+      "**All living things eliminate waste** \u2013 Excretion of waste products is necessary for survival. Without it, toxic substances would accumulate inside the organism, leading to harm. So this is another universal trait."
+    ]
+  },
+  "1253": {
+    "question": "When you get farther from water, the water vapor in the air will ______.",
+    "selected_facts": [
+      "\"Humidity is the amount of water vapor in the air.\" - This defines humidity, which might be related because if you're farther from water, humidity could decrease.",
+      "\"Fog is formed by water vapor condensing in the air.\" - Fog formation involves condensation, but I'm not sure how distance from water directly affects this unless it's about moisture sources.",
+      "\"Transpiration is when water vapor moves from leaves into the atmosphere.\" - Transpiration contributes to water vapor, so areas with more vegetation might have higher humidity even away from bodies of water. But if you're moving farther from water, maybe there's less transpiration? Not sure yet."
+    ]
+  },
+  "875": {
+    "question": "As they are immobile, what is an example of how animal life helps the reproduction cycle of plants?",
+    "selected_facts": [
+      "An example of seed dispersal is an animal gathering seeds",
+      "A female insect lays eggs during the adult stage of an insect 's life cycle (maybe because insects can carry pollen or seeds)",
+      "As the weight of an animal decreases, that animal will fly more easily (though this seems less relevant)"
+    ]
+  },
+  "9-290": {
+    "question": "Stopped means lack of what?",
+    "selected_facts": []
+  },
+  "829": {
+    "question": "Where did Puppigerus live?",
+    "selected_facts": [
+      "Pollen sticks to hummingbirds and moves where they go.",
+      "Planting trees as a natural resource replacement.",
+      "Resistance increasing makes tasks harder."
+    ]
+  },
+  "9-305": {
+    "question": "The circulatory system brings oxygen to the body from where?",
+    "selected_facts": [
+      "Fact 1 says the circulatory system brings oxygen from the lungs to the rest of the body. This seems directly relevant because it mentions the source (lungs) and what happens (oxygen being brought by the circulatory system).",
+      "Fact 2 states that the respiratory system transfers oxygen to the circulatory system. This is also important because it shows how oxygen moves from one system to another, specifically linking the respiratory and circulatory systems.",
+      "Fact 5 mentions the respiratory system taking in oxygen from the air. While this explains where the oxygen comes from initially, it's a bit more general. However, it helps establish that the respiratory system is involved in getting oxygen into the body before the circulatory system distributes it."
+    ]
+  },
+  "7-1036": {
+    "question": "A renewable resource is used to produce",
+    "selected_facts": []
+  },
+  "854": {
+    "question": "Which relationship involves inheritance?",
+    "selected_facts": []
+  },
+  "368": {
+    "question": "A source of heat at the resort is the",
+    "selected_facts": [
+      "The sun is a source of heat called sunlight.",
+      "A radiator is a source of heat.",
+      "An oven is a source of heat."
+    ]
+  },
+  "8-481": {
+    "question": "A pelican is hungry, so decides to try to catch some fish. In order to do this, the pelican will",
+    "selected_facts": [
+      "\"some predators move quickly to catch prey\"",
+      "\"an animal knows how to do instinctive behaviors when it is born\"",
+      "\"if an organism 's prey moves quickly then that organism may need to move quickly to catch its prey\""
+    ]
+  },
+  "7-291": {
+    "question": "A car engine usually uses combustion to convert this into a motion and heat.",
+    "selected_facts": [
+      "\"a car engine usually converts gasoline into motion and heat through combustion\" - This directly answers the question because it mentions combustion and the conversion of gasoline to motion and heat.",
+      "\"an electric car uses less gasoline than a regular car\" - While this is interesting, it doesn't directly explain how combustion in a regular car engine works. It's more about comparing different types of cars.",
+      "\"a car engine is a source of heat\" - This supports fact 1 because it highlights that the engine produces heat, which is part of the conversion process mentioned in fact 1."
+    ]
+  },
+  "8-331": {
+    "question": "A magnetic effect could pull two rocks together if they're",
+    "selected_facts": [
+      "**Fact 1:** \"magnetic attraction pulls two objects together.\" This directly mentions magnetic attraction causing objects to pull together, so this seems relevant.",
+      "**Fact 2:** \"sedimentary rocks are formed from sediment compacting together.\" Hmm, this is about how sedimentary rocks form, but I don't see a direct link to magnetism here. Maybe not the most relevant.",
+      "**Fact 3:** \"tapping two objects together causes the particles in those objects to vibrate.\" This seems unrelated to magnetic effects or rocks being pulled together."
+    ]
+  },
+  "7-698": {
+    "question": "plant life is completely dependent on what?",
+    "selected_facts": []
+  },
+  "9-435": {
+    "question": "Refraction can easily be witnessed in",
+    "selected_facts": [
+      "Organisms preserved in sedimentary rock \u2013 no.",
+      "Carbon dioxide in air \u2013 no.",
+      "Dry wood burns easily \u2013 no."
+    ]
+  },
+  "1158": {
+    "question": "When turned on, which product cannot convert electrical energy into light energy?",
+    "selected_facts": []
+  },
+  "8-86": {
+    "question": "A man is trying to describe a single vat of juice he has. He needs the best way to tell his friend about the object, so he says",
+    "selected_facts": [
+      "An animal needs to eat food for nutrients. Hmm, not directly related to a vat of juice. Unless... if the juice is made from fruits that require pollinators? But I don't think this is the main point here.",
+      "The volume of an object can be used to describe its size. Oh, okay, so if he's talking about a vat, which is a container, describing its volume would help his friend understand how much juice there is. That makes sense.",
+      "Hypothesis means a scientific guess. I don't see the connection here. Unless they're discussing experiments with the juice, but that doesn't seem relevant to just describing it."
+    ]
+  },
+  "7-951": {
+    "question": "To prevent illness",
+    "selected_facts": [
+      "**Fact 1**: Vaccines are a proven method to prevent diseases, making it highly relevant.",
+      "**Fact 2**: Reducing bacteria in food prevents foodborne illnesses, which is a direct preventive measure.",
+      "**Fact 3**: Highlights the negative impact of illness on health, emphasizing the importance of prevention."
+    ]
+  },
+  "7-524": {
+    "question": "An island can sprout up from seemingly suddenly because",
+    "selected_facts": []
+  },
+  "1525": {
+    "question": "What increases the number of pollinators a flower will attract?",
+    "selected_facts": [
+      "Flower size increasing leads to more pollinators.",
+      "More fragrance means more pollinators.",
+      "More pollinators help reproduction, but it doesn't directly say what increases them."
+    ]
+  },
+  "452": {
+    "question": "When water freezes, that water",
+    "selected_facts": []
+  },
+  "692": {
+    "question": "Where might you find the substance used to make the shiny metallic foil paper used in cooking?",
+    "selected_facts": [
+      "Sonar is used to find the location of an object \u2013 Hmm, not directly related to materials used in foil.",
+      "Coloration is used by some animals to find a mate \u2013 This seems unrelated; it's about animal behavior.",
+      "Dissolving a substance in water causes the water to taste like that substance \u2013 Not sure how this ties into metallic foil production."
+    ]
+  },
+  "375": {
+    "question": "Sunlight transfers heat energy to",
+    "selected_facts": []
+  },
+  "7-380": {
+    "question": "Chloroplasts exist in plants and can be located by knowing where",
+    "selected_facts": [
+      "Electromagnets can be powered by electricity \u2013 This seems unrelated because electromagnets and electricity don't have a direct connection to chloroplasts or plants.",
+      "Sound can be used for communication by animals \u2013 Again, this is about animal behavior, not plant cells or chloroplasts.",
+      "New land can be formed by volcanoes erupting by lava cooling \u2013 This is related to geography and geology, which doesn't tie into the biology of chloroplasts."
+    ]
+  },
+  "1305": {
+    "question": "You can get Vitamin D from",
+    "selected_facts": [
+      "Vitamin D heals bones - This talks about the benefit of Vitamin D but not the source.",
+      "Dairy is a source of Vitamin D - This directly states a source, so this seems relevant.",
+      "Eating food is used to get nutrients by living things - This is general and doesn't specify Vitamin D sources, but maybe it's somewhat related since some foods have Vitamin D."
+    ]
+  },
+  "7-2": {
+    "question": "Humans swim in the liquid form of",
+    "selected_facts": []
+  },
+  "7-504": {
+    "question": "Birds with more angular beaks",
+    "selected_facts": []
+  },
+  "9-1048": {
+    "question": "It takes the Earth one year to go around the sun. It takes the moon how long to make one revolution around our planet?",
+    "selected_facts": [
+      "Earth takes one year to revolve around the sun.",
+      "Same as fact 1 but uses \"solar year.\"",
+      "Moon takes one month to revolve around Earth."
+    ]
+  },
+  "698": {
+    "question": "What might be the natural habitat of a small creature known for making a noise by scraping limbs together?",
+    "selected_facts": []
+  },
+  "9-526": {
+    "question": "Human planet that is orbited by what?",
+    "selected_facts": [
+      "Protein repairing cells: Not directly related to orbiting objects.",
+      "Planet rotation causing day and night: While true, it doesn't address what orbits the planet.",
+      "Mass causing gravity: Gravity does relate because it's why things can orbit a planet."
+    ]
+  },
+  "8-396": {
+    "question": "What can keep you moisturized other than water?",
+    "selected_facts": [
+      "Minerals and scratching \u2013 no.",
+      "Reusable products \u2013 yes.",
+      "Magnetism \u2013 no."
+    ]
+  },
+  "50": {
+    "question": "A change in the Earth is",
+    "selected_facts": []
+  },
+  "9-499": {
+    "question": "Which of these items can a human move by pedal power?",
+    "selected_facts": []
+  },
+  "7-1054": {
+    "question": "Some vapor is condensing now because it has less",
+    "selected_facts": [
+      "Water vapor condensing in clouds causes rain. This seems relevant because it directly mentions condensation leading to precipitation.",
+      "Fog is formed by water vapor condensing in the air. Again, this shows a natural process where condensation occurs in the atmosphere.",
+      "Clouds are formed by water vapor rising and condensing. This ties into how clouds form, which involves condensation as well."
+    ]
+  },
+  "9-101": {
+    "question": "A person wants to turn on their fan to cool down their room. In order to do this, they will have to",
+    "selected_facts": [
+      "Animals adapt to their environment \u2013 This seems unrelated because it's about biology and adaptation, not about fans or electricity.",
+      "Reproductive behavior of salmon \u2013 Also unrelated; it's about animal behavior during reproduction.",
+      "Electrical device needs electricity \u2013 This is relevant because a fan is an electrical device that requires power to operate."
+    ]
+  },
+  "150": {
+    "question": "What converts electrical energy into light energy in a light bulb?",
+    "selected_facts": []
+  },
+  "9-1111": {
+    "question": "A river can disappear over a period of time?",
+    "selected_facts": []
+  },
+  "9-888": {
+    "question": "Herbivores contribute to the same type of plants they eat when:",
+    "selected_facts": [
+      "Herbivores only eat plants.",
+      "Omnivores eat plants.",
+      "Rabbits eat plants."
+    ]
+  },
+  "1456": {
+    "question": "What is natural gas?",
+    "selected_facts": [
+      "Natural gas is a nonrenewable resource (Fact 1)",
+      "Natural gas is a source of heat by burning (Fact 3)",
+      "Heat and pressure change the remains of prehistoric living things into natural gas (Fact 9)"
+    ]
+  },
+  "7-494": {
+    "question": "Corn is eaten by",
+    "selected_facts": [
+      "**Fact 1**: Ethanol production from corn is a direct use of corn, so this is relevant.",
+      "**Fact 4** and **Fact 9**: These discuss soil formation and valley creation, which are essential for growing corn but don't directly mention what eats corn."
+    ]
+  },
+  "1723": {
+    "question": "Decomposition",
+    "selected_facts": []
+  },
+  "1275": {
+    "question": "Sunlight",
+    "selected_facts": []
+  },
+  "8-235": {
+    "question": "A temperature in the negatives during the night got slightly less negative during the day, which means it got more",
+    "selected_facts": [
+      "nocturnal predators hunt during the night - Hmm, not directly related to temperature changes.",
+      "as temperature during the day increases, environment temp will increase - This seems relevant because it's about how temperature behaves over the day and night cycle.",
+      "stars appear to move relative to the horizon at night - Not related to temperature."
+    ]
+  },
+  "239": {
+    "question": "Deer entered the city",
+    "selected_facts": []
+  },
+  "1083": {
+    "question": "Science fact: a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving",
+    "selected_facts": [
+      "This one directly mentions carbonic acid in groundwater dissolving limestone to form caverns. That seems very relevant because it aligns exactly with the science fact provided.",
+      "Metamorphic rocks forming from heat and pressure. That's a different process than the dissolution involved in cave formation, so I can skip this.",
+      "Piles of rock from melting glaciers. This is about sedimentary processes but not directly related to cavern dissolution by carbonic acid."
+    ]
+  },
+  "9-277": {
+    "question": "Remora fish",
+    "selected_facts": [
+      "Remoras attach to sharks and eat leftover food.",
+      "Eagles eat fish.",
+      "Alligators eat fish."
+    ]
+  },
+  "9-1105": {
+    "question": "the hourly totals of sunshine are directly connect to",
+    "selected_facts": [
+      "The sun being overhead at noon affects sunlight totals.",
+      "Shadows changing size as the sun moves, impacting how we measure or understand sunlight distribution."
+    ]
+  },
+  "9-299": {
+    "question": "What does the earth orbit that causes the seasons to change?",
+    "selected_facts": [
+      "**Earth orbiting the Sun**: This is essential as it brings different parts of Earth into varying positions relative to the Sun throughout the year.",
+      "**Earth's tilt on its axis**: The 23.5-degree tilt means that sunlight distribution changes as Earth orbits, leading to seasons.",
+      "**Tilt causing seasons**: Directly links the tilt to seasonal occurrence, emphasizing the primary cause."
+    ]
+  },
+  "7-596": {
+    "question": "There are metals which will always point north such as",
+    "selected_facts": [
+      "The floating arrow on a compass always points towards the north.",
+      "Freezing point means temperature at which a liquid freezes.",
+      "Freezing point means temperature below which a liquid freezes."
+    ]
+  },
+  "9-59": {
+    "question": "A plant root growing into rock cracks is an example of what?",
+    "selected_facts": [
+      "An example of weathering is when a plant root grows into a crack in rock.",
+      "Creating an alternative fuel from plant material.",
+      "Example of a fossil being a footprint in rock."
+    ]
+  },
+  "7-810": {
+    "question": "So many environments receive large amounts of rain, though an exception is",
+    "selected_facts": [
+      "Rocks often contain large amounts of metal.",
+      "The ocean contains large amounts of salt water.",
+      "A community is made of many types of organisms in an area."
+    ]
+  },
+  "7-254": {
+    "question": "A white environment is likely to be found",
+    "selected_facts": []
+  },
+  "1398": {
+    "question": "One step in creating an alternative fuel is",
+    "selected_facts": [
+      "Directly provides an example of creating alternative fuel from plant material.",
+      "Explains that alternative fuels are renewable, which could be a characteristic but doesn't describe a step.",
+      "Conservation is about reducing use, not directly creating fuel."
+    ]
+  },
+  "7-207": {
+    "question": "Taking a fingernail and pressing it to salt will show",
+    "selected_facts": [
+      "This fact talks about shower time and water usage. Doesn't seem related at all.",
+      "Adding salt to liquid affects melting point. Maybe relevant if we're talking about liquids, but the question is about pressing a fingernail on salt, which is a solid.",
+      "Adding salt to a solid changes freezing point. Hmm, that might be more about temperature effects rather than physical scratching or pressure."
+    ]
+  },
+  "8-230": {
+    "question": "why would a mouse run away from a cat?",
+    "selected_facts": [
+      "A mouse gives birth to live young.",
+      "Winter is when a hemisphere is tilted away from the sun.",
+      "The stars in the night sky are very far away from Earth."
+    ]
+  },
+  "8-47": {
+    "question": "which of these would most likely reject a really nice burger?",
+    "selected_facts": [
+      "Oceans contain most of Earth's water.",
+      "The type of material through which sound passes changes the speed of sound.",
+      "Most animals avoid bad odors."
+    ]
+  },
+  "1201": {
+    "question": "Earth rotating on its axis",
+    "selected_facts": []
+  },
+  "1368": {
+    "question": "The Grand Canyon was formed by the Colorado river by what?",
+    "selected_facts": []
+  },
+  "7-15": {
+    "question": "A golden eagle will hunt using its talons to collect",
+    "selected_facts": [
+      "Nocturnal predators hunt during the night.",
+      "Using a car causes pollution.",
+      "Using less resources usually causes money to be saved."
+    ]
+  },
+  "1372": {
+    "question": "The next moon phase after a solar eclipse is",
+    "selected_facts": [
+      "The first quarter phase of the moon occurs after the new moon.",
+      "A solar eclipse could only happen during the new moon.",
+      "A different moon phase occurs once per week."
+    ]
+  },
+  "164": {
+    "question": "Of the following household items, which is recyclable?",
+    "selected_facts": [
+      "The first fact talks about how the type of material affects the speed of sound passing through it. That doesn't seem relevant at all to recycling.",
+      "The second fact is about a planet being exposed to a star's heat. Again, not related to recycling or household items.",
+      "This one defines freezing point as the temperature where a liquid freezes. Still not directly connected to recyclability."
+    ]
+  },
+  "9-1159": {
+    "question": "What can you find in a forest",
+    "selected_facts": []
+  },
+  "7-1166": {
+    "question": "Animals without teeth sometimes eat",
+    "selected_facts": [
+      "Birds sometimes eat berries.",
+      "Birds sometimes eat insects.",
+      "Birds sometimes eat seeds."
+    ]
+  },
+  "7-623": {
+    "question": "If someone is dying of thirst, they can hydrate by",
+    "selected_facts": [
+      "Seasonal changes cause plants to die in winter.",
+      "Mineral hardness by fingernail scratch.",
+      "Sugar dissolves in water when combined."
+    ]
+  },
+  "1691": {
+    "question": "Magnets may be attracted to",
+    "selected_facts": [
+      "Drought may cause wildfires.",
+      "If a magnet is attracted to a metal then that magnet will stick to that metal.",
+      "As the number of pollinators attracted to a flower increases, the ability of that flower to reproduce will increase."
+    ]
+  },
+  "79": {
+    "question": "If a lot of people have forgotten about a product, the amount of money made by the person selling it will be",
+    "selected_facts": [
+      "**Fact 1:** As sales decrease, the amount of money made by the seller decreases."
+    ]
+  },
+  "9-643": {
+    "question": "What is the largest organ of the human body?",
+    "selected_facts": []
+  },
+  "7-33": {
+    "question": "What creates a valley?",
+    "selected_facts": [
+      "An electron microscope creates a picture. Hmm, that's about microscopy, not related to valleys.",
+      "Shivering is when an animal creates heat by shaking to keep the body warm. That's about animal physiology; no connection here.",
+      "A computer controls a robot. Robotics and computers don't seem relevant to valley formation."
+    ]
+  },
+  "85": {
+    "question": "What becomes smoother through weathering?",
+    "selected_facts": [
+      "\"something in a cold place becomes cold\" \u2013 This is about temperature change, not directly about weathering or becoming smoother. Doesn't seem relevant.",
+      "\"if an organism becomes too hot then that organism may die\" \u2013 Again, about temperature and organisms dying. Not related to smoothing via weathering.",
+      "\"if a tree falls then sunlight becomes available to the surrounding plants\" \u2013 This is about plant growth and ecology, not physical weathering processes or materials becoming smoother."
+    ]
+  },
+  "9-426": {
+    "question": "What eats other organisms?",
+    "selected_facts": []
+  },
+  "522": {
+    "question": "Ice can fall down as",
+    "selected_facts": [
+      "Ice wedging is when ice causes rocks to crack by expanding in openings.",
+      "Sleet is made of ice.",
+      "A glacier is made of ice."
+    ]
+  },
+  "9-1098": {
+    "question": "Rocks sometimes contain what?",
+    "selected_facts": []
+  },
+  "8-64": {
+    "question": "The insect's cocoon being created occurs during the",
+    "selected_facts": [
+      "\"the cocoons being created occurs during the the pupa stage in a life cycle\" \u2013 This seems directly related because it mentions the cocoon creation during the pupa stage.",
+      "\"reproduction occurs during adulthood\" \u2013 While reproduction is part of the life cycle, the question is about cocoon creation, so this might not be as relevant unless I'm connecting stages.",
+      "\"chemical splashing sometimes occurs during experiments\" \u2013 This seems unrelated; it's more about experimental procedures than life cycles."
+    ]
+  },
+  "1105": {
+    "question": "What happens to a cat's fur in the summer?",
+    "selected_facts": [
+      "Some animals shed fur in warm weather.",
+      "When an animal sheds its fur, its fur becomes less dense.",
+      "Seasonal changes are made in response to changes in the environment."
+    ]
+  },
+  "220": {
+    "question": "The element that heats toast is an example of:",
+    "selected_facts": [
+      "Greenhouse effect: This involves carbon in the air heating the atmosphere. That's more about Earth's climate, not directly related to heating toast.",
+      "Hitting something with an example: Not relevant here since it's about physical impact, not heating.",
+      "Adaptation example: Camels' humps are for storing fat, which is unrelated to heating elements."
+    ]
+  },
+  "9-545": {
+    "question": "nest sitting is left up to the",
+    "selected_facts": [
+      "A nest is made of branches - This directly mentions nests. It's relevant because it explains what a nest consists of.",
+      "Remora fish eat food by attaching themselves to sharks... - Doesn't seem related to nests or sitting.",
+      "Kettle formation from ice melting - Also unrelated; this is about geology."
+    ]
+  },
+  "1764": {
+    "question": "After evaporation water becomes",
+    "selected_facts": []
+  },
+  "128": {
+    "question": "A magnet will stick to which of the following?",
+    "selected_facts": [
+      "If a magnet is attracted to a metal then that magnet will stick to that metal.",
+      "Seeds sticking to fur for transportation.",
+      "Meter stick used to measure length."
+    ]
+  },
+  "9-1054": {
+    "question": "Rocks may be rounded by",
+    "selected_facts": [
+      "Soil formation through rock erosion.",
+      "Electromagnets powered by electricity \u2013 doesn't seem related.",
+      "Drought causing wildfires \u2013 not relevant here."
+    ]
+  },
+  "7-867": {
+    "question": "A black wall reflects little light, a pink wall reflects pink light a while wall",
+    "selected_facts": [
+      "A mirror reflects light.",
+      "A white object reflects all visible light.",
+      "If an object is blue then it reflects only blue light."
+    ]
+  },
+  "9-1097": {
+    "question": "What do octopuses release to blind predators?",
+    "selected_facts": [
+      "**Fact 4**: Directly mentions that ink is used by octopuses for hiding from predators, indicating it's a defense mechanism.",
+      "**Fact 5**: Explains the effect of ink on predators, stating that it causes difficulty in seeing the octopus.",
+      "Other facts do not address octopuses' defensive mechanisms or their interaction with predators."
+    ]
+  },
+  "9-351": {
+    "question": "Hypothermia will set in under which conditions:",
+    "selected_facts": [
+      "Volcanoes under oceans: Doesn't seem related to body temperature or hypothermia.",
+      "Nighttime and sun setting: Maybe relevant because nighttime is colder, which could contribute to hypothermia if someone is exposed without proper clothing.",
+      "Sound speed through materials: Unrelated to temperature effects on the human body."
+    ]
+  },
+  "9-684": {
+    "question": "What contains moons?",
+    "selected_facts": [
+      "Fruit contains seeds.",
+      "Breath contains water vapor.",
+      "Sunlight contains ultraviolet light."
+    ]
+  },
+  "8-444": {
+    "question": "What would be used to measure the substance which historically the Dutch and other farmers used to power the blades on the structure which moves water from low to highlands?",
+    "selected_facts": [
+      "Nerves can feel heat and pressure: That's about human senses, not really a measurement tool.",
+      "Tape measure for length: Well, tape measures are used for linear measurements but maybe not directly related to measuring wind.",
+      "Tape measure for distance: Similar to above; perhaps more about spatial measurement rather than substance."
+    ]
+  },
+  "8-456": {
+    "question": "What is it called when h20 falls from a fluffy object to land on the top of cloth suspended on a rod?",
+    "selected_facts": [
+      "**Adult amphibians live on land** - Not related to water or falling, so probably not useful here.",
+      "**Earthquakes cause rock layers to fold on top of each other** - Earthquakes and geology don't seem connected to the scenario described.",
+      "**Precipitation is when water falls from the sky** - This is about water (H2O) falling, which seems relevant because precipitation involves H2O moving downward."
+    ]
+  },
+  "1557": {
+    "question": "Which decreases visibility while driving?",
+    "selected_facts": [
+      "Fact 1: directly states bad weather decreases visibility.",
+      "Fact 9: drought could lead to conditions reducing visibility (e.g., dust).",
+      "Fact 2: although about consequences, it's connected as a result of decreased visibility."
+    ]
+  },
+  "9-798": {
+    "question": "What animal can live without oxygen",
+    "selected_facts": []
+  },
+  "8-326": {
+    "question": "Which would be the product of a solid that was brought above its melting point?",
+    "selected_facts": []
+  },
+  "8-440": {
+    "question": "if your shoe changes form at a certain heat level, what can that be described as?",
+    "selected_facts": [
+      "**Fact 1**: Talks about an object reflecting light of a certain color appearing that color. Hmm, not directly related to changing form with heat.",
+      "**Fact 2**: Discusses discovering the color of an object by looking. Again, seems more about appearance than physical change due to heat.",
+      "**Fact 3**: Metamorphosis is when an animal changes from immature to adult form. While it's a change, it refers specifically to life stages in animals, not materials changing with temperature."
+    ]
+  },
+  "9-571": {
+    "question": "An inherited characteristic present in a baby is",
+    "selected_facts": []
+  },
+  "1734": {
+    "question": "Vaccines",
+    "selected_facts": []
+  },
+  "1708": {
+    "question": "Jim wanted baby chickens so he gathered eggs and used a",
+    "selected_facts": [
+      "Chickens cluck - That\u2019s true, but it doesn\u2019t directly relate to reproduction or hatching.",
+      "Fish lay eggs - While fish do lay eggs, this isn't relevant to Jim getting baby chickens.",
+      "Birds lay eggs - This is relevant because chickens are birds, so they lay eggs for reproduction."
+    ]
+  },
+  "9-800": {
+    "question": "A beaver is going to experience a long winter in the upcoming months. The beaver knows that the weather is changing, so it begins to eat more and more food, knowing that it can survive meager months by being",
+    "selected_facts": [
+      "Earth absorbs more energy than it loses \u2013 This might relate to climate or seasons but seems a bit abstract.",
+      "Animals know instinctive behaviors from birth \u2013 This is relevant because beavers instinctively prepare for winter.",
+      "Floods occur when water exceeds holding capacity \u2013 Doesn't seem related to food intake."
+    ]
+  },
+  "9-151": {
+    "question": "Lighting a candle will cause the candle to",
+    "selected_facts": [
+      "Directly related.",
+      "Related as an effect of burning.",
+      "Seasons change environment \u2013 unrelated."
+    ]
+  },
+  "7-535": {
+    "question": "Viewing stars is made easier by",
+    "selected_facts": [
+      "**Fact 2**: Nuclear reactions in stars cause them to produce light, making them visible.",
+      "**Fact 5**: Telescopes are specifically used for observing stars, aiding in their viewing.",
+      "**Fact 4**: Magnification helps in seeing distant objects, which is a principle applied by telescopes."
+    ]
+  },
+  "9-329": {
+    "question": "Nerves are used to feel what on the skin?",
+    "selected_facts": [
+      "nerves can be used to feel heat and pressure on the skin",
+      "nerves are made of nerve cells",
+      "seconds are used to measure time"
+    ]
+  },
+  "7-556": {
+    "question": "Substances may be combined by the pouring of one into another, for example when",
+    "selected_facts": []
+  },
+  "8-158": {
+    "question": "A winter storm is ravaging a city, so weather advisories are put out to the public. However, a man still need to get to work on time, so he takes his car on the highway. While driving, he discovers",
+    "selected_facts": [
+      "Decrease in visibility causes crashes.",
+      "Bad weather decreases visibility.",
+      "Earth's rotation takes one day."
+    ]
+  },
+  "1637": {
+    "question": "The southern and northern hemisphere's seasons are opposite each other, so when the northern hemisphere is having it's longest day, it's the southern hemisphere's",
+    "selected_facts": []
+  },
+  "483": {
+    "question": "A person could get in trouble for doing what in a protected environment?",
+    "selected_facts": [
+      "\"Doing chores is a learned characteristic.\" - This seems unrelated. Chores are everyday tasks and not specific to environmental protection issues.",
+      "\"A solar eclipse could only happen during the new moon.\" - This is about astronomy, not about human actions in protected areas. Doesn't seem relevant.",
+      "\"Eating food is used to get nutrients by living things.\" - While eating is a natural process, it's too broad and doesn't specify any prohibited activity in protected areas."
+    ]
+  },
+  "9-250": {
+    "question": "which of these would disturb a standing body of water?",
+    "selected_facts": [
+      "This talks about the speed of sound through different materials. Doesn't seem directly related to disturbing water.",
+      "Evaporation increases with surface area. If more water evaporates, it can reduce the volume and possibly cause disturbances like waves or ripples as the surface changes.",
+      "Just defines a body of water as a source of water. Not helpful in causing disturbance."
+    ]
+  },
+  "790": {
+    "question": "There are twenty-four new seasons in",
+    "selected_facts": []
+  },
+  "9-143": {
+    "question": "We are trying to use air as sources of energy because there is an infinite amount of it, same with water. These are two examples of",
+    "selected_facts": [
+      "Alloys made of metals - Doesn't seem related.",
+      "Crop use increasing leading to more crops planted - Maybe relates to resource use, but not directly about energy sources.",
+      "Alternative fuels increasing lead to less gasoline - This is relevant because it talks about using alternative sources (like air or water) instead of traditional ones like gasoline. So this fits the idea of switching to other abundant resources."
+    ]
+  },
+  "855": {
+    "question": "What does photosynthesis require",
+    "selected_facts": [
+      "a leaf performs photosynthesis (as it's about the process itself)",
+      "plants require water for growth (water is needed)",
+      "living things all require energy for survival (energy from sunlight)"
+    ]
+  },
+  "7-949": {
+    "question": "Sugar may increase the sweetness of a dish such as in",
+    "selected_facts": [
+      "**Fact 3**: Producers (like plants) are sources of sugar used in cooking.",
+      "**Fact 6**: Sugar dissolves in water, enhancing flavor."
+    ]
+  },
+  "1348": {
+    "question": "Which is recyclable",
+    "selected_facts": [
+      "**Fact 1: \"paper is recyclable\"** - This directly answers part of the question. It tells us that paper can be recycled.",
+      "**Fact 2: \"aluminum is recyclable\"** - Similarly, this fact states another material that's recyclable.",
+      "**Fact 3: \"recyclable means a material can be recycled\"** - This defines what recyclable means, which provides the necessary context for understanding the other facts about paper and aluminum."
+    ]
+  },
+  "941": {
+    "question": "If two blocks have unequal mass, which will speed up the most with a common force applied",
+    "selected_facts": []
+  },
+  "7-957": {
+    "question": "Sea turtles share space with",
+    "selected_facts": [
+      "**Deep sea animals live deep in the ocean**: This highlights other creatures coexisting in the same environment as sea turtles.",
+      "**Producing light is used for attracting prey by some deep sea animals**: This describes behaviors of marine life that might interact with or be near sea turtles.",
+      "**Pollution is when humans pollute the environment with pollutants**: This addresses environmental factors affecting the shared habitat of sea turtles."
+    ]
+  },
+  "8-12": {
+    "question": "Some fish species, when hunting, will lurk in the shallowest portions of water and actually leave the water in order to capture prey. These fish are able to hunt in this fashion after years of",
+    "selected_facts": [
+      "A fish lives in water - Well, all fish live in water, but does this explain why they leave it to hunt? Maybe not directly, but it sets the context.",
+      "If food and water decrease, animals might leave their environment - This seems relevant because if resources are scarce, leaving to find more makes sense for survival, which is about hunting behavior.",
+      "Sugar dissolves in water - I don't think this is related at all. It's about chemistry, not behavior or hunting."
+    ]
+  },
+  "8-198": {
+    "question": "if a person had one of these, they could live permanently under water",
+    "selected_facts": []
+  },
+  "1578": {
+    "question": "Storms lead to",
+    "selected_facts": []
+  },
+  "6": {
+    "question": "What is the ultimate source of greeting cards?",
+    "selected_facts": [
+      "**Nature is the source of natural resources** - Well, greeting cards are made from materials like paper, which comes from trees. Trees are part of nature, so this could be relevant because without natural resources, we wouldn't have the raw materials to make the cards.",
+      "**Rain is a source of water** - I'm not sure how rain directly relates to greeting cards. Maybe indirectly through hydroelectric power for manufacturing? But that seems too removed. Probably not the most relevant.",
+      "**Oil is a source of gasoline** - Gasoline powers vehicles, which transport materials needed for making greeting cards. However, oil isn't directly used in the production of paper or printing, so it's somewhat indirect."
+    ]
+  },
+  "9-1002": {
+    "question": "Which animal is known to have many learned behaviors?",
+    "selected_facts": [
+      "If an animal is trained to do something then that something is a learned behavior.",
+      "Using tools is a learned characteristic.",
+      "Doing chores is a learned characteristic."
+    ]
+  },
+  "9-838": {
+    "question": "More sunlight will be absorbed by",
+    "selected_facts": [
+      "\"as the size of a leaf increases, the amount of sunlight absorbed by that leaf will increase.\" - This seems relevant because a larger leaf has more surface area, so it can absorb more sunlight. That makes sense in terms of absorption.",
+      "\"something reusable can be used more than once\" - Hmm, not sure how this relates to sunlight absorption. It's about reusability but doesn't directly connect to absorbing light.",
+      "\"as the size of an object appears larger, that object will be seen more easily\" - This is about visibility, not absorption. Maybe if something looks bigger, it might catch more light, but I'm not sure if this is the best fit."
+    ]
+  },
+  "7-305": {
+    "question": "A predator such as a hawk may kill prey by",
+    "selected_facts": []
+  },
+  "9-1004": {
+    "question": "The stars in the night sky make a yearly",
+    "selected_facts": []
+  },
+  "1445": {
+    "question": "What is an example of a change in the Earth?",
+    "selected_facts": [
+      "\"An example of a seasonal change is plants dying in the winter.\" This talks about seasonal change affecting plants, which is a type of change but more specific to seasons.",
+      "\"An example of a seasonal change is plants becoming dormant in the winter.\" Similar to fact 1, it's about seasonal changes but again specific to plant behavior during winter.",
+      "\"An example of a change in the Earth is an ocean becoming a wooded area.\" This seems like a significant geographical or geological change over time, which fits the question well because it shows how land features can transform."
+    ]
+  },
+  "8-465": {
+    "question": "when it turns day and night on a planet, what cause this?",
+    "selected_facts": []
+  },
+  "9-211": {
+    "question": "What is it called when a cell converts oxygen and carbohydrates into carbon dioxide, water, and energy?",
+    "selected_facts": [
+      "Cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy.",
+      "Photosynthesis makes food for plants by converting CO2, water, and sunlight into carbs.",
+      "Similar to 2 but mentions energy instead of food."
+    ]
+  },
+  "1847": {
+    "question": "Environments which are forested are often green; what is an example of this?",
+    "selected_facts": [
+      "Volcanoes under oceans: Not directly related to green environments.",
+      "Cold environments being white from snow: Opposite of green, so not relevant.",
+      "Water being brackish in estuaries: Not about color or forests."
+    ]
+  },
+  "645": {
+    "question": "Why might a person fall asleep after being lost in a forest on a freezing cold day?",
+    "selected_facts": [
+      "\"something in a cold place becomes cold\" - This explains how the freezing environment affects body temperature, leading to hypothermia and subsequent sleepiness.",
+      "\"a dense forest environment is often dark in color\" - The darkness of the forest contributes to disorientation and stress, increasing exhaustion and making it harder to stay alert.",
+      "\"the arctic environment is cold in temperature from being at a northern latitude below 0 degrees celsius during most of the year\" - This highlights the extreme cold conditions that exacerbate heat loss and accelerate hypothermia."
+    ]
+  },
+  "9-4": {
+    "question": "A plant stem contains a system of tubes for transporting water and nutrients to",
+    "selected_facts": [
+      "a plant stem contains a system of tubes for transporting water and nutrients to other parts of the plant",
+      "a plant stem is the vehicle for transporting water and food from roots to the rest of the plant",
+      "a stem is used to store water by some plants"
+    ]
+  },
+  "8-214": {
+    "question": "What does a tuna have that causes it to swim faster than a seahorse?",
+    "selected_facts": [
+      "Tuna eat fish, which could provide them with more energy for swimming.",
+      "Octopuses releasing ink confuses predators, indicating that some sea creatures need speed to evade threats, though not directly about tuna or seahorses."
+    ]
+  },
+  "1629": {
+    "question": "What do city-dwellers eat?",
+    "selected_facts": [
+      "\"As the population of plants decreases, carbon in the atmosphere will increase.\" This relates to how changes in plant populations could affect agriculture and thus the availability of certain foods for city-dwellers.",
+      "\"As the population of prey decreases, competition between predators will increase.\" This suggests that if certain food sources (prey) become scarce, there might be increased competition for them, potentially affecting what city-dwellers eat.",
+      "\"As the sale of a product decreases, the amount of money made by the person selling that product will decrease.\" This indicates economic trends in food consumption, showing which foods are less popular or available in cities based on sales data."
+    ]
+  },
+  "7-419": {
+    "question": "Pollinators are attracted to",
+    "selected_facts": [
+      "\"as the number of pollinators attracted to a flower increases, the ability of that flower to reproduce will increase.\" This seems relevant because it connects the number of pollinators to reproductive success, which ties into why plants attract them.",
+      "\"if a magnet is attracted to a metal then that magnet will stick to that metal.\" This doesn't seem related at all; it's about magnets and metals, not biology or pollination.",
+      "\"nectar is used for attracting pollinators by plants.\" Nectar is a key attractant for many pollinators like bees and butterflies, so this fact directly addresses what attracts them."
+    ]
+  },
+  "8-104": {
+    "question": "A man wants to create a room that he can light up with the flick of a switch. To do this, he sends some electricity into a completed electrical circuit, through a conductor, which allows",
+    "selected_facts": [
+      "Electrical current through a wire causes it to heat up.",
+      "Incandescent bulbs convert electricity into light via a filament.",
+      "Sending electricity through a conductor allows current to flow."
+    ]
+  },
+  "9-680": {
+    "question": "Leaves play an important role in photosynthesis by being",
+    "selected_facts": [
+      "Fact 1: Oxygen is a waste product in photosynthesis. This is true but doesn't directly relate to the role of leaves.",
+      "Fact 2: Carbon dioxide is a raw material. Also true, but again, more about inputs than the role of leaves.",
+      "Fact 3 and 4: Decomposers and producers as ecosystem roles. Not relevant here since the question is about the specific function of leaves in photosynthesis."
+    ]
+  },
+  "9-640": {
+    "question": "A wasp will use it's stinger",
+    "selected_facts": []
+  },
+  "1566": {
+    "question": "Lemonade tastes like",
+    "selected_facts": [
+      "When an animal eats or drinks something, that animal tastes that something.",
+      "An example of camouflage is an organism looking like leaves.",
+      "An example of camouflage is when an organism looks like its environment."
+    ]
+  },
+  "1220": {
+    "question": "During seasonal changes, like from summer to fall, what is a common noted change?",
+    "selected_facts": [
+      "June is during summer in the Northern Hemisphere.",
+      "December is summer in the Southern Hemisphere.",
+      "Winter in the Northern Hemisphere is summer in the Southern Hemisphere."
+    ]
+  },
+  "9-104": {
+    "question": "A bird would find nest making materials in a",
+    "selected_facts": []
+  },
+  "1653": {
+    "question": "The inventor of pasteurization also worked on",
+    "selected_facts": [
+      "Louis Pasteur invented pasteurization \u2013 this is given and relevant.",
+      "Pasteurization reduces bacteria in milk \u2013 that's about how pasteurization works, but it doesn't talk about other works of Pasteur.",
+      "Earth rotates on its axis \u2013 seems unrelated to Pasteur."
+    ]
+  },
+  "7-84": {
+    "question": "The basic outside of our planet is comprised of",
+    "selected_facts": [
+      "Mass causes gravity on a planet.",
+      "Rotation causes day-night cycles.",
+      "Something outside during the day gets sunlight."
+    ]
+  },
+  "7-200": {
+    "question": "Skunks are an animal which has a stink sack, which means that",
+    "selected_facts": [
+      "Melting point is the temperature above which a solid melts.",
+      "Boiling point is the temperature above which a liquid boils.",
+      "Freezing point is when a liquid freezes."
+    ]
+  },
+  "7-278": {
+    "question": "Canyons are rock formations with cliffs that",
+    "selected_facts": [
+      "Fact 1 directly explains how canyons are formed by river erosion over time.",
+      "Fact 4 discusses another geological process that forms rock piles, which could be related to other canyon features.",
+      "Fact 5, while not central, provides context on rock types, though less relevant than others."
+    ]
+  },
+  "1360": {
+    "question": "What is the best example of a live birth?",
+    "selected_facts": [
+      "Clams live at the bottom of the ocean. Hmm, clams reproduce by spawning, releasing eggs and sperm into the water. That\u2019s not a live birth; they lay eggs externally, so this fact isn't relevant.",
+      "Navigation example: directing a boat. Not related to reproduction or live birth.",
+      "Fossil example: bones of extinct animals. Also unrelated to live birth."
+    ]
+  },
+  "9-898": {
+    "question": "Which of these would need the fewest hydrocarbon chains containing eight carbon atoms?",
+    "selected_facts": [
+      "Talks about sound passing through different materials affecting speed. Doesn't seem related.",
+      "Heat increasing causing gas in a flexible container to expand. Maybe relates to pressure and volume, but not directly hydrocarbons.",
+      "Biofuel releasing CO2. Hmm, biofuels are made from organic matter, which could involve hydrocarbons, but the fact just says they release CO2."
+    ]
+  },
+  "9-471": {
+    "question": "If farmers want larger chicken populations",
+    "selected_facts": []
+  },
+  "9-1140": {
+    "question": "Evaporation is the reason that",
+    "selected_facts": [
+      "Evaporation is a stage in the water cycle process.",
+      "As temperature increases, rate of evaporation increases.",
+      "Evaporation causes the amount of water to decrease."
+    ]
+  },
+  "9-953": {
+    "question": "A factory is producing various items. If the factory wants to produce something that will itself produce little pollution, it could create",
+    "selected_facts": [
+      "If something absorbs something else, it contains that something.",
+      "Clouds produce rain.",
+      "If all members of a species can't produce offspring, they become extinct."
+    ]
+  },
+  "348": {
+    "question": "What source of power can be used up completely?",
+    "selected_facts": []
+  },
+  "7-974": {
+    "question": "in science, what is a cause and effect guess called?",
+    "selected_facts": [
+      "**Hypothesis means scientific guess about the cause and effect of an event** \u2013 This seems directly relevant because it defines a hypothesis as a guess about cause and effect.",
+      "**Wind and rain cause erosion** \u2013 This is a specific example of cause and effect but doesn't explain the term used for such guesses.",
+      "**Sunlight and rain can cause a rainbow** \u2013 Again, an example of cause and effect without defining the term."
+    ]
+  },
+  "458": {
+    "question": "What might Lassie do to beat the heat?",
+    "selected_facts": [
+      "Offshore oil platforms might cause oil to leak into the water.",
+      "Phase changes do not change mass.",
+      "An animal knows how to do instinctive behaviors when it is born."
+    ]
+  },
+  "7-785": {
+    "question": "A device may locate the northern portion of a forest through",
+    "selected_facts": []
+  },
+  "1116": {
+    "question": "Cycles of freezing and thawing water",
+    "selected_facts": [
+      "Fact 1 says that cycles of freezing and thawing cause ice wedging. That's directly related because ice wedging is a form of weathering where water freezes in cracks, expands, and breaks the rock apart when it thaws. So this seems highly relevant.",
+      "Fact 4 mentions that a planet rotating causes day-night cycles. While rotation does influence temperature changes (which can affect freezing and thawing), it's more about the cause behind day and night rather than directly causing ice wedging. It might be somewhat related, but not as direct as fact 1.",
+      "Fact 7 states that water causes the most soil and rock erosion. This is a broader statement about the role of water in erosion. While freezing and thawing contribute to weathering, which leads to erosion, this fact doesn't specifically tie into the cycles mentioned. It's more general, so maybe not the top choice."
+    ]
+  },
+  "7-41": {
+    "question": "A sound that is made by an animal with two legs is",
+    "selected_facts": []
+  },
+  "7-473": {
+    "question": "do scars come naturally?",
+    "selected_facts": []
+  },
+  "7-815": {
+    "question": "Life sustaining substances are required for",
+    "selected_facts": [
+      "**Fact 2**: Skin protects the body, essential for survival by preventing harm.",
+      "**Fact 3**: The sun provides energy, crucial for life processes like photosynthesis.",
+      "**Fact 7**: Raw materials are required in processes, directly linking to the necessity of life-sustaining substances."
+    ]
+  },
+  "9-689": {
+    "question": "An example of conservation would be",
+    "selected_facts": []
+  },
+  "1539": {
+    "question": "What is an instance of carnivores only eating animals?",
+    "selected_facts": []
+  },
+  "9-604": {
+    "question": "A few weeks after the month of December in the heart of Australia is often referred to as?",
+    "selected_facts": [
+      "\"the heart is mostly made of muscle\" \u2013 This seems irrelevant because it's about anatomy, not seasons or climate.",
+      "\"December is during the winter in the northern hemisphere\" \u2013 Since Australia is in the southern hemisphere, this might relate to their summer, but let me think more.",
+      "\"December is during the summer in the southern hemisphere\" \u2013 Yes, this is crucial because Australia is in the southern hemisphere, so December there is summer. This connects December with warm weather."
+    ]
+  },
+  "9-555": {
+    "question": "Creatures such as opossums and raccoons are scavengers, meaning that they get their food from various sources, wherever and however they can, even from trash cans. This can negatively impact the creature's health if",
+    "selected_facts": [
+      "Sugar dissolving in water: This seems more related to chemistry than directly to animal health. Maybe not relevant here.",
+      "Musical instruments making sound when played: Definitely unrelated.",
+      "Plants storing food for future use: Not directly about scavengers' health."
+    ]
+  },
+  "7-831": {
+    "question": "An example of an electric insulator is",
+    "selected_facts": [
+      "brick is an electrical insulator",
+      "wax is an electrical insulator",
+      "wood is an electrical energy insulator"
+    ]
+  },
+  "7-737": {
+    "question": "What vitamins help heal bones?",
+    "selected_facts": [
+      "An animal requires nutrients to grow and heal \u2013 this seems relevant because it ties into the idea that certain nutrients (like vitamins) are necessary for healing.",
+      "Vaccines prevent illness \u2013 not directly related.",
+      "Bacteria help digest food \u2013 maybe indirectly by aiding nutrient absorption, but not specifically about vitamins or bone healing."
+    ]
+  },
+  "9-822": {
+    "question": "Hitting the keys of a piano is like playing",
+    "selected_facts": [
+      "An example of playing a musical instrument is hitting the keys of a piano (Fact 1)",
+      "Hitting an object causes the particles in that object to vibrate (Fact 6)",
+      "Another example of playing a musical instrument through a different action (strumming) shows various methods, supporting the idea that different actions can be considered playing (Fact 2)"
+    ]
+  },
+  "7-264": {
+    "question": "Seeds can be dispersed through all sorts of creative ways, such as",
+    "selected_facts": [
+      "**Living things can all reproduce**: This is relevant because seeds are a part of plant reproduction, so this fact ties into why seeds exist in the first place.",
+      "**Large fins can be used to move quickly through water**: This doesn't seem directly related to seed dispersal unless we're talking about aquatic plants, but it's more about movement in water than dispersing seeds.",
+      "**The shape of an object can be discovered through feeling that object**: Maybe this relates to how the shape of a seed affects its dispersal method, like whether it's winged or has hooks for attaching to animals."
+    ]
+  },
+  "775": {
+    "question": "When did the pond have less heat energy?",
+    "selected_facts": []
+  },
+  "7-631": {
+    "question": "In the springtime, animals engage in ritual behavior such as",
+    "selected_facts": [
+      "As food supply decreases, population decreases.",
+      "Water increase leads to more aquatic animals.",
+      "Some live in zoos."
+    ]
+  },
+  "8-84": {
+    "question": "This can be used to light up a light bulb",
+    "selected_facts": [
+      "Fact 1 says a light bulb requires electrical energy to produce light. That seems directly relevant because it states what's needed for the bulb to work.",
+      "Fact 2 mentions that when electricity flows, the bulb comes on. This is also very relevant as it explains the process of how electricity causes the bulb to illuminate.",
+      "Fact 3 is similar to fact 2 but uses \"turn on\" instead of \"come on.\" It's still relevant but might be redundant since both 2 and 3 are about electricity causing the bulb to light up."
+    ]
+  },
+  "156": {
+    "question": "At a meal one plate seems to be larger than the other plates.  That plate is",
+    "selected_facts": []
+  },
+  "8-349": {
+    "question": "Sleet is made of",
+    "selected_facts": []
+  },
+  "8-303": {
+    "question": "Recently, a lot of people, en masse, were told that they should take an opportunity to cast an image of an object through a pinhole onto a screen, in order to best enjoy an activity. This was because",
+    "selected_facts": [
+      "Fact 1: Doesn't require looking directly.",
+      "Maybe fact 3 about heat? Or not."
+    ]
+  },
+  "7-882": {
+    "question": "Bacteria",
+    "selected_facts": []
+  },
+  "9-39": {
+    "question": "how can one alter plants without interacting directly with it?",
+    "selected_facts": [
+      "Fact 1: Using baking soda in the environment.",
+      "Fact 7: Positioning light (sun) to influence growth direction.",
+      "Perhaps fact 5, but not sure."
+    ]
+  },
+  "9-119": {
+    "question": "A thin beak is most useful to",
+    "selected_facts": [
+      "A beak is used for catching prey by some birds.",
+      "Most animals avoid bad odors.",
+      "A skinny beak is used for obtaining food by a bird from small spaces."
+    ]
+  },
+  "8-61": {
+    "question": "in which of these environments would one ideally situate a farm?",
+    "selected_facts": [
+      "**Fact 3**: Cold environments contain few organisms. This is important because fertile soil with adequate microorganisms is crucial for plant growth, which is less likely in cold areas.",
+      "**Fact 7**: Soil erosion is when wind moves soil from environments. Farming requires stable soil conditions; areas prone to strong winds causing erosion are unsuitable.",
+      "**Fact 2**: Snow falls during the winter in some environments. While snow can provide moisture, excessive snowfall can disrupt farming activities and may not support consistent crop growth."
+    ]
+  },
+  "9-249": {
+    "question": "Telephones will transfer acoustics using what energy",
+    "selected_facts": [
+      "Fact 1 because it directly explains how telephones convert sound energy into electrical energy.",
+      "I don't think any other facts provide additional necessary information since the others either discuss unrelated topics or only tangentially touch on energy conversion without linking to acoustics in telephones."
+    ]
+  },
+  "9-862": {
+    "question": "An example of a flexible container",
+    "selected_facts": [
+      "If a flexible container is pushed on then that container will change shape.",
+      "As heat increases, a flexible container containing gas will expand.",
+      "An example of an adaptation is camel humps."
+    ]
+  },
+  "8-118": {
+    "question": "which one of these methods can a potential prey use to escape attack?",
+    "selected_facts": [
+      "Some animals move quickly to escape predators.",
+      "Potential energy changes to kinetic energy through motion.",
+      "Living things require respiration to use energy."
+    ]
+  },
+  "9-950": {
+    "question": "okra has to have water, sun and what to grow",
+    "selected_facts": [
+      "An animal requires nutrients \u2013 not directly relevant since we're talking about a plant.",
+      "A plant requires specific climate \u2013 could be relevant if the question mentions it, but the question doesn't specify that.",
+      "Photosynthesis \u2013 plants need sunlight for this, which is already mentioned as sun."
+    ]
+  },
+  "1279": {
+    "question": "What is an example of weathering occurring over several years?",
+    "selected_facts": [
+      "Fact 1 says weathering usually occurs over many years. That's directly relevant because it confirms the timescale.",
+      "Fact 2 gives an example of plant roots growing into rocks, which is a physical weathering process that takes time.",
+      "Fact 4 mentions soil formation through weathering. Soil development does take several years as rocks break down gradually."
+    ]
+  },
+  "9-615": {
+    "question": "A lake, pond, or stream can all be used to",
+    "selected_facts": []
+  },
+  "8-441": {
+    "question": "On a particularly hot day, a young woman clicks on a fan in the room, and the blades of the fan begin to quietly rotate in a circular motion, which",
+    "selected_facts": [
+      "Fact 1 says that the vanes rotating in an electric fan cause air to move. That seems directly related because when you turn on a fan, the moving blades create airflow, which is exactly what happens when she clicks the fan. So this one is definitely relevant.",
+      "Fact 2 talks about loss of resources affecting organisms negatively. Hmm, that doesn't seem connected at all. The question isn't about resource depletion or its impact on living things, so I can probably rule this out.",
+      "Fact 3 mentions nerves feeling heat and pressure. While the woman might feel relief from the fan's breeze, the question is more about the mechanical action of the fan rather than her sensory experience. Maybe not as directly relevant as others."
+    ]
+  },
+  "9-1188": {
+    "question": "Windy means what is going at high speeds?",
+    "selected_facts": [
+      "Fact 1: Directly defines windy as high wind speeds.",
+      "Fact 6: Talks about something else moving at high speed, providing context.",
+      "Maybe Fact 10: Since it's the opposite, but that might not be necessary."
+    ]
+  },
+  "1513": {
+    "question": "Which would a scavenger most likely eat?",
+    "selected_facts": [
+      "\"most animals avoid bad odors\" \u2013 Scavengers often have to deal with decaying matter which can have strong smells. If most animals avoid bad odors, then scavengers must be exceptions or have adaptations that allow them to handle such environments. This fact could imply that scavengers are more likely to eat things that others avoid because of the smell.",
+      "\"the type of material through which sound passes changes the speed at which sound travels\" \u2013 I don't see a direct connection here to what scavengers eat. This seems more related to physics or communication methods, not diet.",
+      "\"oceans contains most of earth 's water\" \u2013 While this is a true fact, it doesn't directly relate to the eating habits of scavengers unless we're considering aquatic scavengers specifically, which isn't indicated here."
+    ]
+  },
+  "1429": {
+    "question": "Food digestion in humans can be aided by",
+    "selected_facts": []
+  },
+  "9-391": {
+    "question": "As the amount of fragrance of a flower increases, the better chances it has at",
+    "selected_facts": []
+  },
+  "624": {
+    "question": "Efforts to preserve the ecosystem might lead national parks to",
+    "selected_facts": [
+      "National parks limit hunting.",
+      "As ability to preserve food increases, the ability to transport food increases.",
+      "Offshore oil platforms might cause oil to leak into the water."
+    ]
+  },
+  "7-22": {
+    "question": "The thermal production of a stove is generically used for",
+    "selected_facts": [
+      "Fact 1: \"a stove generates heat for cooking usually\" \u2013 This directly relates to what a stove does with thermal energy, specifically for cooking. That seems very relevant.",
+      "Fact 3: \"a thermal conductor is made of materials that conduct thermal energy\" \u2013 Stoves often use materials like metal which are good conductors. So this could be relevant because it explains how heat is transferred in a stove.",
+      "Fact 4: \"metal is a thermal conductor\" \u2013 This directly connects to the material used in stoves, supporting fact 3's relevance. Metal parts in stoves help distribute heat effectively."
+    ]
+  },
+  "179": {
+    "question": "Which requires respiration to use energy?",
+    "selected_facts": [
+      "Living things require respiration to use energy.",
+      "All cells perform cellular respiration.",
+      "As the use of alternative fuels increases, the use of gasoline will decrease."
+    ]
+  },
+  "1706": {
+    "question": "We looked at the arrow on the compass and then turned around and walked in the opposite direction.  We were walking",
+    "selected_facts": []
+  },
+  "1392": {
+    "question": "Nerves are used in order to sense which things?",
+    "selected_facts": [
+      "Nerves can feel heat and pressure on the skin.",
+      "Adaptations (including sensing) for survival.",
+      "Camouflage as an example where organisms sense their environment to blend in."
+    ]
+  },
+  "1143": {
+    "question": "The gravitational pull of the sun causes what phenomenon?",
+    "selected_facts": [
+      "The first fact talks about the Moon causing tides on Earth. Hmm, that's more about the Moon's gravity affecting Earth, not the Sun's. So probably not relevant here.",
+      "Fact 2 is about a planet's mass causing gravity on it. This seems general and doesn't specifically mention the Sun or its effects, so maybe not directly helpful.",
+      "Fact 3 says Earth orbiting the Sun causes seasons to change. Oh, that sounds like the Sun's gravity keeps Earth in orbit, which affects the seasons. So this could be relevant because the gravitational pull is what keeps Earth moving around the Sun."
+    ]
+  },
+  "9-158": {
+    "question": "When a insect looks like another type of entity what is it called?",
+    "selected_facts": []
+  },
+  "7-871": {
+    "question": "An example of heat changing the state of matter could be",
+    "selected_facts": [
+      "Fact 1: \"heat can change the state of matter\" \u2013 This is a general statement about heat causing state changes, so it's relevant but maybe too broad.",
+      "Fact 2: \"matter in the liquid state drips\" \u2013 This describes a property of liquids but doesn't directly tie to heat changing states.",
+      "Fact 3: \"as state of matter changes, mass will not change\" \u2013 Talks about mass during phase changes, which is true, but it's more about conservation of mass than an example of heat causing the change."
+    ]
+  },
+  "1068": {
+    "question": "When blood passes thru the primary element of the respiratory system it's diffused with",
+    "selected_facts": [
+      "The respiratory system transfers oxygen to the circulatory system. That seems relevant because it directly mentions oxygen moving from respiratory to circulatory systems, which would involve diffusion as blood passes through the lungs.",
+      "The circulatory system transports blood throughout the body. While true, this is more about what the circulatory system does in general and doesn't specifically address diffusion with the respiratory system.",
+      "The respiratory system takes in oxygen from the air. This is correct but again, it's about taking in oxygen without mentioning how it interacts with blood or diffusion."
+    ]
+  },
+  "932": {
+    "question": "When Gia cooked her no-bake cookies too long, she discovered they had become hard, (though un-burnt). what is the most likely reason?",
+    "selected_facts": [
+      "If food is cooked then heat energy is added to that food \u2013 yes, relevant because prolonged cooking adds more heat than intended.",
+      "Sugar dissolves in water when they are combined \u2013 possibly relevant as excess heat could cause sugar to recrystallize or change structure, making cookies hard.",
+      "The shape of an object can be discovered through feeling that object \u2013 this is about perception, not the cause, so probably less relevant."
+    ]
+  },
+  "1596": {
+    "question": "Animals require",
+    "selected_facts": [
+      "animals require water for survival",
+      "living things require water for survival",
+      "a plants require water for to grow"
+    ]
+  },
+  "9-865": {
+    "question": "What month is in the season after spring in the northern hemisphere?",
+    "selected_facts": []
+  },
+  "7-201": {
+    "question": "What happens when man moves into new environments?",
+    "selected_facts": [
+      "Transpiration is when water vapor moves from leaves into the atmosphere. That's a plant process; maybe not directly related unless humans affect plant life in a new environment, but it seems more about the natural cycle of plants rather than human movement.",
+      "A cycle happens repeatedly. This is pretty general and could relate to any cyclical processes, but I'm not sure how specific this is to human impact on environments.",
+      "Transpiration usually happens in the leaves of a plant. Similar to fact 1; it's more about\u690d\u7269\u751f\u7406\u8fc7\u7a0b\uff0c\u548c\u4eba\u7c7b\u8fdb\u5165\u65b0\u73af\u5883\u7684\u5173\u7cfb\u4e0d\u5927\u3002"
+    ]
+  },
+  "9-740": {
+    "question": "A man wants to use a material in a project that will be nonrenewable. The man decides to use",
+    "selected_facts": [
+      "As alternative fuels increase, gasoline use decreases.",
+      "Living things need respiration for energy.",
+      "Using a resource less makes it available longer."
+    ]
+  },
+  "1736": {
+    "question": "What is an example of the appearance of stars seeming to move in relation to the horizon at night?",
+    "selected_facts": []
+  },
+  "871": {
+    "question": "Water vapor cooling over night",
+    "selected_facts": [
+      "Dew forms when water vapor condenses overnight.",
+      "Dew forms when water vapor cools overnight.",
+      "Cooling water vapor causes it to condense."
+    ]
+  },
+  "7-730": {
+    "question": "The fish reproduction technique supplies",
+    "selected_facts": []
+  },
+  "7-518": {
+    "question": "What do bees convert nectar into?",
+    "selected_facts": []
+  },
+  "1840": {
+    "question": "Decomposition occurs when a decomposer recycles nutrients from dead organisms back to the soil by eating them; what is an example of this?",
+    "selected_facts": [
+      "This fact directly defines decomposition as recycling nutrients through eating dead organisms.",
+      "It explains that decomposition involves breaking down, which aligns with how decomposers work.",
+      "States that decomposition increases soil nutrients, showing the outcome of decomposition."
+    ]
+  },
+  "7-603": {
+    "question": "A full moon and a crescent moon occur normally",
+    "selected_facts": [
+      "The phases change the Moon's appearance. - This seems relevant because it directly talks about the phases causing visual changes.",
+      "The moon orbiting Earth causes phases. - This is probably key since it explains the cause of the phases.",
+      "First quarter after new moon. - While this fact is true, I'm not sure if it's as crucial for explaining why full and crescent moons occur specifically."
+    ]
+  },
+  "883": {
+    "question": "What would a rabbit most likely eat",
+    "selected_facts": []
+  },
+  "7-315": {
+    "question": "The moon's gravity",
+    "selected_facts": [
+      "Gravity causes orbits.",
+      "Mass causes pull of gravity on a planet.",
+      "Gravity pulls substances down on a planet."
+    ]
+  },
+  "9-84": {
+    "question": "what happens when an animals' food intake increases",
+    "selected_facts": [
+      "**Weight Increase**: As the amount of food an animal eats increases, its weight will increase (Fact 6).",
+      "**Digestion Process**: Digestion is when an organism takes in nutrients from food into itself by eating (Fact 5), which explains how increased intake affects nutrient absorption.",
+      "**Energy Production**: Cellular respiration breaks down food to produce energy (Fact 9), highlighting the metabolic consequence of more food consumption."
+    ]
+  },
+  "7-791": {
+    "question": "Plants grow because they",
+    "selected_facts": []
+  },
+  "8-249": {
+    "question": "Chlorophyll allows plants to soak up",
+    "selected_facts": [
+      "\"chlorophyll is used for absorbing light energy by plants\" \u2013 This directly mentions chlorophyll's purpose of absorbing light energy, so this seems very relevant.",
+      "\"a chloroplast contains chlorophyll\" \u2013 While true, it explains where chlorophyll is located but doesn't directly answer what chlorophyll allows plants to soak up. So maybe not as crucial for the question.",
+      "\"inventing a tool allows that tool to be used\" \u2013 This seems unrelated because the topic is about biology and plant processes, not tools or invention."
+    ]
+  },
+  "7-578": {
+    "question": "The moon has",
+    "selected_facts": [
+      "\"the earth has more mass than the moon\" - This is true, but maybe not directly answering what the moon itself has. It's more about comparing Earth and Moon.",
+      "\"the moon orbiting the Earth causes the phases of the moon\" - This explains a phenomenon related to the moon's movement around Earth, which is relevant because it's about how the moon behaves in relation to Earth.",
+      "\"the phases of the Moon change the appearance of the Moon\" - This fact ties into why we see different shapes of the moon from Earth, so it's connected to the previous one and describes a visible characteristic of the moon."
+    ]
+  },
+  "7-452": {
+    "question": "Plant lights can be useful in order to",
+    "selected_facts": []
+  },
+  "7-996": {
+    "question": "If something living requires sustenance, it will likely",
+    "selected_facts": [
+      "If something absorbs something else then that something will contain that something else",
+      "If a living thing becomes too cold then that living thing will die",
+      "If something is outside during the day then that something will receive sunlight"
+    ]
+  },
+  "9-789": {
+    "question": "in electricity ceramics are sometimes used to",
+    "selected_facts": []
+  },
+  "153": {
+    "question": "A large mill in the area has led to streams and rivers being filled with",
+    "selected_facts": [
+      "\"Loss of resources has a negative impact on organisms in an area.\" This seems relevant because if the mill is causing resource loss, like clean water, then it affects organisms negatively. So this could be important.",
+      "\"Matter with variable volume and shape assumes the container's size.\" Hmm, not sure how this ties into streams being filled. Maybe related to how pollutants spread? But I'm not certain.",
+      "\"As rainfall increases, available water increases.\" This might relate if heavy rain from the mill's activities causes more runoff or flooding, but it seems a bit indirect."
+    ]
+  },
+  "1117": {
+    "question": "As a car drives off in the night",
+    "selected_facts": [
+      "\"An electric car uses less gasoline than a regular car.\" Well, that seems relevant because cars driving at night might relate to fuel usage. But I'm not sure if this is directly about what happens as the car drives off. Maybe it's more about efficiency rather than the act of driving at night.",
+      "\"Fire gives off light.\" That could be related since cars have lights. When a car is moving, its headlights illuminate the surroundings, so fire giving off light might tie into why we can see the car or its movement at night. So this seems relevant.",
+      "\"Using a car causes pollution.\" Well, when a car drives off, especially during the night, it emits pollutants. This could be about environmental impact related to driving at night. But I'm not sure if that's what the question is getting at. It might be more of an effect but perhaps less directly tied to the act of driving in the dark."
+    ]
+  },
+  "215": {
+    "question": "A rabbit has thicker fur in",
+    "selected_facts": []
+  },
+  "9-878": {
+    "question": "A tape measure aids in",
+    "selected_facts": [
+      "Fact 1: A tape measure is used to measure distance.",
+      "Fact 2: A tape measure is used to measure length.",
+      "Fact 3: Mass is a measure of matter. Hmm, this doesn't seem related to measuring with a tape."
+    ]
+  },
+  "362": {
+    "question": "What action has a positive impact on the conservation of nonrenewable resources?",
+    "selected_facts": [
+      "Recycling nonrenewable resources has a positive impact on their conservation.",
+      "Recycling resources in general helps conserve them.",
+      "Recycling is good for the environment."
+    ]
+  },
+  "9-421": {
+    "question": "What happens when someone on top of a bicycle starts pushing it's peddles in a circular motion?",
+    "selected_facts": [
+      "a human can pedal a bicycle",
+      "pushing on the pedals of a bike cause that bike to move",
+      "a cycle happens repeatedly"
+    ]
+  },
+  "7-570": {
+    "question": "If a mosquito dies and is sucked into mud",
+    "selected_facts": []
+  },
+  "9-648": {
+    "question": "trees have chlorophyll so they make their own",
+    "selected_facts": []
+  },
+  "719": {
+    "question": "Things people eat come from",
+    "selected_facts": [
+      "Bacteria can cause people to become ill.",
+      "Reducing bacteria in food prevents illness in people.",
+      "Medicine can cause bad reactions."
+    ]
+  },
+  "9-68": {
+    "question": "What kept the bat on course?",
+    "selected_facts": [
+      "Bat births live young \u2013 this is about reproduction, maybe not directly related to navigation.",
+      "Earth rotates on its axis \u2013 Earth's rotation causes day and night cycles, which can affect bat activity times.",
+      "Good bacteria on skin \u2013 probably related to health, not navigation."
+    ]
+  },
+  "669": {
+    "question": "What would you use in an apartment to keep your neighbor below from hearing you shuffle around a room?",
+    "selected_facts": [
+      "Fat keeps animals warm.",
+      "Living things need respiration.",
+      "Shivering creates heat by shaking."
+    ]
+  },
+  "8-353": {
+    "question": "if an adult salmon goes back to where it was born, which of these is likely?",
+    "selected_facts": []
+  },
+  "7-195": {
+    "question": "If the north is cold and the midnorth is warm, there will be",
+    "selected_facts": [
+      "If weather is stormy then there's a greater chance of rain.",
+      "A hot object touching a cold substance will likely cool it.",
+      "Similar to fact 2 but reversed: a hot substance touches a cold object, cooling occurs."
+    ]
+  },
+  "9-432": {
+    "question": "What is needed to make an island?",
+    "selected_facts": [
+      "Recycling: Doesn't seem relevant.",
+      "Scientists making observations: Maybe, but how does that help in creating an island?",
+      "Galileo improving telescopes: Also doesn't connect directly."
+    ]
+  },
+  "1193": {
+    "question": "It would be harder to grow a palm tree in",
+    "selected_facts": [
+      "A tree can be replaced by planting a new tree.",
+      "The number of rings in a tree trunk can estimate age.",
+      "As light pollution increases, seeing stars is harder."
+    ]
+  },
+  "1724": {
+    "question": "A moth",
+    "selected_facts": []
+  },
+  "1760": {
+    "question": "What time of day does a solar panel work best?",
+    "selected_facts": []
+  },
+  "9-819": {
+    "question": "glucose is easily soluble in",
+    "selected_facts": [
+      "Fact 1 talks about dry wood burning easily. That's related to combustion and not directly to solubility or glucose, so probably not relevant.",
+      "Fact 2 is about quartz scratching glass. This is more about hardness and materials, unrelated to solubility.",
+      "Fact 3 mentions reflecting light affecting visibility. While interesting, it doesn't connect to glucose solubility."
+    ]
+  },
+  "8-314": {
+    "question": "A guy wants to make dinner for his family, so he puts a pan on the stove, adds some meat, and turns on the stove so that heat is being added to the pan. As the meat is warmed through, beginning to sizzle, it is",
+    "selected_facts": [
+      "If food is cooked then heat energy is added to that food",
+      "Nerves can be used to feel heat and pressure on the skin",
+      "A planet is exposed to the heat of the star around which it revolves"
+    ]
+  },
+  "1641": {
+    "question": "Two gears grinding against each other will raise which of their properties?",
+    "selected_facts": [
+      "Friction occurs when two objects' surfaces move against each other.",
+      "If two objects have the same charge, they repel each other.",
+      "Two females can't usually reproduce with each other."
+    ]
+  },
+  "1214": {
+    "question": "Sunlight is a source of",
+    "selected_facts": []
+  },
+  "9-600": {
+    "question": "What contributes to prey animals being able to survive predators long enough to mate?",
+    "selected_facts": []
+  },
+  "9-1110": {
+    "question": "electrical current does what to a wire to cause it to heat up",
+    "selected_facts": [
+      "Electrical current running through a wire causes that wire to heat up. \u2013 This seems directly relevant because it states the exact process: current causing heating.",
+      "A switch is used to stop the flow of current in an electrical circuit. \u2013 While related to circuits, this doesn't explain why the wire heats up.",
+      "Being exposed to heat can cause erosion of rocks. \u2013 Not relevant; it's about a different effect of heat."
+    ]
+  },
+  "832": {
+    "question": "Peat is derived from",
+    "selected_facts": [
+      "Fact 1 says peat forms at the bottom of swamps. That makes sense because swamps are wet environments where vegetation can accumulate and decay slowly.",
+      "Fact 2 explains that peat is made from decaying vegetation compacted by soil in a swamp over time. This directly describes what peat is composed of and how it's formed, which seems very relevant.",
+      "Fact 5 mentions that being buried under soil and mud changes peat into coal through heat and pressure over time. While this talks about the transformation from peat to coal, it also indirectly supports the formation process by explaining what happens after peat is formed."
+    ]
+  },
+  "7-236": {
+    "question": "Sediment built up around the shed due to:",
+    "selected_facts": [
+      "Some animals shed fur in warm weather.",
+      "The Earth revolves around the sun.",
+      "Sediment is formed by weathering."
+    ]
+  },
+  "9-85": {
+    "question": "if the surface of our planet is different after a while, what could have happened?",
+    "selected_facts": [
+      "Fact 3: Gravitational force causing objects with mass to be pulled down. This is a fundamental aspect of planets, but does it directly cause changes on the surface? Maybe, but I think it's more about sustaining the planet rather than changing its surface over time.",
+      "Fact 6: Craters formed by asteroid impacts. That makes sense because asteroid impacts can definitely alter the surface\u2014creating craters, possibly causing tsunamis, earthquakes, etc., which would change the landscape.",
+      "Fact 5: Planet rotation causing day and night cycles. While this is a natural process, does it cause significant changes to the surface? Maybe over time with weathering, but I'm not sure if it's as direct as asteroid impacts."
+    ]
+  },
+  "7-73": {
+    "question": "A bear hibernates through cold weather because",
+    "selected_facts": []
+  },
+  "8-459": {
+    "question": "which of these scenarios would result in the ugliest TV screen?",
+    "selected_facts": [
+      "Talks about sound speed changing through different materials.",
+      "Discusses a food chain where an animal eats producers (like plants).",
+      "Also about a food chain, but this time the consumer eats other animals."
+    ]
+  },
+  "7-839": {
+    "question": "A canyon is created by a strong force such as",
+    "selected_facts": [
+      "Fact 4 says the Grand Canyon was formed by the Colorado River over long periods. That seems relevant because rivers are a strong force of water that can erode land over time, creating canyons.",
+      "Fact 5 mentions that canyon formation occurs over millions of years. This ties into the idea that even though the force might be consistent and not extremely violent, it's the duration that matters. So it supports the concept of a strong, persistent force leading to canyon creation.",
+      "Fact 8 states that pushing an object requires force. While this is more general, it relates to how physical forces are involved in shaping the landscape, which can include the erosion processes that form canyons."
+    ]
+  },
+  "9-935": {
+    "question": "Which of the following is true?",
+    "selected_facts": []
+  },
+  "9-198": {
+    "question": "From which distance will an object look the biggest?",
+    "selected_facts": [
+      "**Fact 9** states that if an object is close, it appears large, directly answering the question.",
+      "**Fact 1** explains that as the distance decreases, the object appears larger, supporting the idea that closer proximity increases apparent size.",
+      "**Fact 2** indicates that increasing distance makes an object appear smaller, which complements the other facts by showing the inverse relationship."
+    ]
+  },
+  "298": {
+    "question": "Which shows a way to preserve natural resources:",
+    "selected_facts": [
+      "As ability to preserve food increases, the ability to transport food increases.",
+      "Natural events usually cause changes to Earth's surface.",
+      "Natural disasters can cause animals to leave an environment."
+    ]
+  },
+  "289": {
+    "question": "A jellyfish's abilities exclude",
+    "selected_facts": [
+      "A satellite orbits a planet \u2013 This is about space and technology, not related to jellyfish.",
+      "A computer controls a robot \u2013 Again, this is about machinery and programming, nothing to do with jellyfish abilities.",
+      "A trunk is a source of support for a tree \u2013 Trees have trunks; jellyfish don't have trunks, so maybe this is relevant as something they lack?"
+    ]
+  },
+  "9-267": {
+    "question": "Heat can can cause matter to",
+    "selected_facts": [
+      "Matter vibrating can cause sound \u2013 this is about vibrations causing sound, which might relate to thermal expansion or something heat causes.",
+      "Heat can change the state of matter \u2013 definitely relevant because heat adds energy and changes states like solid to liquid to gas.",
+      "Being exposed to heat can cause erosion of rocks \u2013 this seems related to weathering due to temperature changes, possibly linked to thermal expansion causing rocks to crack."
+    ]
+  },
+  "8-490": {
+    "question": "In order to grow a rosebush needs a specific",
+    "selected_facts": [
+      "Plant requires a specific climate.",
+      "Animal needs food for nutrients.",
+      "Plant requires sunlight."
+    ]
+  },
+  "7-1059": {
+    "question": "The Grand Canyon became so deep and large because",
+    "selected_facts": [
+      "Grand Canyon formed by Colorado River over time (Fact1)",
+      "Canyon forming occurs over millions of years (Fact9)",
+      "Canyons are made of rocks (Fact3)"
+    ]
+  },
+  "140": {
+    "question": "Which does not support living things and is not a home to living things?",
+    "selected_facts": []
+  },
+  "9-1005": {
+    "question": "A young boy decides that he likes dogs better than he likes cats. A reason for this may be that",
+    "selected_facts": []
+  },
+  "9-371": {
+    "question": "When you heat liquids, what happens to it's ability to break down solids?",
+    "selected_facts": [
+      "Cellular respiration is when cells break down food to produce energy.",
+      "Break down means change from a whole into pieces.",
+      "As ability to preserve food increases, the ability to transport food increases."
+    ]
+  },
+  "8-364": {
+    "question": "A girl is turning sixteen and is experiencing changes to her breasts and other areas as she matures. These changes as she enters adulthood signify",
+    "selected_facts": [
+      "Moving changes stored energy into motion and heat.",
+      "Breaking down an object changes its shape and mass.",
+      "As state of matter changes, mass will not change."
+    ]
+  },
+  "9-453": {
+    "question": "A chipmunk that gathers many different items can often store what for later usage and help with plant dispersal.",
+    "selected_facts": [
+      "Birds with different beaks eat different foods \u2013 Hmm, not directly related to chipmunks or plant dispersal.",
+      "Plant lights mimic sunlight \u2013 This seems more about artificial lighting for plants, not relevant here.",
+      "Vaccines prevent illness \u2013 No connection to chipmunks or plants."
+    ]
+  },
+  "668": {
+    "question": "If you wanted to be outside in the daylight for the longest period when would be worst?",
+    "selected_facts": [
+      "Camouflage can be used for hunting food.",
+      "Camouflage can be used for hunting prey.",
+      "Carbon dioxide can be found in the air."
+    ]
+  },
+  "7-866": {
+    "question": "What season includes the last month of the year in the southern hemisphere?",
+    "selected_facts": [
+      "Fact 4 directly states that December is during summer in the southern hemisphere, which answers the question.",
+      "Fact 3 mentions June being winter in the southern hemisphere, providing additional context about seasons.",
+      "Fact 6 explains that winter in the Northern Hemisphere corresponds to summer in the Southern Hemisphere, supporting the understanding of seasonal opposites."
+    ]
+  },
+  "1645": {
+    "question": "Absorbing sunlight",
+    "selected_facts": [
+      "Absorbing sunlight causes objects to heat.",
+      "Chlorophyll is used by plants to absorb light energy.",
+      "Sunlight produces heat."
+    ]
+  },
+  "9-559": {
+    "question": "A litter of healthy cubs are born to a lioness, and eventually one of the cubs has a cut on its paw. It is reasonable to assume",
+    "selected_facts": [
+      "**An animal knows how to do instinctive behaviors when it is born.** This seems relevant because if the cubs are born with instincts, maybe they know how to take care of themselves or their injuries in some way. Lions are social animals, so perhaps the mother lioness has instincts to protect her cubs.",
+      "**A human requires rest to be healthy.** Hmm, this is about humans, not lions, so I'm not sure if this directly applies here. The question is about a cub with a cut, which doesn't necessarily involve rest or humans.",
+      "**A human requires sleep to be healthy.** Similar to fact 2, this is about humans and their needs. Since the scenario involves animals, maybe this isn't as relevant unless it's comparing animal behavior to human needs, but I don't think so in this context."
+    ]
+  },
+  "9-455": {
+    "question": "An anemometer would get a work out on a",
+    "selected_facts": [
+      "An anemometer measures wind speed.",
+      "Rocket engines produce thrust by expelling gases at high speed (as a context of high-speed gas movement).",
+      "Gas evaporation spreading into air (as another context where wind measurement is involved)."
+    ]
+  },
+  "1407": {
+    "question": "careless handling of chemicals can lead to one of the following",
+    "selected_facts": [
+      "Pencil lead contains mineral graphite.",
+      "If one mineral can scratch another, then that other is softer.",
+      "One year equals 365 days."
+    ]
+  },
+  "364": {
+    "question": "What season is December in the southern hemisphere?",
+    "selected_facts": [
+      "December is during the summer in the southern hemisphere (fact 1)",
+      "December is during the winter in the northern hemisphere (fact 2)",
+      "Winter in the Northern Hemisphere is during the summer in the Southern Hemisphere (fact 6)"
+    ]
+  },
+  "660": {
+    "question": "What heavenly object is closer to the planet where the TV was invented?",
+    "selected_facts": [
+      "Pluto is the planet that is ninth closest to the Sun.",
+      "Earth is the planet that is third closest to the Sun.",
+      "If a body part was burned then that body part was exposed to a lot of heat energy."
+    ]
+  },
+  "9-919": {
+    "question": "Which is a function of the skeletal system?",
+    "selected_facts": [
+      "\"skeletal system is made of bones\" \u2013 Well, that's true, but the question is about function, so this fact is more about composition rather than function. Maybe not as relevant, but perhaps it's a starting point.",
+      "\"the skeletal system protects internal organs\" \u2013 That sounds like a direct function. I know that the ribs protect the heart and lungs, for example, so this seems relevant.",
+      "\"the type of material through which sound passes changes the speed at which sound travels\" \u2013 Hmm, not sure how this relates to the skeletal system. Maybe if we were talking about hearing or something, but doesn't seem directly related."
+    ]
+  },
+  "1593": {
+    "question": "A rock may be used as a shelter by a",
+    "selected_facts": [
+      "Shelter is used for protection by animals against weather.",
+      "Sound can be used for communication by animals.",
+      "Organisms can be preserved in sedimentary rock."
+    ]
+  },
+  "1732": {
+    "question": "After spring ends, the next time it will be spring is",
+    "selected_facts": [
+      "Birds build nests in the spring - This is about animal behavior during spring but doesn't directly explain when spring returns.",
+      "Resource use and availability - Talks about resources and their duration, not related to seasons.",
+      "Night and sun setting - About time of day, unrelated to seasonal cycles."
+    ]
+  },
+  "7-276": {
+    "question": "If someone is allergic to sunlight then the place they need to avoid is",
+    "selected_facts": [
+      "If a tree falls then sunlight becomes available to surrounding plants.",
+      "If an organism's prey moves quickly, it may need to move quickly.",
+      "If an organism makes its own food, it doesn't eat others."
+    ]
+  },
+  "1202": {
+    "question": "A plant's stem",
+    "selected_facts": [
+      "\"a cactus stem is used for storing water\" - This seems relevant because it talks about a specific function of a stem in plants, specifically storage in cacti.",
+      "\"a stem is a source of support for a plant\" - That's definitely important. Stems provide structural support, which is a primary function.",
+      "\"a stem is used to store water by some plants\" - This is similar to fact 1 but more general. It mentions that some plants use stems for storage, not just cacti."
+    ]
+  },
+  "7-758": {
+    "question": "In a bowl of water with the sun shining on it, what happens to the water after four hours?",
+    "selected_facts": [
+      "The sun causes water to evaporate more quickly by adding heat.",
+      "Water absorbs solar energy in the water cycle.",
+      "Humidity is the amount of water vapor in the air."
+    ]
+  },
+  "9-54": {
+    "question": "A stone may experience the most weathering over",
+    "selected_facts": [
+      "Weathering usually occurs over many years.",
+      "Canyons formed by rivers eroding over long periods.",
+      "Glaciers cause mechanical weathering."
+    ]
+  },
+  "9-825": {
+    "question": "A scale is necessary to determine",
+    "selected_facts": [
+      "A scale is used for measuring weight.",
+      "A compass is used to navigate seas.",
+      "A compass is used to navigate oceans."
+    ]
+  },
+  "9-904": {
+    "question": "The cell membrane keeps a cell from",
+    "selected_facts": [
+      "\"the cell membrane provides support for a cell\" \u2013 That's correct because the cell membrane does provide structural support, but I'm not sure if this directly answers what it keeps the cell from.",
+      "\"a plant cell contains chloroplasts\" \u2013 This seems unrelated to the cell membrane's function in keeping something out. Chloroplasts are organelles for photosynthesis, so probably not relevant here.",
+      "\"if a cell can not specialize then that cell must perform all life functions\" \u2013 Specialization is more about cell types and their roles rather than the membrane's barrier function. So maybe not directly related."
+    ]
+  },
+  "7-643": {
+    "question": "Brackish water is often found where",
+    "selected_facts": [
+      "Water is often brackish in an estuary.",
+      "Volcanoes are often found under oceans.",
+      "Water vapor is found in the atmosphere."
+    ]
+  },
+  "9-58": {
+    "question": "A wooden floor will be easier to slide a chair over than a carpeted floor will be because a wooden floor",
+    "selected_facts": [
+      "About islands formed by lava cooling on the ocean floor.",
+      "Also about islands but mentions lava being released.",
+      "Something reusable can be used more than once."
+    ]
+  },
+  "9-23": {
+    "question": "A bear that ate a watermelon will also travel during the day to several areas of the surrounding forest, which can cause?",
+    "selected_facts": [
+      "If something is outside during the day, it will receive sunlight. That seems relevant because if the bear is traveling during the day, it's outside and thus in sunlight.",
+      "Light can travel through a vacuum. Hmm, not sure how this connects directly to the bear's movement or its effects on the environment. Maybe less relevant.",
+      "Sound can travel through air. Well, maybe when the bear moves around, it makes noise that travels. But does that cause something significant? Not sure yet."
+    ]
+  },
+  "7-806": {
+    "question": "White blood cells",
+    "selected_facts": [
+      "Fact 1: \"white blood cell destroys pathogens in the body\" \u2013 That sounds directly related because white blood cells are known for fighting infections, which involves destroying pathogens.",
+      "Fact 4: \"all cells perform cellular respiration\" \u2013 While this is true, it's a general statement about all cells, not specific to white blood cells. So maybe not as relevant unless the question was comparing different cell types.",
+      "Fact 10: \"the cells of multicellular organisms can specialize\" \u2013 White blood cells are specialized cells, so this fact highlights their role in the immune system through specialization."
+    ]
+  },
+  "7-383": {
+    "question": "Eating certain foods can add fiber into a diet which helps the body to stay regular, such as when eating",
+    "selected_facts": [
+      "Digestion is when an organism takes in nutrients from food.",
+      "Pesticides can negatively impact humans.",
+      "Eating food provides nutrients."
+    ]
+  },
+  "8-277": {
+    "question": "AIDS destroys the body by helping",
+    "selected_facts": [
+      "White blood cell destroys pathogens in the body.",
+      "Fire destroys plants in an environment.",
+      "Protein is used to repair cells by the human body."
+    ]
+  },
+  "1868": {
+    "question": "A scale can",
+    "selected_facts": [
+      "A scale is used for measuring weight.",
+      "Bats can echolocate.",
+      "Storms can cause a landslide."
+    ]
+  },
+  "9-687": {
+    "question": "If a lawnmower runs over an anthill, the colony's population probably",
+    "selected_facts": [
+      "Liquid evaporation\u2014probably not relevant.",
+      "Organism dies \u2192 population decreases. Very relevant because running over the anthill likely kills ants.",
+      "Population increase causing overpopulation\u2014maybe not immediately after a decrease."
+    ]
+  },
+  "7-537": {
+    "question": "Knowing the formula for speed",
+    "selected_facts": []
+  },
+  "7-204": {
+    "question": "Some creatures can bring in prey by providing a source of light, such as",
+    "selected_facts": [
+      "Claws - no",
+      "Beak - no",
+      "Light attracting prey - yes"
+    ]
+  },
+  "7-1039": {
+    "question": "The respiratory system allows the body to",
+    "selected_facts": [
+      "Fact 1 says the respiratory system transfers oxygen to the circulatory system. That sounds important because it connects two major systems, which is key.",
+      "Fact 3 mentions that the respiratory system takes in oxygen from the air. This directly relates to its primary function of intake.",
+      "Fact 7 states that the circulatory system brings oxygen from the lungs to the rest of the body. Although this is about the circulatory system, it shows how the two systems work together, which might be relevant."
+    ]
+  },
+  "7-672": {
+    "question": "All natural resources come from nature such as",
+    "selected_facts": [
+      "Nature is the source of natural resources.",
+      "All minerals are formed by natural geological processes.",
+      "Natural gas is a nonrenewable resource."
+    ]
+  },
+  "9-657": {
+    "question": "A celestial body grows a few meters in size every year, and the mass increases as well. After a hundred years, the celestial body will",
+    "selected_facts": [
+      "As mass increases, gravity on the planet increases.",
+      "Surface area increase leads to more evaporation of water bodies.",
+      "Higher environmental temperature causes reptiles' body temps to rise."
+    ]
+  },
+  "7-437": {
+    "question": "Leaves play a role in the making of",
+    "selected_facts": []
+  },
+  "7-520": {
+    "question": "To burn away the darkness, even a tiny light will do, such as",
+    "selected_facts": [
+      "Fact 1 talks about decreasing distance leading to more light pollution. That seems relevant because as you get closer to a city, there's more artificial light, which can affect how dark an area is.",
+      "Fact 2 mentions lighting a candle causes it to burn. While this shows that a candle produces light when lit, I'm not sure if it directly ties into reducing darkness beyond just the fact that a light source emits light.",
+      "Fact 3 states that as light pollution increases, seeing stars becomes harder. This relates to how more artificial light makes darkness less effective or hides natural darkness like starlight."
+    ]
+  },
+  "8-402": {
+    "question": "if a ball on the beach bursts, what would most likely escape?",
+    "selected_facts": [
+      "Beach ball contains gas \u2013 yes."
+    ]
+  },
+  "8-197": {
+    "question": "nonrenewable resources include all but",
+    "selected_facts": [
+      "Recycling helps conserve nonrenewable resources.",
+      "All animals breathe.",
+      "Aluminum is nonrenewable."
+    ]
+  },
+  "9-579": {
+    "question": "A stately red maple in a dense forest is supported by its",
+    "selected_facts": [
+      "\"A dense forest environment is often dark in color.\" Hmm, this seems more about the appearance of the forest rather than its support structure. Not sure if it's directly related to how a tree is supported.",
+      "\"When an animal sheds its fur, its fur becomes less dense.\" This is talking about animals and their fur density. Doesn't seem relevant to trees or what supports them in a forest.",
+      "\"A deer lives in a forest.\" While this fact mentions that deer live in forests, it doesn't directly explain how the tree is supported. Maybe indirectly if considering interactions with wildlife, but I'm not sure that's the focus here."
+    ]
+  },
+  "951": {
+    "question": "One source of pollution are",
+    "selected_facts": [
+      "Fertilizers are a source of pollution.",
+      "Pollution is a source of pollutants.",
+      "A landfill is a source of pollution."
+    ]
+  },
+  "8-75": {
+    "question": "A man is teaching his daughter to ride a bike. He emphasizes the need for her feet to remain on the pedals, so that",
+    "selected_facts": [
+      "Talks about organisms making food\u2014probably not relevant.",
+      "About prey and predators needing speed\u2014maybe indirectly related to movement but less so than fact 3.",
+      "Webbed feet for moving through water\u2014not related to biking."
+    ]
+  },
+  "7-302": {
+    "question": "Crop rotation",
+    "selected_facts": [
+      "Fact 1: \"crop rotation renews soil\" \u2013 That sounds directly related because it mentions one of the main benefits of crop rotation, which is improving soil quality.",
+      "Fact 2: \"crop rotation has a positive impact on soil quality\" \u2013 This is similar to fact 1 but phrased differently. Both talk about the effect on soil, so they are both relevant.",
+      "Fact 3: \"crop rotation is when different crops are planted on a field in different years\" \u2013 This is a definition of crop rotation, which explains what it actually entails. Understanding the process itself is crucial for discussing its effects."
+    ]
+  },
+  "9-342": {
+    "question": "Someday, the ground under the pile of rotting grain in the field will be",
+    "selected_facts": [
+      "Coal mine is a source of coal under the ground \u2013 Hmm, maybe relevant if the rotting grain leads to carbon deposits over time, but not directly connected.",
+      "The smell of rotting meat attracts flies \u2013 Not sure how this connects to the ground underneath.",
+      "Mice live in holes in the ground in fields \u2013 Maybe mice would be attracted to the rotting grain, which could affect the soil structure."
+    ]
+  },
+  "1956": {
+    "question": "In what way do mice come into the world?",
+    "selected_facts": []
+  },
+  "1949": {
+    "question": "A full moon is caused by",
+    "selected_facts": [
+      "The moon orbiting the Earth causes the phases of the moon.",
+      "The phases of the Moon change the appearance of the Moon.",
+      "The first quarter phase occurs after the new moon."
+    ]
+  },
+  "7-933": {
+    "question": "If a road is bumpy and another road is smooth, the bumpier road",
+    "selected_facts": [
+      "Talks about animals near roads possibly getting killed by cars.",
+      "Defines slope as elevation difference.",
+      "Discusses carnivores or predators."
+    ]
+  },
+  "7-428": {
+    "question": "Tree rings can",
+    "selected_facts": [
+      "The number of rings in a tree trunk can be used to estimate the age of the tree.",
+      "As the amount of available water decreases, tree-growth rings will become narrower.",
+      "A tree growing a tree-growth ring occurs once per year."
+    ]
+  },
+  "7-821": {
+    "question": "Pouring lemon juice into water",
+    "selected_facts": []
+  },
+  "1209": {
+    "question": "what do animals need to protect them from bad weather?",
+    "selected_facts": [
+      "Shelter can protect animals from weather \u2013 This seems directly related because shelter is a common way animals avoid harsh weather.",
+      "A greenhouse is used to protect plants by keeping them warm \u2013 That's about plants, not animals, so probably not relevant here.",
+      "Most animals avoid bad odors \u2013 Not sure how this relates to protecting from weather."
+    ]
+  },
+  "9-1007": {
+    "question": "Shelter can protect humans from",
+    "selected_facts": [
+      "Shelter protects humans from weather.",
+      "Shelter protects animals from weather.",
+      "Animal requires shelter."
+    ]
+  },
+  "1483": {
+    "question": "Roses are propped up by",
+    "selected_facts": []
+  },
+  "7-283": {
+    "question": "A way to tell if a rock could possibly hold Fe inside is to",
+    "selected_facts": [
+      "Fact 2 says that if a magnet is attracted to a metal, then it will stick. This seems relevant because iron is magnetic. If a rock has Fe, it might be attracted to a magnet.",
+      "Fact 5 states that rock is made of minerals. Minerals can contain various elements, including iron. So this fact tells us that rocks are composed of materials which could include iron.",
+      "Fact 6 mentions that Earth is made of rock. While this is true, I'm not sure how directly it relates to the presence of Fe in a specific rock. It's more general information about Earth's composition rather than indicating if a particular rock has iron."
+    ]
+  },
+  "9-398": {
+    "question": "The black bear in Alaska is known for hunting this type of feast",
+    "selected_facts": [
+      "Camouflage can be used for hunting for food.",
+      "Camouflage can be used for hunting for prey.",
+      "Hunting means humans kill animals in the wild."
+    ]
+  },
+  "8-370": {
+    "question": "on which of these does a ball fall faster from a height?",
+    "selected_facts": [
+      "A beach ball contains gas. This seems relevant because if the beach ball is filled with gas (like air), it's less dense than something solid. Lower density could mean more buoyancy and less mass, which affects how fast it falls.",
+      "Precipitation involves rain, hail, or snow falling from clouds. While this relates to falling objects, precipitation types might not directly influence the speed of a ball unless considering factors like size or weight.",
+      "Again, talking about hail as precipitation. Hailstones are denser and larger than raindrops or snowflakes, so they would fall faster. This could be relevant if comparing different types of balls made from materials that behave similarly to these forms of precipitation."
+    ]
+  },
+  "9-474": {
+    "question": "resources other than manmade can only be found on",
+    "selected_facts": [
+      "Renewable resources can be used over again.",
+      "Carbon dioxide can be found in the air.",
+      "Something reusable can be used more than once."
+    ]
+  },
+  "1377": {
+    "question": "Animals of the Arctic thrive in",
+    "selected_facts": []
+  },
+  "1987": {
+    "question": "National parks",
+    "selected_facts": []
+  },
+  "9-502": {
+    "question": "A storm is coming and dark clouds are rolling in, which were formed after",
+    "selected_facts": []
+  },
+  "1152": {
+    "question": "Using trash in the way it was used in the last scene of the 'Back to the Future' movie is, most ideally, an example of:",
+    "selected_facts": [
+      "Carbon dioxide concentrations increasing: I don't see how this directly relates to using trash as fuel. It's more about environmental impact but not specifically about recycling.",
+      "Chloroplasts in leaves: This is biology-related, not relevant here.",
+      "Moisture example: Not related to waste or recycling."
+    ]
+  },
+  "9-38": {
+    "question": "Keeping your fast food bags in the car until you get home instead of throwing them out the window is an example of protecting the",
+    "selected_facts": [
+      "Reducing pollutants is about lowering harmful substances, but this action isn't directly about reducing emissions or chemicals.",
+      "Reducing waste makes sense because keeping the bags instead of littering reduces the amount of trash in the environment.",
+      "Creating protected areas doesn't seem related here; that's more about setting aside land for conservation."
+    ]
+  },
+  "304": {
+    "question": "Draining the rain with a rain gutter onto bare ground through a spout will",
+    "selected_facts": [
+      "Clouds produce rain \u2013 that's about where rain comes from, not so relevant here.",
+      "Rain is a source of water \u2013 yes, but in this context, we're more focused on what happens when it hits the ground.",
+      "Wind and rain cause erosion \u2013 okay, this seems relevant because if you have a lot of water hitting bare soil, it can wash away the topsoil."
+    ]
+  },
+  "9-911": {
+    "question": "What do animals do if their habitat cannot support them?",
+    "selected_facts": [
+      "Fact 3: \"if a habitat can no longer support animals then those animals will move to another area.\"",
+      "Fact 9: \"if a habitat is removed then that habitat is destroyed.\"",
+      "Fact 10: \"habitat destruction causes animals to move to find shelter in another habitat.\""
+    ]
+  },
+  "9-53": {
+    "question": "Water boiling in a pot on a stove is an example of",
+    "selected_facts": [
+      "Fact 2: \"boiling is when liquids are heated above their boiling point\" \u2013 This directly defines the process of boiling.",
+      "Fact 3: \"a stove generates heat for cooking usually\" \u2013 This explains how the stove provides the necessary heat for boiling.",
+      "Fact 7: \"An example of evaporation is a body of water drying up by absorbing heat energy\" \u2013 This relates to the broader concept of vaporization, which includes boiling."
+    ]
+  },
+  "1700": {
+    "question": "For what does a stove generally generate heat?",
+    "selected_facts": []
+  },
+  "9-65": {
+    "question": "A running car engine could",
+    "selected_facts": [
+      "Fact 1: A car engine is a source of heat.",
+      "Fact 2: A car engine usually converts gasoline into motion and heat through combustion.",
+      "Fact 3: An electric car uses less gasoline than a regular car."
+    ]
+  },
+  "9-1076": {
+    "question": "The ground moving when the atomic bombs landed is similar to?",
+    "selected_facts": [
+      "The Great Lakes were formed by glaciers moving over the ground. Glaciers cause large-scale movements of land over time, creating lakes like the Great Lakes. So this is about ground movement due to natural processes, but it's a slower process compared to an atomic bomb explosion.",
+      "Precipitation is when hail falls from clouds to the ground. Hail falling doesn't really cause the ground to move; precipitation affects the surface but doesn't typically lead to significant ground displacement.",
+      "Magma is found below the ground. While magma movement can cause earthquakes or volcanic eruptions, which do affect the ground, this fact just states its location, not the effect."
+    ]
+  },
+  "7-106": {
+    "question": "What offers a tree with stability and a way to distribute nutrients throughout the plant?",
+    "selected_facts": [
+      "Veins transport nutrients throughout the body \u2013 This seems relevant because it talks about nutrient distribution.",
+      "Arteries transport nutrients \u2013 Also relevant, but more animal-related, so maybe not as applicable to trees.",
+      "Animal nutrient requirements \u2013 Not directly related to a tree's structure."
+    ]
+  },
+  "1631": {
+    "question": "Standing near a campfire",
+    "selected_facts": [
+      "Flood plains are located near rivers. I'm not sure how this connects directly to campfires. Maybe if a campsite is near a river, but the connection isn't obvious to me yet.",
+      "Animals live and feed near their habitats. That makes sense because near a campfire, you might encounter animals that are native to that area. So if someone is standing by a campfire in the wilderness, they could be near animals that are part of their natural habitat.",
+      "The continental shelf is located near the shore. This seems less relevant unless the campfire is on a beach, but even then, I'm not sure how the continental shelf ties into being near a campfire."
+    ]
+  },
+  "1213": {
+    "question": "What is an example of an animal needing warmth for survival?",
+    "selected_facts": [
+      "\"an animal requires warmth for survival\" - Directly states the necessity.",
+      "\"an egg requires warmth to develop\" - Shows a specific instance where warmth is crucial for life processes.",
+      "\"An example of a seasonal change is an animal growing thick fur for keeping warm in the winter\" - Provides a clear adaptation example related to warmth."
+    ]
+  },
+  "9-300": {
+    "question": "How many minutes are in a 24 hour day?",
+    "selected_facts": []
+  },
+  "1470": {
+    "question": "The moon is what to the earth?",
+    "selected_facts": [
+      "**Fact 3**: The moon is the celestial object that is closest to the Earth, highlighting their proximity.",
+      "**Fact 5**: The moon orbits the Earth, establishing its role as a natural satellite.",
+      "**Fact 8**: The moon reflects sunlight towards the Earth, explaining its visibility from our planet."
+    ]
+  },
+  "8-241": {
+    "question": "As an herbivore, deers will eat",
+    "selected_facts": [
+      "As energy required increases, pulse increases. Hmm, not directly related to diet.",
+      "Depth increase leads to pressure increase. Seems unrelated.",
+      "Distance affects object size appearance. Not relevant here."
+    ]
+  },
+  "9-515": {
+    "question": "which of these would lead to a rise in speed and acceleration?",
+    "selected_facts": []
+  },
+  "740": {
+    "question": "Weathering is",
+    "selected_facts": []
+  },
+  "9-775": {
+    "question": "Each of the moon's phases usually occurs once per",
+    "selected_facts": [
+      "each of the moon's phases usually occurs once per month",
+      "a different moon phase occurs once per week",
+      "the moon rising occurs once per day"
+    ]
+  },
+  "9-476": {
+    "question": "which of these people will have the best sight while driving to work?",
+    "selected_facts": [
+      "Decrease in visibility causes car crashes.",
+      "Bad weather decreases visibility.",
+      "Medicine causing bad reactions."
+    ]
+  },
+  "9-242": {
+    "question": "Some plants are easy for hummingbirds to sip nectar from. While the hummingbirds are taking nectar, the plants also gain something, which is",
+    "selected_facts": [
+      "Waxy leaves store water \u2013 seems related but not directly about nectar exchange.",
+      "Nectar attracts pollinators \u2013 this is relevant because nectar's purpose includes attracting animals like birds, which might help in pollination.",
+      "Plants are a source of fruit \u2013 fruits come after pollination, so maybe connected indirectly."
+    ]
+  },
+  "1064": {
+    "question": "Protect the environment by",
+    "selected_facts": []
+  },
+  "7-1124": {
+    "question": "A flashlight works because the batteries inside of it produce chemical energy that",
+    "selected_facts": [
+      "Fact 1 and Fact 4 both state that batteries convert chemical energy into electrical energy. That seems pretty important because it explains the initial step of energy conversion.",
+      "Fact 7 mentions that a light bulb converts electrical energy into light when turned on. This seems crucial because it's the part that actually emits the light we see.",
+      "Fact 3 says that a flashlight requires a source of electricity to produce light. That makes sense because without electrical energy, the light bulb can't function."
+    ]
+  },
+  "613": {
+    "question": "If it is dark outside it is hard to see an object because it there is no",
+    "selected_facts": []
+  },
+  "7-845": {
+    "question": "Electricity can flow as long as it has a conductor to help it along, such as",
+    "selected_facts": [
+      "Fact 1: \"sending electricity through a conductor causes electricity to flow through that conductor.\" This is pretty straightforward and directly ties sending electricity to its flow through a conductor. Seems relevant.",
+      "Fact 2: \"sending electricity through a conductor causes electric current to flow through that conductor.\" Similar to fact 1 but mentions 'electric current' specifically, which might be more precise than just 'electricity.' Electric current is the actual movement of charge, so this could also be very relevant.",
+      "Fact 6: \"An electrical conductor is a vehicle for the flow of electricity.\" This clearly states that conductors are used to facilitate the flow of electricity, which directly answers the question."
+    ]
+  },
+  "493": {
+    "question": "Which animal has the best camouflage in the Sahara?",
+    "selected_facts": [
+      "Talks about animals as consumers eating producers.",
+      "Also about consumers but eating other animals.",
+      "Defines camouflage as having the same color as the environment."
+    ]
+  },
+  "9-385": {
+    "question": "A drop off in predator population",
+    "selected_facts": [
+      "Fact 4: Explains predator behavior.",
+      "Fact 5: Directly answers the question.",
+      "Maybe Fact 7 to show reciprocal relationship, but not sure."
+    ]
+  },
+  "9-1161": {
+    "question": "panting is the equivalent to humans",
+    "selected_facts": [
+      "Panting is when an animal hangs its tongue out of its mouth to adjust to hot temperatures. - This directly explains what panting is and why animals do it, so this seems relevant.",
+      "Humans cause pollution. - While important, I don't see a direct link to panting or cooling down methods in humans.",
+      "Humans eat crops. - Again, not directly related to the process of cooling off."
+    ]
+  },
+  "8-74": {
+    "question": "If I wanted to gain energy I could",
+    "selected_facts": [
+      "Cooking adds heat (preparing food for energy)",
+      "Respiration to use energy from food",
+      "If food is cooked then heat energy is added to that food"
+    ]
+  },
+  "1939": {
+    "question": "Magnetism can cause",
+    "selected_facts": [
+      "**Fact 1**: Magnetism can cause objects to repel each other. That definitely makes sense because I remember learning that magnets have poles, and opposite poles attract while like poles repel. So this is a direct effect of magnetism.",
+      "**Fact 2**: Braking can cause skidding. Hmm, braking isn't about magnetism. It's more related to friction or physics in motion, but not directly magnetic effects. I don't think this one fits.",
+      "**Fact 3**: Molecules vibrating can cause sound. While molecules vibrating does relate to sound, I'm not sure how that ties into magnetism unless we're talking about something like electromagnetic vibrations. But this seems more of a general physics fact rather than directly caused by magnetism."
+    ]
+  },
+  "7-370": {
+    "question": "I need what to calculate the length from my big toe to my little toe?",
+    "selected_facts": [
+      "**Choose Your Tool:** Decide between using a meter stick (for straight, rigid measurement) or a tape measure (which is flexible and may be easier to wrap around your foot).",
+      "**Position Yourself:** Sit down and place your foot flat on the ground.",
+      "**Measure the Distance:**"
+    ]
+  },
+  "7-497": {
+    "question": "The sun appears to move because of the rotation of a",
+    "selected_facts": [
+      "The Earth rotating on its axis causes the sun to appear to move across the sky during the day.",
+      "A Rotation of the Earth on itself takes one day.",
+      "Stars appear to move relative to the horizon during the night."
+    ]
+  },
+  "9-958": {
+    "question": "A material that can be burned to produce electricity can be made from",
+    "selected_facts": []
+  },
+  "7-954": {
+    "question": "Sowing plants native to an ecosystem",
+    "selected_facts": [
+      "planting native plants has a positive impact on an ecosystem",
+      "planting trees has a positive impact on an ecosystem",
+      "humans moving into an environment usually causes native species to lose their habitats"
+    ]
+  },
+  "9-22": {
+    "question": "A leaf falling from a tree means",
+    "selected_facts": [
+      "If a leaf falls off of a tree then that leaf is dead.",
+      "A leaf absorbs sunlight to perform photosynthesis."
+    ]
+  },
+  "9-288": {
+    "question": "The world changes over time, and an example of this could be",
+    "selected_facts": [
+      "Fact 1 talks about peat turning into coal when buried under soil and mud in a swamp over time. That definitely shows a process of change over a long period due to heat and pressure. So that's a good example.",
+      "Fact 2 says renewable resources can be used again. While it mentions reusability, it doesn't necessarily show a transformation or how the world changes through this process. It's more about sustainability than a physical change over time.",
+      "Fact 3 is about breaking down an object changing its shape and mass. This seems like a direct change, but I'm not sure if it's a natural process over time that affects the environment as much as some of the other facts might."
+    ]
+  },
+  "7-4": {
+    "question": "An electron microscope can",
+    "selected_facts": []
+  },
+  "449": {
+    "question": "If you had a telescope what is something meant to be viewed by it?",
+    "selected_facts": [
+      "Talks about composition identification.",
+      "About learned behaviors in animals.",
+      "Something absorbing something else."
+    ]
+  },
+  "436": {
+    "question": "Where might you find a gecko?",
+    "selected_facts": [
+      "**Fact 7:** Habitat destruction can force animals to relocate, which directly relates to why geckos would move to new areas if their original habitats are destroyed.",
+      "**Fact 9:** Tree roots affecting sidewalks suggests geckos may be found in urban or areas with trees near human structures, indicating possible locations.",
+      "**Fact 10:** Decrease in food and water leads animals to leave, which is a critical factor in determining where geckos might seek better resources."
+    ]
+  },
+  "1454": {
+    "question": "This is a rarely used way to produce electricity.",
+    "selected_facts": [
+      "biofuel is used to produce electricity by burning",
+      "tidal energy can be used to produce electricity",
+      "coal is used to produce electricity (but since it's common, maybe not)"
+    ]
+  },
+  "9-793": {
+    "question": "by congregating together a collection of organisms chances of survival",
+    "selected_facts": []
+  },
+  "1917": {
+    "question": "A substance people use for writing also helps an animal deal with",
+    "selected_facts": [
+      "An animal can survive in an environment with little food by storing fat.",
+      "An animal requires warmth for survival.",
+      "An animal requires nutrients for survival."
+    ]
+  },
+  "7-393": {
+    "question": "A swordbill is able to drink from long, narrow flowers where other birds are unable to because of",
+    "selected_facts": [
+      "Flowers as fruit source \u2013 maybe they have nectar, which is sugar-based.",
+      "Predators \u2013 irrelevant",
+      "Flowers becoming fruits \u2013 same as 1"
+    ]
+  },
+  "1472": {
+    "question": "Insects are eaten by",
+    "selected_facts": [
+      "**Identify Relevant Facts:** The task is to determine which animals eat insects. We need to select facts that mention an animal consuming insects.",
+      "**Evaluate Each Fact:**",
+      "**Select Top Three:** These three facts clearly and directly answer the question by naming specific animals that consume insects."
+    ]
+  },
+  "8-134": {
+    "question": "which of these could lead to the introduction of new plant species to a place?",
+    "selected_facts": []
+  },
+  "8-401": {
+    "question": "A man is building a cabin in a forested area that receives a lot of snow in the winter. The man would like the cabin to retain heat in the winter so that the cabin stays warm and that it is inexpensive to heat. In order to facilitate this desire, the man lines the walls of his cabin with",
+    "selected_facts": [
+      "Dissolving a substance in water causes the water to taste like that substance. Hmm, not sure how this relates to heating or insulation.",
+      "Snow falls during winter in the Arctic. Well, the area he's building in does get snow, so maybe relevant because of the environment, but is it directly about heat retention?",
+      "As rainfall increases, available water increases. Not really related to heating; more about water resources."
+    ]
+  },
+  "1686": {
+    "question": "Rabbits consume",
+    "selected_facts": [
+      "Eagles eat rabbits.",
+      "Rabbits eat plants.",
+      "Some rabbits live in forests."
+    ]
+  },
+  "7-738": {
+    "question": "Beaches are harmed",
+    "selected_facts": []
+  },
+  "7-174": {
+    "question": "Chemical changes can occur when",
+    "selected_facts": [
+      "Acid can cause chemical change - This makes sense because acids are known to react with other substances, causing chemical reactions and thus chemical changes.",
+      "Temperature changing can cause phase changes - Phase changes are physical changes (like melting or freezing), not chemical changes. So this might not be relevant.",
+      "Chemical splashing can cause harm to the eyes - While important for safety, it doesn't directly explain when chemical changes occur."
+    ]
+  },
+  "1417": {
+    "question": "To travel in an environmentally friendly way",
+    "selected_facts": []
+  },
+  "233": {
+    "question": "What is an example of friction occurring?",
+    "selected_facts": []
+  },
+  "9-349": {
+    "question": "What is formed by water evaporating from a solution of water and minerals?",
+    "selected_facts": []
+  },
+  "689": {
+    "question": "Deer often live near",
+    "selected_facts": [
+      "\"animals live and feed near their habitats\" \u2013 This seems pretty general but relevant because it talks about animals being close to where they live and eat. Since deer have specific habitats, this could be useful.",
+      "\"most predators live near the same environment as their prey\" \u2013 This is also relevant because if I know the predators of deer, knowing that they share environments might help pinpoint where deer are found. However, it's a bit more indirect compared to other facts.",
+      "\"a deer lives in a forest\" \u2013 This directly states where deer live, so this fact is definitely relevant. It gives a specific habitat for deer."
+    ]
+  },
+  "398": {
+    "question": "What animal will have the least pressure on it",
+    "selected_facts": [
+      "The amount of daylight is least on the winter solstice.",
+      "As air pressure increases, the reading on a barometer will rise.",
+      "As an object descends into water, the pressure on that object will increase."
+    ]
+  },
+  "7-132": {
+    "question": "Volume can indicate",
+    "selected_facts": [
+      "Fact 1 says that volume describes the size of an object. That makes sense because a larger object would occupy more space, so this seems relevant.",
+      "Fact 2 mentions that gases have variable volume. I know gases expand to fill their containers, so their volume isn't fixed. This ties into how different states of matter behave in terms of volume.",
+      "Fact 3 talks about density being mass over volume. While important, maybe it's a bit indirect since the question is more about what volume itself indicates rather than its relation to other measures like density."
+    ]
+  },
+  "9-659": {
+    "question": "humans can taste flavors, and so can",
+    "selected_facts": [
+      "Shelter protecting from weather: Doesn't seem related to taste.",
+      "Bacteria helping digest food in humans: While bacteria aid digestion, the fact doesn't directly state they can taste.",
+      "Swimming definition: Not relevant to taste."
+    ]
+  },
+  "7-1003": {
+    "question": "What does tearing do to a whole?",
+    "selected_facts": [
+      "Tearing means changing a whole into pieces.",
+      "Phase changes do not change mass.",
+      "Tearing an object changes that object's shape."
+    ]
+  },
+  "866": {
+    "question": "Coral can be found in",
+    "selected_facts": [
+      "\"coral lives in the ocean\" - This fact directly states that coral is found in the ocean.",
+      "\"usually coral lives in warm water\" - This provides additional detail about the specific environment coral prefers within the ocean."
+    ]
+  },
+  "7-303": {
+    "question": "Switching on a light can complete an electrical circuit, which may",
+    "selected_facts": [
+      "Fact 6: When electricity flows to a light bulb, it turns on.",
+      "Fact 3: The bulb requires electrical energy to produce light.",
+      "Fact 1: A complete circuit provides that energy."
+    ]
+  },
+  "9-287": {
+    "question": "Which of these is a solution?",
+    "selected_facts": [
+      "The type of material affects sound speed.",
+      "Planets receive heat from their stars as they orbit.",
+      "Fossil fuels take about 300 million years to form."
+    ]
+  },
+  "975": {
+    "question": "Large fins",
+    "selected_facts": [
+      "Large fins can move quickly through water (Fact 1)",
+      "Ecosystems contain many living organisms (Fact 7)",
+      "Another fact that might tie in, perhaps Fact 4 about saltwater if considering where fins are used."
+    ]
+  },
+  "8-372": {
+    "question": "A man grows flowers in the winter using his greenhouse. The flowers blossom there, despite the cold, freezing weather and lack of sunshine, because",
+    "selected_facts": [
+      "Some flowers become fruits: Hmm, not sure how this directly relates to growing flowers in winter. Maybe it's about using fruits as food, but I'm not connecting it yet.",
+      "Flowers are a source of fruit: Similar to the first fact. It might be more about agriculture than the environment needed for growth.",
+      "Lack of food causes starvation: This seems unrelated. We're talking about flowers, not human or animal nutrition."
+    ]
+  },
+  "611": {
+    "question": "On the moon people are pulled down",
+    "selected_facts": [
+      "Fact 1 says \"gravity causes substances to be pulled down on a planet.\" This seems directly relevant because it explains how gravity affects substances, which would include people.",
+      "Fact 2 states \"gravitational force causes objects that have mass to be pulled down on a planet.\" This is also about gravity causing pulling down but specifically mentions objects with mass. Since people have mass, this fact applies here too.",
+      "Fact 3 talks about down feathers as thermal insulators, which doesn't seem related to being pulled down by gravity. So I can probably rule this out."
+    ]
+  },
+  "9-694": {
+    "question": "why must a cell delegate its essential functionalities?",
+    "selected_facts": [
+      "If a cell cannot specialize then that cell must perform all life functions.",
+      "The cell membrane provides support for a cell.",
+      "A plant cell contains chloroplasts."
+    ]
+  },
+  "7-1035": {
+    "question": "It is possible to renew",
+    "selected_facts": [
+      "An animal knows instinctive behaviors when born. This is about instincts, which are innate and not really about renewal. Maybe related to life cycles but not directly.",
+      "If it's night, the sun has set. This relates to day-night cycles, which are renewable in a sense as they repeat daily. So this could be relevant if considering time or natural cycles.",
+      "A planet is exposed to its star's heat. This ties into energy absorption and possibly renewal of energy sources from stars like our Sun for Earth."
+    ]
+  },
+  "7-862": {
+    "question": "Grey clouds often appear before",
+    "selected_facts": [
+      "Grey clouds appear before precipitation.",
+      "Grey clouds are a source of precipitation.",
+      "Clouds produce rain."
+    ]
+  },
+  "7-989": {
+    "question": "A refraction of light that splits into all different colors often occurs after",
+    "selected_facts": []
+  },
+  "212": {
+    "question": "What does a skunk produce?",
+    "selected_facts": []
+  },
+  "7-900": {
+    "question": "If you add heat to something, a chemical reaction may take place, like when",
+    "selected_facts": [
+      "Cooking causes a chemical reaction: This makes sense because cooking involves heat and often changes the chemical properties of food. For example, baking bread where the dough rises due to yeast (a biological process but also involves chemical reactions) and then browning when heated.",
+      "An exothermic reaction increases the amount of heat: While this is about heat, it's more about the release of heat rather than adding heat causing a reaction. Exothermic reactions produce heat, so maybe not directly relevant to adding heat leading to a reaction.",
+      "If too much heat is transferred to an object then that object may burn: Burning is a chemical reaction (combustion), so this fits because adding excessive heat can cause a chemical change. However, it's more about the negative consequence of too much heat rather than just causing a reaction in general."
+    ]
+  },
+  "1467": {
+    "question": "When hurricanes move over land, the hurricane does what?",
+    "selected_facts": [
+      "When a hurricane moves over land, that hurricane will decrease in strength.",
+      "Friction occurs when two objects' surfaces move against each other (explaining why strength decreases).",
+      "Soil erosion is when wind moves soil from environments (showing an effect of the hurricane moving over land)."
+    ]
+  },
+  "1484": {
+    "question": "In which situation would an animal shed fur?",
+    "selected_facts": [
+      "Some animals shed fur in warm weather.",
+      "In the food chain process, an animal has the role of consumer which eats producers for food.",
+      "In the food chain process, an animal has the role of consumer which eats other animals for food."
+    ]
+  },
+  "9-272": {
+    "question": "A thermal conductor may conduct energy from",
+    "selected_facts": []
+  },
+  "7-978": {
+    "question": "Acid rain may effect things in ways such as",
+    "selected_facts": [
+      "Acid rain has a negative impact on water quality.",
+      "Seeds may sprout when buried in soil.",
+      "As the amount of rain increases, available sunlight will decrease."
+    ]
+  },
+  "927": {
+    "question": "White blood cells",
+    "selected_facts": [
+      "Fact 1: Directly states the function of white blood cells in destroying pathogens.",
+      "Fact 9: Explains how white blood cells are transported throughout the body via the circulatory system.",
+      "Maybe fact 4 is less relevant but still includes that all cells, including white blood cells, perform cellular respiration."
+    ]
+  },
+  "27": {
+    "question": "If seeds stick to the coat of an animal they can be?",
+    "selected_facts": [
+      "If seeds stick to the fur of an animal then that seed will be transported by the animal.",
+      "An example of seed dispersal is an animal gathering seeds.",
+      "If an animal hatches from an egg then that animal is born."
+    ]
+  },
+  "9-847": {
+    "question": "Pulse accelerates",
+    "selected_facts": [
+      "As energy required for an activity increases, pulse will increase. This seems directly related because when you need more energy (like during exercise), your heart beats faster, which makes sense.",
+      "Population of plants decreasing leads to more carbon in the atmosphere. Not sure how this connects to pulse acceleration. Maybe not relevant here.",
+      "Prey population decreasing causes predator competition to rise. Again, doesn't seem related to pulses or heart rate."
+    ]
+  },
+  "8-412": {
+    "question": "Springtime with animals can mean:",
+    "selected_facts": [
+      "Baking soda reacting with vinegar \u2013 This doesn't seem relevant because it's a chemical reaction, not related to animals or seasons.",
+      "Two females can't usually reproduce together \u2013 While this is about reproduction, the question is about springtime, which might relate to breeding seasons, but I'm not sure if this specific fact is directly connected.",
+      "Shelter protecting animals from weather \u2013 Spring could mean changes in weather, so this might be relevant as shelter becomes important during seasonal changes."
+    ]
+  },
+  "7-457": {
+    "question": "Bicycle riding is nearly unique to certain species such as",
+    "selected_facts": [
+      "Fact 3 says \"a human can pedal a bicycle.\" This directly relates because it states that humans have the ability to ride bikes. That's pretty relevant.",
+      "Fact 5 mentions if members of a species are born, population increases. Not sure how this ties into bike riding specifically. Maybe indirectly related to species' survival but not directly about their ability to ride bikes.",
+      "Fact 6 talks about extinction if they can't produce offspring. Again, seems more about reproduction than the activity of biking."
+    ]
+  },
+  "1015": {
+    "question": "Transpiration can contribute to",
+    "selected_facts": []
+  },
+  "9-503": {
+    "question": "migration is when animals travel from the northern most state to Texas during what segment of time?",
+    "selected_facts": [
+      "Migration is moving from cooler to warmer climates for winter.",
+      "Arctic environment is cold below 0\u00b0C most of the year.",
+      "Migration is an annual cycle movement."
+    ]
+  },
+  "7-973": {
+    "question": "A species that has only 1 living member",
+    "selected_facts": [
+      "If all members of a species cannot produce offspring then that species will likely become extinct.",
+      "Harming an animal species causes that animal 's population to decrease.",
+      "If members of a species are born then the population of that species increases."
+    ]
+  },
+  "771": {
+    "question": "Which shows a change from potential energy to kinetic energy?",
+    "selected_facts": [
+      "\"potential energy changes to kinetic energy through motion\" \u2013 This directly states that potential becomes kinetic via motion. Seems relevant.",
+      "\"motion is a source of kinetic energy in an object\" \u2013 Explains how motion relates to kinetic energy, which connects with how potential turns into kinetic when something moves.",
+      "\"evaporation means change from a liquid into a gas by adding heat energy\" \u2013 Evaporation involves phase changes and energy transfer, but it's more about thermal energy than the conversion between potential and kinetic specifically."
+    ]
+  },
+  "8-98": {
+    "question": "What is one thing cloud precipitation can be?",
+    "selected_facts": []
+  },
+  "801": {
+    "question": "Smoothing will occur",
+    "selected_facts": [
+      "Landslides often occur on mountains.",
+      "As daylight increases, sunset occurs later.",
+      "Day-night cycles happen once daily."
+    ]
+  },
+  "9-677": {
+    "question": "The type of climate change known as anthropogenic is caused by this:",
+    "selected_facts": [
+      "Fact 1 talks about classifying something by type. That doesn't seem related to climate change causes.",
+      "Fact 2 defines climate as usual weather in a location. While relevant to understanding climate, it doesn't explain the cause of anthropogenic change.",
+      "Fact 3 is about plant seeds and inheritance; not directly related."
+    ]
+  },
+  "851": {
+    "question": "Birds reproduce using",
+    "selected_facts": []
+  },
+  "9-1112": {
+    "question": "which of these is more similar to electric particles behavior?",
+    "selected_facts": [
+      "Electricity is made of moving charged particles \u2013 This directly talks about moving charged particles, which is exactly what electric particles do. So this seems very relevant.",
+      "Electric car with an electric motor \u2013 This relates more to the application of electricity rather than the behavior of particles themselves. So maybe not as similar.",
+      "Electric devices require energy \u2013 Again, more about usage than particle behavior."
+    ]
+  },
+  "655": {
+    "question": "What comes directly from the source?",
+    "selected_facts": [
+      "Fact 1: raw materials come from a source.",
+      "Fact 5: image comes through pinhole, which is a direct method.",
+      "Fact 3: looking directly at the sun causes harm, implying sunlight comes directly."
+    ]
+  },
+  "9-144": {
+    "question": "Clouds are",
+    "selected_facts": [
+      "Fact 2: \"clouds are formed by water vapor rising and condensing\"",
+      "Fact 3: \"clouds produce rain\"",
+      "Fact 6: \"cloudy means the presence of clouds in the sky\""
+    ]
+  },
+  "9-176": {
+    "question": "To experience evaporation you can",
+    "selected_facts": [
+      "Evaporation causes the amount of water to decrease.",
+      "Evaporation is a stage in the water cycle process.",
+      "Bacteria can cause people to become ill."
+    ]
+  },
+  "9-194": {
+    "question": "deserts are known for having what type of climates?",
+    "selected_facts": []
+  },
+  "9-522": {
+    "question": "When the Earth's Northern axis is tilted away from the Sun the amount of daylight is",
+    "selected_facts": [
+      "Winter is when a hemisphere is tilted away from the sun.",
+      "Winter in a hemisphere occurs when the Pole located there is tilted away.",
+      "Summer is when a hemisphere tilts towards the Sun."
+    ]
+  },
+  "9-704": {
+    "question": "A flashlight emits",
+    "selected_facts": [
+      "A flashlight emits light.",
+      "A flashlight converts chemical energy into light energy.",
+      "A flashlight requires a source of electricity to produce light."
+    ]
+  },
+  "7-168": {
+    "question": "Where is the sun located at 12:00 PM?",
+    "selected_facts": []
+  },
+  "9-711": {
+    "question": "What type of human diet would be most comparable to a cow",
+    "selected_facts": [
+      "A human requires rest to be healthy.",
+      "A human requires sleep to be healthy.",
+      "The type of seed of a plant is an inherited characteristic."
+    ]
+  },
+  "8-237": {
+    "question": "which of these individuals would be more healthy?",
+    "selected_facts": [
+      "Something reusable can be used more than once. - This is about sustainability but not directly health.",
+      "As the size of an object appears larger, that object will be seen more easily. - This relates to visibility and perception.",
+      "The type of material through which sound passes changes the speed at which sound travels. - This is about acoustics and physics."
+    ]
+  },
+  "7-481": {
+    "question": "We made sure to use the hose on the begonia daily so it would",
+    "selected_facts": [
+      "Talks about alternative fuels and gasoline\u2014probably not relevant.",
+      "Respiration in living things\u2014maybe related since plants need energy, but not directly about watering.",
+      "Planet exposed to star's heat\u2014about astronomy, so probably not."
+    ]
+  },
+  "8-148": {
+    "question": "pushing against a rolling boulder will decrease its",
+    "selected_facts": [
+      "Smoothness increasing reduces friction.",
+      "Squid producing thrust by pushing water.",
+      "Roughness increasing increases friction."
+    ]
+  },
+  "125": {
+    "question": "In a desert area plants grow",
+    "selected_facts": [
+      "Plants require water for growth, which is scarce in deserts (Fact 1).",
+      "Deserts have low water availability (Fact 4).",
+      "High temperatures in deserts affect plant growth (Fact 3)."
+    ]
+  },
+  "7-932": {
+    "question": "what is one use for a radio",
+    "selected_facts": []
+  },
+  "7-717": {
+    "question": "Squirrels are seed dispersers because",
+    "selected_facts": [
+      "Squirrels gather nuts in autumn (3)",
+      "This is a form of seed dispersal as animals move seeds (8 or 9)",
+      "The definition of seed dispersal as moving seeds from parent plant to another area (6)"
+    ]
+  },
+  "7-747": {
+    "question": "If something good is increased, survival of organisms needing it increase, such as when",
+    "selected_facts": [
+      "\"as number of organisms in a group increases, the chance of survival of each organism will increase\" \u2013 This seems relevant because it directly talks about the relationship between population size and survival chances.",
+      "\"if it is night then the sun has set\" \u2013 I don't see how this relates to the question. It's more about time of day, which doesn't seem connected to resource availability or survival rates.",
+      "\"An example of camouflage is when something is the same color as its environment\" \u2013 Camouflage is about blending in, which can affect survival by avoiding predators. However, it's an example rather than a general fact, and not directly about resource increase leading to survival increase."
+    ]
+  },
+  "9-999": {
+    "question": "Turning beef from red to brown requires energy from",
+    "selected_facts": [
+      "An animal requires energy to move \u2013 This seems unrelated because cooking isn't about an animal moving.",
+      "The sun transfers solar energy through sunlight \u2013 While the sun provides energy, it's not directly about how that energy is used for cooking beef.",
+      "A thermal conductor transferring heat \u2013 This is relevant because cooking involves transferring heat from a hotter source to the cooler meat."
+    ]
+  },
+  "9-103": {
+    "question": "What is the earth's surface made of?",
+    "selected_facts": []
+  },
+  "9-1044": {
+    "question": "A frog reproduces with some other frogs, then watches over the potential offspring which are",
+    "selected_facts": [
+      "Two females can't usually reproduce with each other.",
+      "Nutrients in soil affect the food chain.",
+      "Some birds are predators."
+    ]
+  },
+  "9-685": {
+    "question": "What room in a house would signify the excretory system?",
+    "selected_facts": [
+      "The first fact says the excretory system removes waste from the body. That seems directly related because it's about what the excretory system does.",
+      "The second fact is about echoes in a room when sound is produced. I'm not sure how this connects to the excretory system, unless maybe if someone makes a noise in that room, but it doesn't seem relevant.",
+      "Mice living in holes\u2014probably not related at all."
+    ]
+  },
+  "7-640": {
+    "question": "If a tree burns down, it can be made right by",
+    "selected_facts": [
+      "Fact 1 says that a tree can be replaced by planting a new one. That directly addresses the idea of making it right by replanting. Seems very relevant.",
+      "Fact 7 mentions dry wood easily burns. This explains why trees burn down, but doesn't really help in fixing the situation. So maybe not as relevant unless we're considering prevention, but the question is about what to do after burning.",
+      "Fact 6 states that if a tree is cut down, it dies. That's more about cutting than burning, but still relates to destruction leading to death. However, how does this help in making it right? It just confirms the outcome of cutting, not the solution."
+    ]
+  },
+  "1374": {
+    "question": "What role does the first step in the food chain have?",
+    "selected_facts": []
+  },
+  "8-382": {
+    "question": "A person is travelling and needs to know how much further to go, so for the remainder of the trip, he is",
+    "selected_facts": []
+  },
+  "1151": {
+    "question": "Water at 50 degree  C is",
+    "selected_facts": [
+      "The sun being overhead doesn't seem relevant here.",
+      "Clams living at the ocean bottom\u2014probably not related to water's properties at 50\u00b0C.",
+      "Freezing point is about when a liquid turns solid, which is crucial because knowing if 50\u00b0C is above or below freezing matters for water's state."
+    ]
+  },
+  "9-469": {
+    "question": "A phase change is",
+    "selected_facts": []
+  },
+  "8-67": {
+    "question": "A plant can germinate in another place when a person rubs against its",
+    "selected_facts": []
+  },
+  "7-242": {
+    "question": "Owls spend their nights",
+    "selected_facts": [
+      "Animals adapt to their environment.",
+      "Organisms live in their habitat.",
+      "Living things live in their habitat."
+    ]
+  }
+}
