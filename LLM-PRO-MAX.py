@@ -51,7 +51,7 @@ def call_deepseek(messages, model_name):
 def extract_final_answer(answer_text):
     """
     Extracts the final answer label (A-D) from the answer text.
-    Expects a line formatted as: "Final Answer: <label>"
+    Expects a line formatted as: "Final Answer: <letter>"
     """
     match = re.search(r"Final Answer:\s*([A-D])", answer_text, re.IGNORECASE)
     if match:
@@ -68,7 +68,7 @@ def majority_vote(votes):
     if not filtered_votes:
         return None
     count = Counter(filtered_votes)
-    majority, freq = count.most_common(1)[0]
+    majority, _ = count.most_common(1)[0]
     return majority
 
 
@@ -276,7 +276,6 @@ def run_normal_evaluation(
 
     total_tasks = num_models * num_questions
     pbar = tqdm(total=total_tasks, desc="Evaluating models")
-    # Process one model at a time.
     for model_index, model in enumerate(models):
         print(f"\nEvaluating all questions using model: {model}")
         tasks = []
@@ -332,14 +331,16 @@ AGGREGATOR_SYSTEM_MESSAGE = (
     "You are a meta-reasoning system. You have the main question and the answers that various models have given. "
     "Taking the original question into account, analyze the set of answers and select the best one. "
     "Pick the single best final answer (A, B, C, or D). "
-    "You must produce 'Final Answer: <letter>' at the end."
+    "You must produce 'Final Answer: <letter>' at the end. "
+    "Example: 'Final Answer: B'. DO NOT INCLUDE ANY STYLING OR LATEX."
 )
 
 AGGREGATOR_SYSTEM_MESSAGE_2 = (
     "You are a meta-reasoning system. You have the main question and the answers that various models have given. "
     "Taking the original question into account, analyze the set of answers and select the least bad. "
     "Pick the single best final answer (A, B, C, or D). "
-    "You must produce 'Final Answer: <letter>' at the end."
+    "You must produce 'Final Answer: <letter>' at the end. "
+    "Example: 'Final Answer: B'. DO NOT INCLUDE ANY STYLING OR LATEX."
 )
 
 
@@ -371,10 +372,12 @@ def run_aggregator_phase_single(
 ):
     """
     Runs a single aggregator phase using the provided aggregator_model and system_message.
+    If the extracted final answer is None, retries the prompt until a valid answer is received (up to max_retries).
     Returns a dict: { question_id: aggregator_answer_index } and writes JSON once after processing.
     """
     aggregator_results = {}
     tasks = {}
+    max_retries = 20
     with ThreadPoolExecutor(max_workers=50) as executor:
         for question in questions:
             qid = question.get("id", "unknown")
@@ -388,18 +391,35 @@ def run_aggregator_phase_single(
                 {"role": "system", "content": system_message},
                 {"role": "user", "content": user_prompt},
             ]
-            tasks[executor.submit(call_deepseek, messages, aggregator_model)] = qid
+            tasks[executor.submit(call_deepseek, messages, aggregator_model)] = (
+                qid,
+                messages,
+            )
 
         for future in tqdm(
             as_completed(tasks), total=len(tasks), desc="Aggregator Phase"
         ):
-            qid = tasks[future]
+            qid, messages = tasks[future]
             try:
                 agg_response = future.result()
             except Exception as e:
                 print(f"Aggregator error for question {qid}: {e}")
                 agg_response = ""
             final_label = extract_final_answer(agg_response) if agg_response else None
+            retry_count = 0
+            while final_label is None and retry_count < max_retries:
+                print(
+                    f"Retrying aggregator for question {qid} (attempt {retry_count+1})..."
+                )
+                agg_response = call_deepseek(messages, aggregator_model)
+                final_label = (
+                    extract_final_answer(agg_response) if agg_response else None
+                )
+                retry_count += 1
+            if final_label is None:
+                print(
+                    f"Aggregator still could not extract a valid answer for question {qid} after {max_retries} retries."
+                )
             aggregator_results[qid] = LETTER_TO_INT.get(final_label, None)
             question = next((q for q in questions if q.get("id") == qid), None)
             if question:
@@ -411,10 +431,6 @@ def run_aggregator_phase_single(
                 print("Choices:")
                 for choice in choices:
                     print(f"  {choice['label']}: {choice['text']}")
-                print("Model responses:")
-                model_responses = all_model_answers.get(qid, {})
-                for m, resp in model_responses.items():
-                    print(f"  {m}: {resp}")
                 print("Aggregator Output:")
                 print(agg_response)
                 print(f"Extracted Aggregator Final Answer: {final_label}")
@@ -441,7 +457,6 @@ def compute_final_answers(questions, results_matrix, aggregator1, aggregator2):
     final_answers = {}
     for q_idx, question in enumerate(questions):
         qid = question.get("id", "unknown")
-        # Compute simple majority vote from evaluation results
         votes = [
             results_matrix[m][q_idx]
             for m in range(num_models)
@@ -476,16 +491,16 @@ def print_statistics(
     results_matrix,
     expected_answers,
     models,
-    aggregator_answers,
+    aggregator1,
+    aggregator2,
     final_answers,
     aggregator_name="DeepSeek Aggregator",
 ):
     """
     Prints statistics including:
       - Individual model accuracies
-      - Questions with the most disagreement
-      - Majority vote accuracy (evaluation only)
-      - Aggregator accuracy (each aggregator and final answer accuracy)
+      - Majority vote (evaluation) accuracy
+      - Aggregator 1 accuracy, Aggregator 2 accuracy, and Final combined answer accuracy.
     """
     num_models = len(models)
     num_questions = len(questions)
@@ -502,34 +517,6 @@ def print_statistics(
             (correct_count / num_questions * 100) if num_questions > 0 else 0
         )
         print(f"{model}: {accuracy_model:.2f}% ({correct_count}/{num_questions})")
-
-    disagreement_stats = []
-    for q_index in range(num_questions):
-        votes = [
-            results_matrix[m][q_index]
-            for m in range(num_models)
-            if results_matrix[m][q_index] is not None
-        ]
-        unique_votes = set(votes)
-        disagreement_stats.append((q_index, len(unique_votes), unique_votes))
-    disagreement_stats = [d for d in disagreement_stats if d[1] > 1]
-    disagreement_stats.sort(key=lambda x: x[1], reverse=True)
-
-    print("\nQuestions with Most Disagreement Among Models:")
-    if not disagreement_stats:
-        print("No disagreements found among models.")
-    else:
-        for q_index, unique_count, unique_votes in disagreement_stats:
-            question_id = questions[q_index]["id"]
-            print(f"Question {question_id} - Unique answers count: {unique_count}")
-            print(f"Question: {questions[q_index]['question']['stem']}")
-            print(
-                f"Expected Answer: {questions[q_index]['answerKey']} (int: {expected_answers[q_index]})"
-            )
-            for m in range(num_models):
-                vote = results_matrix[m][q_index]
-                print(f"  {models[m]}: {vote}")
-            print("")
 
     majority_votes = []
     for q_index in range(num_questions):
@@ -553,18 +540,18 @@ def print_statistics(
         f"\nMajority vote (evaluation) accuracy: {majority_accuracy:.2f}% ({correct_majority}/{num_questions})"
     )
 
-    # For aggregator accuracy, you can print aggregator1's stats, aggregator2's stats, and final answer stats.
-    agg1_correct = (
-        sum(
-            1
-            for q in questions
-            if aggregator_answers[0].get(q.get("id", "unknown"))
-            == LETTER_TO_INT.get(q["answerKey"], None)
-        )
-        if isinstance(aggregator_answers, list) and len(aggregator_answers) > 0
-        else None
+    agg1_correct = sum(
+        1
+        for q in questions
+        if aggregator1.get(q.get("id", "unknown"))
+        == LETTER_TO_INT.get(q["answerKey"], None)
     )
-    # In this implementation, aggregator accuracy is computed via final_answers.
+    agg2_correct = sum(
+        1
+        for q in questions
+        if aggregator2.get(q.get("id", "unknown"))
+        == LETTER_TO_INT.get(q["answerKey"], None)
+    )
     final_correct = sum(
         1
         for q in questions
@@ -572,7 +559,13 @@ def print_statistics(
         == LETTER_TO_INT.get(q["answerKey"], None)
     )
     print(
-        f"\nFinal combined answer accuracy: {final_correct/num_questions*100:.2f}% ({final_correct}/{num_questions})"
+        f"\nAggregator 1 accuracy: {agg1_correct/num_questions*100:.2f}% ({agg1_correct}/{num_questions})"
+    )
+    print(
+        f"Aggregator 2 accuracy: {agg2_correct/num_questions*100:.2f}% ({agg2_correct}/{num_questions})"
+    )
+    print(
+        f"Final combined answer accuracy: {final_correct/num_questions*100:.2f}% ({final_correct}/{num_questions})\n"
     )
 
 
@@ -583,7 +576,7 @@ def print_statistics(
 
 def main():
     # 1) Load the dev questions
-    questions_num = 3  # or however many you want
+    questions_num = int(input("\nENTER NUMBER OF QUESTIONS TO PROCESS: "))
     dev_file = os.path.join("OpenBookQA-V1-Sep2018", "Data", "Main", "dev.jsonl")
     with open(dev_file, "r") as f:
         lines = list(islice(f, questions_num))
@@ -610,8 +603,11 @@ def main():
     # Available models for splitting.
     SPLITTING_MODEL_OPTIONS = [
         "phi4:latest",
-        "deepseek-r1:32b",
         "dolphin-mixtral:latest",
+        "aratan/qwen2.5-14bu:latest",
+        "deepseek-r1:32b",
+        "mistral:latest",
+        "qwen2.5:32b",
     ]
     print("\nAvailable Splitting Models:")
     for i, model in enumerate(SPLITTING_MODEL_OPTIONS, start=1):
@@ -675,7 +671,15 @@ def main():
         selected_eval_models = EVAL_MODEL_OPTIONS
 
     # Available aggregator models.
-    AGG_MODEL_OPTIONS = ["deepseek-r1:32b", "phi4:latest", "dolphin-mixtral:latest"]
+    AGG_MODEL_OPTIONS = [
+        "openthinker:32b",
+        "deepseek-r1:32b",
+        "dolphin-mixtral:latest",
+        "aratan/qwen2.5-14bu:latest",
+        "mistral:latest",
+        "phi4:latest",
+        "qwen2.5:32b",
+    ]
     print("\nAvailable Aggregator Models (for first aggregator):")
     for i, model in enumerate(AGG_MODEL_OPTIONS, start=1):
         print(f"{i}. {model}")
@@ -805,80 +809,44 @@ def main():
 
     # Step 4: Print final statistics
     if results_matrix is not None and expected_answers is not None:
+        agg1_correct = sum(
+            1
+            for q in questions
+            if aggregator_answers1.get(q.get("id", "unknown"))
+            == LETTER_TO_INT.get(q["answerKey"], None)
+        )
+        agg2_correct = sum(
+            1
+            for q in questions
+            if aggregator_answers2.get(q.get("id", "unknown"))
+            == LETTER_TO_INT.get(q["answerKey"], None)
+        )
+        final_correct = sum(
+            1
+            for q in questions
+            if final_answers.get(q.get("id", "unknown"))
+            == LETTER_TO_INT.get(q["answerKey"], None)
+        )
+        print(
+            f"\nAggregator 1 accuracy: {agg1_correct/len(questions)*100:.2f}% ({agg1_correct}/{len(questions)})"
+        )
+        print(
+            f"Aggregator 2 accuracy: {agg2_correct/len(questions)*100:.2f}% ({agg2_correct}/{len(questions)})"
+        )
+        print(
+            f"Final combined answer accuracy: {final_correct/len(questions)*100:.2f}% ({final_correct}/{len(questions)})\n"
+        )
         print_statistics(
             questions,
             results_matrix,
             expected_answers,
             selected_eval_models,
             aggregator_answers1,  # printing aggregator1 stats here
+            aggregator_answers2,  # printing aggregator2 stats here
             final_answers,
             aggregator_name="DeepSeek Aggregator",
         )
 
 
 if __name__ == "__main__":
-    # Define the new aggregator phase function here
-    def run_aggregator_phase_single(
-        questions,
-        all_model_answers,
-        aggregator_model="deepseek-r1:32b",
-        system_message=AGGREGATOR_SYSTEM_MESSAGE,
-        output_path="aggregator_answers.json",
-    ):
-        """
-        Runs a single aggregator phase using the provided aggregator_model and system_message.
-        Returns a dict: { question_id: aggregator_answer_index } and writes JSON once after processing.
-        """
-        aggregator_results = {}
-        tasks = {}
-        with ThreadPoolExecutor(max_workers=50) as executor:
-            for question in questions:
-                qid = question.get("id", "unknown")
-                question_stem = question["question"]["stem"]
-                choices = question["question"]["choices"]
-                model_responses = all_model_answers.get(qid, {})
-                user_prompt = build_aggregator_prompt(
-                    question_stem, choices, model_responses
-                )
-                messages = [
-                    {"role": "system", "content": system_message},
-                    {"role": "user", "content": user_prompt},
-                ]
-                tasks[executor.submit(call_deepseek, messages, aggregator_model)] = qid
-
-            for future in tqdm(
-                as_completed(tasks), total=len(tasks), desc="Aggregator Phase"
-            ):
-                qid = tasks[future]
-                try:
-                    agg_response = future.result()
-                except Exception as e:
-                    print(f"Aggregator error for question {qid}: {e}")
-                    agg_response = ""
-                final_label = (
-                    extract_final_answer(agg_response) if agg_response else None
-                )
-                aggregator_results[qid] = LETTER_TO_INT.get(final_label, None)
-                question = next((q for q in questions if q.get("id") == qid), None)
-                if question:
-                    question_stem = question["question"]["stem"]
-                    choices = question["question"]["choices"]
-                    expected = question["answerKey"]
-                    print(f"\nAggregator Evaluation for Question ID: {qid}")
-                    print(f"Question: {question_stem}")
-                    print("Choices:")
-                    for choice in choices:
-                        print(f"  {choice['label']}: {choice['text']}")
-                    print("Model responses:")
-                    model_responses = all_model_answers.get(qid, {})
-                    for m, resp in model_responses.items():
-                        print(f"  {m}: {resp}")
-                    print("Aggregator Output:")
-                    print(agg_response)
-                    print(f"Extracted Aggregator Final Answer: {final_label}")
-                    print(f"Expected Answer: {expected}\n")
-        with open(output_path, "w") as f:
-            json.dump(aggregator_results, f, indent=2)
-        return aggregator_results
-
     main()

@@ -19,5 +19,3484 @@
       "How do the properties of liquids differ from those of gases regarding filling a container?",
       "Under what conditions might a liquid not completely fill a container? "
     ]
+  },
+  "1953": {
+    "subqueries": [
+      "What are organisms capable of specializing?",
+      "How is specialization defined within biological contexts?",
+      "Are there any examples or characteristics of organisms that do not exhibit specialization?"
+    ]
+  },
+  "7-97": {
+    "subqueries": [
+      "What are the ideal conditions for growing cabbage in general?",
+      "How do environmental factors in January affect cabbage growth?",
+      "Which products or methods can simulate optimal growing conditions for cabbage during winter months like January?"
+    ]
+  },
+  "8-422": {
+    "subqueries": [
+      "What adaptations do frogs have for surviving cold winter conditions?",
+      "How does a frog's hibernation process work in terms of its physical state and environment?",
+      "What happens to a frog when temperatures rise in the spring after being frozen during winter? "
+    ]
+  },
+  "959": {
+    "subqueries": [
+      "What does a compass arrow indicate on a standard map?",
+      "How is \"opposite direction\" defined relative to an object or point?",
+      "Can you describe what it means for someone to be walking? "
+    ]
+  },
+  "9-1126": {
+    "subqueries": [
+      "What conditions lead to the formation of dew?",
+      "What substance typically condenses to form dew under these conditions?",
+      "How does this process differ from other forms of water condensation, like fog or rain?"
+    ]
+  },
+  "142": {
+    "subqueries": [
+      "What are the different units used for measuring the size of objects (e.g., meters, centimeters, inches)?",
+      "How can dimensions such as length, width, and height contribute to describing the size of an object?",
+      "In what ways do volume or area help in understanding the size of three-dimensional or two-dimensional objects, respectively?"
+    ]
+  },
+  "8-9": {
+    "subqueries": [
+      "What are the primary components found in magma?",
+      "Are there any gases present in magma, and if so, what types?",
+      "How do the mineral contents of magma vary based on its source or composition?"
+    ]
+  },
+  "7-921": {
+    "subqueries": [
+      "What processes can lead to a decrease in the temperature of a body?",
+      "Under what conditions might these cooling processes occur more effectively or rapidly?",
+      "Are there specific materials or environments where this temperature change is more likely to be observed?"
+    ]
+  },
+  "9-106": {
+    "subqueries": [
+      "What is the primary process in plants that requires light?",
+      "How does this process contribute to plant growth and development?",
+      "In what other ways can light influence a plant's physiological functions? "
+    ]
+  },
+  "9-1039": {
+    "subqueries": [
+      "What are some common methods or techniques used for collecting data?",
+      "Can you provide specific examples of how these methods are applied in real-world scenarios?",
+      "How does each method ensure the accuracy and reliability of the collected data? "
+    ]
+  },
+  "9-902": {
+    "subqueries": [
+      "What environmental conditions might have caused the fire to spread from an open field to a nearby forest?",
+      "How can fires spontaneously ignite in wide, open fields without direct human intervention or apparent sources of ignition?",
+      "What are common natural causes that could lead to the initiation and rapid spread of wildfires in areas where people are not present?"
+    ]
+  },
+  "739": {
+    "subqueries": [
+      "What types of animals have adaptations for cracking open objects?",
+      "How do these animals use their physical adaptations to crack open objects?",
+      "What is the purpose or benefit of an animal being able to crack open certain objects?"
+    ]
+  },
+  "7-684": {
+    "subqueries": [
+      "What characteristics define a resource as nonrenewable?",
+      "How does oil fit into the classification of renewable and nonrenewable resources?",
+      "What are the implications for oil availability over time given its classification? "
+    ]
+  },
+  "9-900": {
+    "subqueries": [
+      "What is the definition of a tunnel and what purposes do they serve?",
+      "What are the different types of tunnels, and how do their constructions vary?",
+      "What challenges and considerations are involved in designing and building tunnels?"
+    ]
+  },
+  "231": {
+    "subqueries": [
+      "What specific dangers do roads pose to animal populations?",
+      "How does road infrastructure impact wildlife movement and habitats?",
+      "In what ways can collisions between vehicles and animals occur, and what are the typical consequences for both parties?"
+    ]
+  },
+  "529": {
+    "subqueries": [
+      "How much water is typically used during a standard shower compared to a shorter shower?",
+      "What are the potential environmental impacts of reducing water usage through shorter showers?",
+      "What other benefits, besides conservation, might result from taking shorter showers? "
+    ]
+  },
+  "7-606": {
+    "subqueries": [
+      "What is the winter solstice and what does it signify?",
+      "On which date or dates can the winter solstice occur in both the Northern and Southern Hemispheres?",
+      "How do the positions of the Earth and Sun relate to the occurrence of the winter solstice?"
+    ]
+  },
+  "7-1139": {
+    "subqueries": [
+      "What specific actions can individuals take to positively impact the environment?",
+      "How do these individual actions contribute to broader environmental goals or improvements?",
+      "What are the measurable outcomes or indicators used to assess the positive impact on the environment from such actions? "
+    ]
+  },
+  "9-241": {
+    "subqueries": [
+      "What is the definition of kinetic energy?",
+      "How can you calculate the kinetic energy of an object?",
+      "Can you provide examples or scenarios where objects have high kinetic energy? "
+    ]
+  },
+  "7-316": {
+    "subqueries": [
+      "What are the primary effects of the Earth's revolution around the Sun on its climate and seasons?",
+      "How does the Earth's axial tilt interact with its orbit around the Sun to influence these effects?",
+      "Are there any other significant phenomena caused by the Earth's revolution that impact life or environmental conditions on Earth?"
+    ]
+  },
+  "9-472": {
+    "subqueries": [
+      "What are the main components required by plants for the process of photosynthesis?",
+      "How does each component contribute to the photosynthetic process in plants?",
+      "Are there any additional factors or conditions necessary for photosynthesis to occur effectively? "
+    ]
+  },
+  "7-131": {
+    "subqueries": [
+      "What is the process called when vapor turns into liquid?",
+      "During which time of day does this condensation typically occur overnight?",
+      "On what surfaces or objects can condensation commonly form overnight? "
+    ]
+  },
+  "8-162": {
+    "subqueries": [
+      "What are the characteristics and typical locations where peat is commonly found?",
+      "Which animals live in or around habitats where peat is present?",
+      "Can you identify any specific animals that inhabit areas with a high likelihood of peat presence? "
+    ]
+  },
+  "8-22": {
+    "subqueries": [
+      "What are the characteristics of long, sunny days?",
+      "Which months typically have the longest and sunniest days in the Northern Hemisphere?",
+      "Are there any specific factors or preferences that might influence an individual's perception of a \"favorite\" month beyond just weather conditions? "
+    ]
+  },
+  "230": {
+    "subqueries": [
+      "What is meant by \"boiling point\" in scientific terms?",
+      "Which types of substances have a defined boiling point?",
+      "How does temperature affect these substances at their boiling point? "
+    ]
+  },
+  "1565": {
+    "subqueries": [
+      "What is the definition or description of the \"epidermis\"?",
+      "Which type of tissue does the epidermis belong to in biological terms?",
+      "In which organ or system of the body is the epidermis primarily located?  "
+    ]
+  },
+  "7-289": {
+    "subqueries": [
+      "What are the botanical criteria for a fruit to be classified as a \"true berry\"?",
+      "How does the structure of a strawberry compare with these botanical criteria?",
+      "Are there specific parts of a strawberry that do not align with those found in true berries?"
+    ]
+  },
+  "670": {
+    "subqueries": [
+      "What are the specific objectives and hypotheses of the experiment?",
+      "What materials, equipment, and procedures will be used in conducting the experiment?",
+      "What potential outcomes or observations could arise based on the experimental setup and conditions? "
+    ]
+  },
+  "7-915": {
+    "subqueries": [
+      "What is the reproductive method used by frogs?",
+      "How do frog eggs differ from those of other animals?",
+      "Why are frog eggs considered soft?"
+    ]
+  },
+  "7-847": {
+    "subqueries": [
+      "What are the essential nutrients required for optimal growth and development of mushrooms?",
+      "Which natural materials or substrates commonly provide these essential nutrients for mushrooms?",
+      "How do different types of fungi utilize these nutrient sources, and which are considered most effective for specific species? "
+    ]
+  },
+  "1981": {
+    "subqueries": [
+      "What are the primary characteristics and classifications of alligators?",
+      "Where do alligators naturally live and what is their typical habitat?",
+      "How do alligators interact with their environment and other species, including humans? "
+    ]
+  },
+  "8-38": {
+    "subqueries": [
+      "What are examples of renewable resources that a woman can use to become more environmentally friendly?",
+      "How can each identified renewable resource contribute to environmental sufficiency?",
+      "Which common resource often mistaken for renewable is actually nonrenewable?"
+    ]
+  },
+  "1282": {
+    "subqueries": [
+      "What are some examples of physical cycles on Earth?",
+      "How do these physical cycles operate and what mechanisms drive them?",
+      "What natural sources provide the necessary energy to sustain these physical cycles?"
+    ]
+  },
+  "353": {
+    "subqueries": [
+      "What factors contribute to animals feeling cold and potentially shivering?",
+      "How do different animal species vary in their tolerance to cold temperatures?",
+      "In what environments are these extreme conditions (where animals might shiver the most) typically found? "
+    ]
+  },
+  "9-108": {
+    "subqueries": [
+      "What physiological adaptations do owls have for thermoregulation?",
+      "How does an owl's metabolism contribute to maintaining its body temperature in cold weather?",
+      "What behavioral strategies do owls use to conserve heat during winter months?"
+    ]
+  },
+  "9-753": {
+    "subqueries": [
+      "What environmental changes occurred recently in the area?",
+      "Are there any new predators or increased predator activity near the area?",
+      "Have there been recent human activities, such as construction or increased traffic, that might disturb the deer?"
+    ]
+  },
+  "1061": {
+    "subqueries": [
+      "What specific item or resource is being referred to as difficult to find in the desert?",
+      "What environmental factors in the desert contribute to the difficulty of finding this item or resource?",
+      "Are there any known methods or strategies that can improve the chances of locating this item or resource in a desert environment?"
+    ]
+  },
+  "9-634": {
+    "subqueries": [
+      "What is pasteurization and how does it work?",
+      "Which types of bacteria are most commonly targeted by pasteurization?",
+      "In what types of products or materials is pasteurization typically used to reduce bacterial content? "
+    ]
+  },
+  "7-620": {
+    "subqueries": [
+      "What is the primary diet of an herbivore?",
+      "What types of plants do giraffes typically eat?",
+      "Are there any specific conditions or limitations on what a giraffe will consume based on its habitat or physiology?  "
+    ]
+  },
+  "7-512": {
+    "subqueries": [
+      "What organisms or species are known for creating cocoons?",
+      "What is the purpose of cocoon creation in these organisms?",
+      "How do these organisms create cocoons (i.e., what materials and processes are involved)?"
+    ]
+  },
+  "1715": {
+    "subqueries": [
+      "What are the primary factors contributing to climate change?",
+      "How have human activities influenced these factors over recent decades?",
+      "What specific changes or events in recent years indicate an acceleration in the rate of climate change?"
+    ]
+  },
+  "1324": {
+    "subqueries": [
+      "What are the specific needs and characteristics of new whale offspring in terms of temperature, space, nutrition, and safety?",
+      "What types of storage or care facilities (e.g., aquariums, sanctuaries) exist that could accommodate these needs?",
+      "How do available facilities measure up against best practices for maintaining the health and wellbeing of young whales?"
+    ]
+  },
+  "721": {
+    "subqueries": [
+      "What are the essential hardware components needed for running a Bitcoin operation?",
+      "Which software tools and platforms are required to effectively manage a Bitcoin operation?",
+      "What security measures must be implemented to protect a Bitcoin operation?"
+    ]
+  },
+  "9-805": {
+    "subqueries": [
+      "What are the signs or indicators that suggest there is a storm outside?",
+      "How can these signs be observed from inside the cabin without going outside?",
+      "Are there any instruments or methods within the cabin that can confirm the presence of a storm? "
+    ]
+  },
+  "7-384": {
+    "subqueries": [
+      "What are the common causes or conditions that typically lead to a revolution?",
+      "How do social, political, and economic factors contribute to the likelihood of a revolution occurring?",
+      "Can you identify historical examples where specific events triggered revolutionary change?  "
+    ]
+  },
+  "7-1028": {
+    "subqueries": [
+      "What are the common behaviors of squirrels related to food storage?",
+      "Why do squirrels store acorns specifically?",
+      "How does storing acorns benefit squirrels in terms of survival and reproduction? "
+    ]
+  },
+  "7-191": {
+    "subqueries": [
+      "How many eggs can a typical land turtle lay at one time?",
+      "How many eggs can a typical sea turtle lay at one time?",
+      "What factors influence the number of eggs laid by different types of turtles? "
+    ]
+  },
+  "7-114": {
+    "subqueries": [
+      "What are the primary energy sources used by electric cars and regular cars?",
+      "How does the efficiency of energy conversion in electric vehicles compare to that in internal combustion engine vehicles?",
+      "In what ways do electric cars reduce dependency on gasoline compared to traditional gasoline-powered cars?"
+    ]
+  },
+  "1343": {
+    "subqueries": [
+      "What specific factors are known to influence plant growth?",
+      "How do these factors contribute to enhancing plant growth?",
+      "Are there any scientific studies or evidence supporting the positive effects of these factors on plant growth? "
+    ]
+  },
+  "9-989": {
+    "subqueries": [
+      "What factors are present or active during daytime conditions?",
+      "How do these daytime factors interact with objects located outdoors?",
+      "What types of things can an outdoor object receive as a result of these interactions during the day? "
+    ]
+  },
+  "7-1148": {
+    "subqueries": [
+      "What are the typical ingredients found in pumpkin pie spice?",
+      "Where do these individual ingredients originate from (geographically or botanically)?",
+      "How is pumpkin pie spice typically produced and marketed?"
+    ]
+  },
+  "391": {
+    "subqueries": [
+      "What are the basic requirements for an organism's survival?",
+      "How does meeting these survival requirements impact an organism\u2019s overall health or vitality?",
+      "In what ways can variations in survival rates be linked to the fulfillment or lack thereof of these requirements? "
+    ]
+  },
+  "7-1069": {
+    "subqueries": [
+      "What are the primary reproductive mechanisms of zebras?",
+      "How would sterility in zebras affect their population dynamics and genetic diversity over time?",
+      "What ecological impacts could arise from a significant decline or extinction of zebra populations due to widespread sterility?"
+    ]
+  },
+  "702": {
+    "subqueries": [
+      "What are some examples of adaptations animals undergo in response to seasonal changes?",
+      "How do these adaptations help furry animals survive different seasons?",
+      "Can you identify specific behaviors or physical changes that occur in furry animals during different seasons? "
+    ]
+  },
+  "9-1081": {
+    "subqueries": [
+      "What are the properties of materials that make them suitable for use as electrical conductors?",
+      "Can you list some examples of materials commonly used as electrical conductors and their applications?",
+      "Are there any alternative or novel materials being researched for potential use as electrical conductors?"
+    ]
+  },
+  "9-115": {
+    "subqueries": [
+      "What is ice wedging and how does it occur?",
+      "How does water enter cracks or pores in rocks?",
+      "What happens when the trapped water freezes and expands, leading to rock cracking?"
+    ]
+  },
+  "1303": {
+    "subqueries": [
+      "What is a fossil and how is it typically preserved?",
+      "Under what conditions do organisms become buried and potentially form fossils?",
+      "What processes transform the remains of these organisms into fossils over time?"
+    ]
+  },
+  "8-195": {
+    "subqueries": [
+      "Which specific areas are known for experiencing all four distinct seasons?",
+      "What are the characteristics or weather patterns associated with the winter season in these areas?",
+      "What types of activities are typically available or popular during the winter season in regions that experience all four seasons? "
+    ]
+  },
+  "1177": {
+    "subqueries": [
+      "What are the primary differences between using a laser and other tools or methods for navigating or performing tasks in a basement?",
+      "What specific challenges or conditions might one encounter when descending into a basement that could make a laser more advantageous?",
+      "Are there any limitations or drawbacks to using a laser compared to alternative options when going into a basement? "
+    ]
+  },
+  "1212": {
+    "subqueries": [
+      "How do resource availability and ecosystem health relate to each other?",
+      "What are some specific examples or indicators of negative impacts on organisms due to resource loss?",
+      "How can changes in organism behavior, population dynamics, or biodiversity serve as evidence of the impact of resource depletion?"
+    ]
+  },
+  "701": {
+    "subqueries": [
+      "What is the primary composition of the surface on the planet where humans predominantly live?",
+      "What are the most common means of transportation designed for traveling over this type of terrain?",
+      "Which vehicle is most frequently used by people to navigate and travel across these predominant surfaces?"
+    ]
+  },
+  "536": {
+    "subqueries": [
+      "What is the primary function of a bear's fur in helping it survive?",
+      "How do duck's feathers contribute to its survival?",
+      "In what ways are the functions of a bear's fur and a duck's feather similar or different in aiding their respective animals' survival? "
+    ]
+  },
+  "9-280": {
+    "subqueries": [
+      "What are the different types of energy sources?",
+      "How do these energy sources convert their stored energy into usable power?",
+      "What characteristics determine whether an energy source is renewable or non-renewable? "
+    ]
+  },
+  "9-851": {
+    "subqueries": [
+      "How does an increase in the birth rate affect the growth of a species' population over time?",
+      "What factors could contribute to an increase in the birth rate within a species' population?",
+      "What are the potential ecological impacts or consequences of a significant increase in a species' population due to higher birth rates?"
+    ]
+  },
+  "1408": {
+    "subqueries": [
+      "What does it mean for a mineral to \"scratch\" another mineral?",
+      "How do we define the hardness of minerals in relation to each other?",
+      "Can you provide an example where one specific mineral can scratch another, demonstrating that the second mineral is softer?"
+    ]
+  },
+  "539": {
+    "subqueries": [
+      "How does the Earth's tilt and orbit affect daylight hours throughout the year?",
+      "What is the impact of geographical location on sunset times?",
+      "How do seasonal changes influence the timing of sunsets in different parts of the world?"
+    ]
+  },
+  "8-457": {
+    "subqueries": [
+      "How does water flow or runoff occur from elevated terrains like hills?",
+      "What are the potential effects of increased water flow on adjacent lower lands?",
+      "Are there any specific conditions or factors (e.g., soil type, vegetation) that influence how rainfall impacts lower lands?  "
+    ]
+  },
+  "933": {
+    "subqueries": [
+      "What are the primary sources of sugar in an ecosystem?",
+      "How do these sources contribute to the energy flow within the ecosystem?",
+      "What role does sugar play in the interactions between different organisms in the ecosystem?"
+    ]
+  },
+  "7-1196": {
+    "subqueries": [
+      "What are the initial steps involved in planning and organizing content for a journal?",
+      "What resources (e.g., financial, human, material) are necessary to produce a journal?",
+      "What processes or actions must be taken to compile, edit, and publish the final version of a journal?"
+    ]
+  },
+  "1277": {
+    "subqueries": [
+      "What qualifies as a raw material?",
+      "How are raw materials typically sourced?",
+      "Can you provide an example where a raw material is obtained directly from its natural or primary source? "
+    ]
+  },
+  "7-844": {
+    "subqueries": [
+      "What type of animal did Bill observe eating?",
+      "What specific action did Bill witness regarding the animal's behavior?",
+      "Why might witnessing this action lead Bill to classify the animal as a predator? "
+    ]
+  },
+  "9-513": {
+    "subqueries": [
+      "What are the main ingredients typically found in red pasta sauce?",
+      "Which of these ingredients is derived from a flower?",
+      "How does this ingredient contribute to the flavor or appearance of the sauce?"
+    ]
+  },
+  "607": {
+    "subqueries": [
+      "What are some indicators or markers commonly associated with reaching adulthood across different species?",
+      "How do these markers vary between human societies and other animal species?",
+      "Are there any universal biological changes that signify adulthood in both humans and animals? "
+    ]
+  },
+  "7-1191": {
+    "subqueries": [
+      "What are the different layers of the Earth?",
+      "Can you list any commonly mentioned incorrect or fictional layers often mistakenly included in descriptions of Earth's structure?",
+      "Which layer(s) is/are not a part of the standard scientific model of Earth's internal structure? "
+    ]
+  },
+  "7-324": {
+    "subqueries": [
+      "What environmental conditions are generally unfavorable for plant growth?",
+      "How do specific factors such as light, water, soil quality, and temperature affect plant growth?",
+      "Can you identify particular types of plants or species that are known to struggle under these unfavorable conditions? "
+    ]
+  },
+  "9-1192": {
+    "subqueries": [
+      "What is the role of carbon dioxide in the process of photosynthesis in plants?",
+      "How does oxygen function in cellular respiration in animals?",
+      "In what ways are the roles of carbon dioxide in plants and oxygen in animals analogous or different? "
+    ]
+  },
+  "7-605": {
+    "subqueries": [
+      "What is the definition of a melting point?  ",
+      "How does heating a substance affect its temperature relative to its melting point?  ",
+      "Can you provide examples of substances and their respective melting points?  "
+    ]
+  },
+  "68": {
+    "subqueries": [
+      "What are the immediate environmental impacts of offshore oil spills on marine ecosystems?",
+      "How does leaked oil affect coastal areas and wildlife in the short term?",
+      "In what ways can local economies, particularly those reliant on tourism and fishing, be directly impacted by an offshore oil spill?  "
+    ]
+  },
+  "633": {
+    "subqueries": [
+      "What are some common methods or strategies an individual can use to conserve resources such as energy, water, or money?",
+      "How do these conservation methods impact the environment and personal finances in the long term?",
+      "What specific actions or changes can a person implement in their daily routine to effectively practice conservation?"
+    ]
+  },
+  "7-946": {
+    "subqueries": [
+      "What are some common quirks or unique characteristics associated with bats?",
+      "Are there any characteristics commonly attributed to animals generally that bats do not possess?",
+      "How does the behavior or biology of bats differ from typical expectations of animal traits?"
+    ]
+  },
+  "136": {
+    "subqueries": [
+      "What are the common materials or objects that could potentially move through water?",
+      "How does each of these materials or objects typically interact with water in terms of movement (e.g., sinking, floating, drifting)?",
+      "Are there any known measurements or experiments that determine the speed at which these materials or objects move through water?"
+    ]
+  },
+  "7-139": {
+    "subqueries": [
+      "What are the defining characteristics of organic food compared to non-organic food?",
+      "How does consuming organic food impact human health and well-being?",
+      "Are there scientific studies or evidence that support the benefits of organic food over non-organic alternatives? "
+    ]
+  },
+  "8-101": {
+    "subqueries": [
+      "What are the nutritional components of hay, apples, and sugar cubes that a horse might consume?",
+      "How does digestion occur in horses after they eat a meal containing these items?",
+      "What physiological changes or activities happen in a horse as it roams and digests its meal?"
+    ]
+  },
+  "1252": {
+    "subqueries": [
+      "What are some common types or methods of camouflage used by animals?",
+      "Can you provide specific examples of animals known for their effective use of camouflage?",
+      "How do these camouflaged features help the animals in their natural habitats? "
+    ]
+  },
+  "9-193": {
+    "subqueries": [
+      "What specific health metrics or indicators should be considered to determine who is healthier?",
+      "Who are the individuals being compared in terms of health?",
+      "Do these individuals have access to similar lifestyle factors, such as diet, exercise, and healthcare, that could influence their overall health? "
+    ]
+  },
+  "1253": {
+    "subqueries": [
+      "What happens to water vapor concentration as distance from a body of water increases?",
+      "How does humidity change with distance from a large source of water like an ocean or lake?",
+      "What environmental factors influence the distribution and movement of water vapor in the atmosphere? "
+    ]
+  },
+  "8-322": {
+    "subqueries": [
+      "What are some common products derived from plants?",
+      "How do plants contribute to ecosystems and the environment?",
+      "In what ways do humans utilize plants for nutrition and medicine?"
+    ]
+  },
+  "9-961": {
+    "subqueries": [
+      "What are the defining characteristics of living things?",
+      "How do these characteristics manifest across different types of organisms (e.g., plants, animals, microorganisms)?",
+      "In what ways do these shared characteristics influence the behavior and survival strategies of living things?"
+    ]
+  },
+  "875": {
+    "subqueries": [
+      "What role do animals play in the reproduction process of plants?",
+      "Can you identify any specific examples of immobile organisms that assist in plant reproduction?",
+      "How exactly do these immobile organisms facilitate plant reproduction? "
+    ]
+  },
+  "9-290": {
+    "subqueries": [
+      "What is the definition or general meaning of \"stopped\"?",
+      "In what contexts can \"stopped\" be used (e.g., physically, metaphorically)?",
+      "How does being \"stopped\" relate to other concepts like motion, progress, or flow? "
+    ]
+  },
+  "829": {
+    "subqueries": [
+      "What is known about the historical or mythological context of Puppigerus?",
+      "Are there any specific texts, inscriptions, or records mentioning the habitat or dwelling place of Puppigerus?",
+      "Have researchers or historians made any conclusions or hypotheses regarding the geographical location associated with Puppigerus? "
+    ]
+  },
+  "9-305": {
+    "subqueries": [
+      "What is the primary function of the circulatory system?",
+      "Through which process does oxygen enter the circulatory system?",
+      "From which organs or structures does the blood acquire oxygen in the human body?"
+    ]
+  },
+  "7-1036": {
+    "subqueries": [
+      "What are examples of resources classified as renewable?",
+      "How do these renewable resources contribute to production processes?",
+      "In what types of products or services can outputs from using renewable resources be found? "
+    ]
+  },
+  "854": {
+    "subqueries": [
+      "What is meant by \"inheritance\" in a general context?",
+      "In which domains or disciplines can the concept of inheritance apply?",
+      "How does inheritance manifest within those specific contexts or relationships identified?"
+    ]
+  },
+  "7-291": {
+    "subqueries": [
+      "What substance is typically combusted in a car engine?",
+      "How does the process of combustion in an engine contribute to generating motion?",
+      "In what way does combustion in a car engine produce heat?"
+    ]
+  },
+  "368": {
+    "subqueries": [
+      "What are some common sources of heat typically found at a resort?",
+      "How does each identified source contribute to heating at the resort?",
+      "Are there any specific environmental or operational factors that influence which heat sources are used at this particular resort?"
+    ]
+  },
+  "1158": {
+    "subqueries": [
+      "What are the different types of products designed to convert electrical energy?",
+      "How does each type of product convert electrical energy into other forms of energy?",
+      "Which of these products is incapable of converting electrical energy specifically into light energy when turned on?"
+    ]
+  },
+  "8-481": {
+    "subqueries": [
+      "What strategies or behaviors might a pelican use to locate and catch fish?",
+      "How does a pelican physically capture fish once it has located them?",
+      "Are there any environmental factors that could affect the pelican's ability to successfully catch fish?  "
+    ]
+  },
+  "9-435": {
+    "subqueries": [
+      "What is refraction and how does it occur?",
+      "In what common situations or materials can refraction be observed?",
+      "Are there any specific experiments or demonstrations that clearly illustrate the phenomenon of refraction? "
+    ]
+  },
+  "8-331": {
+    "subqueries": [
+      "What is the nature of the magnetic properties required for a rock to experience a magnetic attraction?",
+      "Under what conditions can two objects with magnetic properties exert an attractive force on each other?",
+      "How does distance between two magnetically charged rocks affect their ability to be pulled together by magnetic forces?"
+    ]
+  },
+  "8-86": {
+    "subqueries": [
+      "What are the key characteristics of the vat (e.g., size, shape, material) that need to be described?",
+      "What type of juice is contained in the vat and what specific qualities does it have (e.g., flavor, color, brand)?",
+      "How should the man convey the purpose or intended use of the vat to his friend?"
+    ]
+  },
+  "7-524": {
+    "subqueries": [
+      "What geological processes can lead to the formation of islands?",
+      "How do volcanic activities contribute to the sudden appearance of islands?",
+      "Can tectonic movements result in the rapid emergence of landmasses?"
+    ]
+  },
+  "7-951": {
+    "subqueries": [
+      "What are common illnesses and their causes?",
+      "What preventive measures can reduce the risk of these illnesses?",
+      "How effective are these preventive measures in reducing illness rates? "
+    ]
+  },
+  "7-698": {
+    "subqueries": [
+      "What are the primary factors necessary for plant growth and survival?",
+      "How does sunlight contribute to plant life processes?",
+      "In what ways do water, nutrients, and carbon dioxide affect plant life? "
+    ]
+  },
+  "1305": {
+    "subqueries": [
+      "What are natural sources of Vitamin D?",
+      "Are there any foods fortified with Vitamin D?",
+      "Can supplements provide Vitamin D?"
+    ]
+  },
+  "452": {
+    "subqueries": [
+      "What changes occur at the molecular level when water transitions from liquid to solid?",
+      "How does the density of water change as it freezes into ice?",
+      "What are the physical properties of ice compared to liquid water?  "
+    ]
+  },
+  "7-380": {
+    "subqueries": [
+      "What is a chloroplast and what are its primary functions?",
+      "In which organisms do chloroplasts typically exist?",
+      "Where within these organisms can chloroplasts generally be found?"
+    ]
+  },
+  "1525": {
+    "subqueries": [
+      "What characteristics of a flower are most attractive to different types of pollinators (e.g., bees, butterflies, birds)?",
+      "How do environmental factors such as location and climate influence the presence and activity of various pollinator species?",
+      "In what ways can human interventions (e.g., planting specific flowers, reducing pesticide use) increase the number and diversity of pollinators attracted to a flower?"
+    ]
+  },
+  "692": {
+    "subqueries": [
+      "What is the primary material or substance used to make the shiny metallic foil paper for cooking?",
+      "Where is this substance typically mined or extracted from?",
+      "Which countries or regions are known for producing or supplying this substance?"
+    ]
+  },
+  "375": {
+    "subqueries": [
+      "What are the primary mechanisms through which sunlight can transfer heat energy?",
+      "To what kinds of objects or materials does sunlight commonly transfer heat energy?",
+      "How does the absorption and reflection properties of an object affect its ability to receive heat from sunlight? "
+    ]
+  },
+  "9-499": {
+    "subqueries": [
+      "What is meant by \"pedal power\" and how does it work?",
+      "List the items mentioned in the context provided.",
+      "Determine which, if any, of these items are designed to be moved using pedal power."
+    ]
+  },
+  "7-2": {
+    "subqueries": [
+      "What is the most common liquid medium humans swim in?",
+      "What are the different states (solid, liquid, gas) of water?",
+      "In what state of matter do humans typically swim? "
+    ]
+  },
+  "8-396": {
+    "subqueries": [
+      "What types of beverages contain electrolytes and nutrients that contribute to hydration?",
+      "Which oils or fats are commonly used in skincare products to retain moisture on the skin?",
+      "Are there any foods with high water content that can help maintain body hydration aside from drinking plain water?  "
+    ]
+  },
+  "9-526": {
+    "subqueries": [
+      "What celestial body is referred to as \"Earth\" or the \"human planet\"?",
+      "Which astronomical objects can orbit a planet like Earth?",
+      "What specific object(s) orbit Earth in its immediate cosmic vicinity?"
+    ]
+  },
+  "698": {
+    "subqueries": [
+      "What are the physical characteristics and behaviors of the small creature known for making a noise by scraping limbs together?",
+      "In what types of environments do creatures with similar noise-making behaviors typically reside?",
+      "Are there specific regions or ecosystems where such creatures are commonly found?"
+    ]
+  },
+  "9-1048": {
+    "subqueries": [
+      "What is the duration of a year in terms of days?",
+      "How long does it take for an object to complete one revolution around another celestial body, specifically referring to the moon and Earth?",
+      "Are there any specific astronomical measurements or units used to describe the time it takes for the moon to orbit the Earth?"
+    ]
+  },
+  "7-504": {
+    "subqueries": [
+      "What are some examples of birds with angular beaks?",
+      "How do angular beak shapes benefit these birds in their natural environments?",
+      "Are there specific adaptations or behaviors associated with having an angular beak? "
+    ]
+  },
+  "7-1054": {
+    "subqueries": [
+      "What are the conditions required for vapor to start condensing?",
+      "How does a decrease in temperature affect the state of vapor?",
+      "In what ways can pressure influence the condensation process of vapor?"
+    ]
+  },
+  "150": {
+    "subqueries": [
+      "What are the main components of a typical incandescent light bulb?",
+      "How does an electric current flow through these components?",
+      "What process within the filament converts electrical energy to light energy?"
+    ]
+  },
+  "9-888": {
+    "subqueries": [
+      "Under what conditions do herbivores contribute to the growth or spread of the plant species they consume?",
+      "How does the feeding behavior of herbivores affect plant reproduction or seed dispersal?",
+      "What ecological roles or interactions allow herbivores to support the regeneration of their preferred plant species?"
+    ]
+  },
+  "50": {
+    "subqueries": [
+      "What specific type of change on Earth are we considering (e.g., geological, climatic, biological)?",
+      "What causes this particular change or what factors contribute to it?",
+      "What are the potential impacts or consequences of this change on the environment and human society? "
+    ]
+  },
+  "9-101": {
+    "subqueries": [
+      "What type of fan does the person have (e.g., ceiling fan, pedestal fan, tower fan)?",
+      "How is the fan powered or controlled (e.g., plug-in with a switch on the cord, remote control, wall switch)?",
+      "Are there any specific settings or configurations needed for optimal cooling in this room (e.g., speed setting, oscillation)?"
+    ]
+  },
+  "8-235": {
+    "subqueries": [
+      "What is meant by a temperature being \"in the negatives\"?",
+      "How can a negative temperature become \"slightly less negative\" during the day?",
+      "Does becoming \"more\" refer to an increase in temperature or something else?"
+    ]
+  },
+  "9-1111": {
+    "subqueries": [
+      "What geological or environmental processes can cause a river to disappear?",
+      "How do these processes affect the flow and existence of a river over time?",
+      "Are there any historical examples of rivers that have disappeared, and what were their causes?"
+    ]
+  },
+  "7-494": {
+    "subqueries": [
+      "What are the primary uses of corn in human diets?",
+      "Which animals commonly consume corn as a part of their diet or feed?",
+      "Are there any industrial or non-food uses for corn that might involve it being \"eaten\" in some form (e.g., biofuel production, composting)?"
+    ]
+  },
+  "1723": {
+    "subqueries": [
+      "What is the definition of decomposition in the context of ecology?",
+      "What are the primary factors or agents involved in the process of decomposition?",
+      "How does the rate and efficiency of decomposition impact ecosystem nutrient cycling?"
+    ]
+  },
+  "1456": {
+    "subqueries": [
+      "What are the primary components found in natural gas?",
+      "How is natural gas typically formed and extracted from the Earth?",
+      "In what ways is natural gas commonly used or applied in various industries?"
+    ]
+  },
+  "1083": {
+    "subqueries": [
+      "What is the process by which carbonic acid forms in groundwater?",
+      "How does carbonic acid interact with rocks as it seeps through them?",
+      "What are the conditions necessary for a cavern to be formed through this interaction?"
+    ]
+  },
+  "1275": {
+    "subqueries": [
+      "What is the definition of sunlight and what are its components?",
+      "How does sunlight reach Earth and what processes occur as it travels through space?",
+      "In what ways does sunlight affect Earth's environment, ecosystems, and human activities? "
+    ]
+  },
+  "239": {
+    "subqueries": [
+      "What specific area or parts of the city did the deer enter?",
+      "How many deer were involved in entering the city?",
+      "What were the circumstances or reasons for the deer entering the city?"
+    ]
+  },
+  "9-277": {
+    "subqueries": [
+      "What are remora fish and what is their scientific classification?",
+      "How do remora fish adapt to living with other marine animals, and what benefits do they gain from these relationships?",
+      "Where are remora fish typically found in the ocean, and what role do they play in their ecosystem?"
+    ]
+  },
+  "9-1105": {
+    "subqueries": [
+      "What factors influence the measurement of hourly totals of sunshine?",
+      "How do these factors interact with or affect each other in relation to sunshine totals?",
+      "In what ways can variations in sunshine totals be linked to specific outcomes or phenomena? "
+    ]
+  },
+  "9-299": {
+    "subqueries": [
+      "What celestial body is the Earth primarily orbiting?",
+      "How does the tilt of Earth's axis affect its orbit?",
+      "In what way do changes in sunlight exposure due to Earth's tilt and orbit lead to seasonal changes?"
+    ]
+  },
+  "9-59": {
+    "subqueries": [
+      "What type of biological process involves a plant root growing into rock cracks?",
+      "What are the common forces or mechanisms by which plants can break down rocks over time?",
+      "How does this specific interaction between plant roots and rock contribute to geological changes?"
+    ]
+  },
+  "7-810": {
+    "subqueries": [
+      "What factors determine whether an environment receives a large amount of rainfall?",
+      "Can you list some examples of environments known for receiving large amounts of rain?",
+      "Which specific environments are exceptions and do not receive large amounts of rain?"
+    ]
+  },
+  "1398": {
+    "subqueries": [
+      "What are some common types of alternative fuels currently being developed or used?",
+      "What processes or technologies are typically involved in the creation of these alternative fuels?",
+      "Can you identify a specific step that is crucial in one of these processes for producing alternative fuels?"
+    ]
+  },
+  "7-596": {
+    "subqueries": [
+      "What is a metal that has magnetic properties and can align itself with Earth's magnetic field?",
+      "How do certain metals exhibit magnetism or become magnetized?",
+      "Can you provide examples of naturally occurring magnetic materials that have a tendency to point north? "
+    ]
+  },
+  "7-254": {
+    "subqueries": [
+      "What characteristics define a \"white environment\"?",
+      "In which types of locations are these characteristics typically observed or created?",
+      "Are there any specific industries, cultures, or activities associated with such environments? "
+    ]
+  },
+  "7-207": {
+    "subqueries": [
+      "What happens when you press a fingernail against dry table salt?",
+      "Why does this action cause the salt to dissolve or disappear?",
+      "What is the physical process occurring between the fingernail and the salt crystals during this interaction?"
+    ]
+  },
+  "7-15": {
+    "subqueries": [
+      "What specific behaviors and strategies does a golden eagle use during hunting?",
+      "How are the physical features of a golden eagle's talons adapted for hunting purposes?",
+      "What types of prey do golden eagles typically capture and collect using their talons?"
+    ]
+  },
+  "8-230": {
+    "subqueries": [
+      "What are the primary instincts or behaviors that guide a mouse's actions when it encounters potential threats?",
+      "How do cats typically interact with mice, and what specific characteristics of cats make them a threat to mice?",
+      "What physiological or sensory mechanisms enable a mouse to detect and respond quickly to the presence of a cat?"
+    ]
+  },
+  "8-47": {
+    "subqueries": [
+      "What are the factors or criteria for someone to reject a food item like a burger?",
+      "Who are the individuals or groups being considered in \"these\" that might receive a burger?",
+      "How does the quality of the burger (e.g., ingredients, preparation, presentation) affect its acceptance by different people?"
+    ]
+  },
+  "1372": {
+    "subqueries": [
+      "What are the phases of the moon?",
+      "During which moon phase does a solar eclipse occur?",
+      "After a solar eclipse, what is the next sequential moon phase?"
+    ]
+  },
+  "1201": {
+    "subqueries": [
+      "What does \"rotating\" mean in the context of celestial bodies like Earth?",
+      "How long does it take for Earth to complete one full rotation on its axis?",
+      "What are some observable effects or phenomena caused by Earth's rotation?"
+    ]
+  },
+  "1368": {
+    "subqueries": [
+      "What geological processes contributed to the formation of the Grand Canyon?",
+      "How did the Colorado River influence these geological processes over time?",
+      "Are there any other factors besides the Colorado River that played a role in shaping the Grand Canyon? "
+    ]
+  },
+  "7-623": {
+    "subqueries": [
+      "What are some immediate sources of water available for hydration?",
+      "How can electrolytes and minerals be replenished during rehydration?",
+      "Are there any alternative fluids or methods that can help in hydrating effectively? "
+    ]
+  },
+  "164": {
+    "subqueries": [
+      "What materials are each of the listed household items made from?",
+      "Are these materials accepted by local recycling programs?",
+      "Do any specific preparation or cleaning requirements need to be met for these items to be considered recyclable according to local guidelines?"
+    ]
+  },
+  "1691": {
+    "subqueries": [
+      "What are the properties of magnets that allow them to attract certain materials?",
+      "Which materials are typically attracted to magnets?",
+      "Are there any exceptions or conditions under which a material might not be attracted to a magnet?  "
+    ]
+  },
+  "79": {
+    "subqueries": [
+      "What factors contribute to a significant number of people forgetting about a particular product?",
+      "How does consumer awareness and memory of a product typically influence its sales volume?",
+      "What is the relationship between sales volume and revenue generated for the seller? "
+    ]
+  },
+  "9-1159": {
+    "subqueries": [
+      "What types of flora (trees, plants, flowers) are commonly found in a forest?",
+      "What kinds of fauna (animals, insects, birds) inhabit forests?",
+      "Are there any non-living elements or features (rocks, streams, ruins) typically present in a forest?"
+    ]
+  },
+  "7-33": {
+    "subqueries": [
+      "What natural processes contribute to the formation of valleys?",
+      "How do different types of erosion (e.g., water, glacial) specifically influence valley creation?",
+      "Are there any human activities or geological events that can lead to the development of valleys?"
+    ]
+  },
+  "7-1166": {
+    "subqueries": [
+      "What are some examples of animals that do not have teeth?",
+      "How do these toothless animals obtain their food or nutrients?",
+      "What adaptations or behaviors allow these animals to consume and digest their food effectively?  "
+    ]
+  },
+  "9-643": {
+    "subqueries": [
+      "What are the different organs in the human body?",
+      "How do we define and measure the size of an organ?",
+      "Which human organ has the greatest surface area or volume compared to others?"
+    ]
+  },
+  "9-426": {
+    "subqueries": [
+      "What are some examples of heterotrophic organisms?",
+      "How do these organisms obtain their energy and nutrients from other organisms?",
+      "Can you categorize these organisms based on their feeding strategies or ecological roles? "
+    ]
+  },
+  "522": {
+    "subqueries": [
+      "What are the different forms in which ice can exist or appear?",
+      "How does gravity affect ice when it is elevated above a surface?",
+      "Under what conditions might ice detach and begin to fall from an elevated position?"
+    ]
+  },
+  "85": {
+    "subqueries": [
+      "What types of processes are involved in weathering?",
+      "How do these weathering processes affect rocks and minerals?",
+      "What specific changes occur in the texture or composition of materials as a result of these weathering processes?"
+    ]
+  },
+  "220": {
+    "subqueries": [
+      "What are the possible categories or types of elements that could be used in everyday appliances?",
+      "Specifically, what type of element is commonly used as a heating source in toasters?",
+      "How do these types of elements function within a toaster to produce heat?  "
+    ]
+  },
+  "9-545": {
+    "subqueries": [
+      "What does \"nest sitting\" mean in this context?",
+      "Who or what is typically responsible for nest sitting?",
+      "How are decisions about nest sitting determined or made? "
+    ]
+  },
+  "8-64": {
+    "subqueries": [
+      "What is the life cycle stage of an insect that involves creating a cocoon?",
+      "During which part of this life cycle does the creation of the cocoon occur?",
+      "Are there any specific conditions or environmental factors required for the cocoon to be created?"
+    ]
+  },
+  "1105": {
+    "subqueries": [
+      "How does temperature affect a cat's fur growth or shedding cycle?",
+      "What changes occur in a cat\u2019s grooming behavior during warmer months?",
+      "Are there any specific conditions that might influence a cat's fur appearance differently in summer compared to other seasons?"
+    ]
+  },
+  "1764": {
+    "subqueries": [
+      "What is the process of evaporation and how does it affect water?",
+      "What are the common changes in state or properties of water after evaporation occurs?",
+      "In what form does water typically exist after undergoing evaporation? "
+    ]
+  },
+  "128": {
+    "subqueries": [
+      "What are the properties of a material that allow it to attract magnets?",
+      "Which materials commonly exhibit these magnetic-attractive properties?",
+      "Are there any specific examples or categories of materials (e.g., metals, alloys) known for their ability to stick to magnets?"
+    ]
+  },
+  "9-1098": {
+    "subqueries": [
+      "What are the common types of rocks found in nature?",
+      "What minerals or elements can typically be found within these types of rocks?",
+      "How do these minerals or elements get incorporated into the rocks during their formation? "
+    ]
+  },
+  "7-867": {
+    "subqueries": [
+      "What characteristics of pigments determine how much light they reflect?",
+      "How does a black pigment differ in its light absorption and reflection compared to other colors?",
+      "Why might a white wall appear to reflect more or different light than walls of other colors?"
+    ]
+  },
+  "9-351": {
+    "subqueries": [
+      "What is the definition of hypothermia and what core body temperature does it typically occur at?",
+      "What environmental conditions (such as air temperature, wind speed, humidity) are conducive to developing hypothermia?",
+      "How do factors like clothing, physical activity, and individual health status influence the onset of hypothermia?"
+    ]
+  },
+  "9-1054": {
+    "subqueries": [
+      "What natural processes can cause rocks to become rounded over time?",
+      "How does water contribute to the rounding of rocks?",
+      "In what other environments besides water bodies might rock rounding occur?  "
+    ]
+  },
+  "9-1097": {
+    "subqueries": [
+      "What substances are known to have a defensive function in octopuses?",
+      "How do these substances affect the visual capabilities of potential predators when released by an octopus?",
+      "Are there specific types of predators that are targeted by these substances, particularly those relying on sight?"
+    ]
+  },
+  "8-444": {
+    "subqueries": [
+      "What is the historical substance that Dutch and other farmers used to power machinery for moving water?",
+      "What type of structure uses this substance to move water from lowlands to highlands?",
+      "What kind of measurement tools or units would be appropriate for measuring this particular substance? "
+    ]
+  },
+  "9-684": {
+    "subqueries": [
+      "What celestial bodies are typically known to have natural satellites or \"moons\"?",
+      "Are there any man-made objects that can be considered to contain or host smaller satellites?",
+      "Can other types of cosmic entities, such as planets or stars, also have moons orbiting them?"
+    ]
+  },
+  "1557": {
+    "subqueries": [
+      "What environmental factors can lead to decreased visibility while driving?",
+      "How do weather conditions impact a driver's ability to see clearly on the road?",
+      "In what ways do vehicle-related issues or obstructions contribute to reduced visibility during driving?"
+    ]
+  },
+  "8-456": {
+    "subqueries": [
+      "What is meant by \"h20\" in this context?",
+      "How does water typically fall from a \"fluffy object,\" and what could this object be?",
+      "Why might water specifically land on the top of a \"cloth suspended on a rod\"?"
+    ]
+  },
+  "9-798": {
+    "subqueries": [
+      "What are some known animals or organisms capable of surviving with minimal or no oxygen?",
+      "How do these animals or organisms survive without oxygen, and what biological mechanisms do they use?",
+      "Are there specific environments where such animals or organisms naturally reside?"
+    ]
+  },
+  "8-440": {
+    "subqueries": [
+      "What is meant by \"changes form\" in the context of materials?",
+      "How does temperature affect material properties and behavior?",
+      "What are common terms or classifications for materials that change shape or structure at specific temperatures? "
+    ]
+  },
+  "9-571": {
+    "subqueries": [
+      "What defines an inherited characteristic?",
+      "How do genes play a role in determining characteristics in babies?",
+      "What are some examples of characteristics that can be inherited by a baby? "
+    ]
+  },
+  "9-151": {
+    "subqueries": [
+      "What physical changes occur when lighting a candle?",
+      "How does burning affect the chemical composition of a candle?",
+      "What are the observable consequences of these changes over time?"
+    ]
+  },
+  "1734": {
+    "subqueries": [
+      "What are vaccines and how do they work in the human body?",
+      "What types of diseases can vaccines prevent, and what is their effectiveness?",
+      "What are some common side effects and concerns associated with vaccination?"
+    ]
+  },
+  "8-326": {
+    "subqueries": [
+      "What is the definition of the melting point for a substance?",
+      "What changes occur in a solid when it reaches and exceeds its melting point?",
+      "What is the term used to describe the state or form of matter that exists above the melting point of a solid? "
+    ]
+  },
+  "9-800": {
+    "subqueries": [
+      "What changes in behavior does a beaver exhibit as winter approaches?",
+      "How does a beaver prepare its body for the long winter months when food availability is limited?",
+      "What survival strategies does a beaver employ during the meager months of winter?  "
+    ]
+  },
+  "1708": {
+    "subqueries": [
+      "What methods can Jim use to incubate the gathered eggs for hatching?",
+      "How long does it typically take for chicken eggs to hatch once they are placed in an incubator or under a brooding hen?",
+      "What conditions must be maintained (e.g., temperature, humidity) during the incubation process to ensure successful hatching of baby chickens?"
+    ]
+  },
+  "9-329": {
+    "subqueries": [
+      "What types of sensory receptors are present in the skin?",
+      "How do these receptors transmit information about sensations through nerves?",
+      "What specific sensations can these nerve receptors detect on the skin?"
+    ]
+  },
+  "7-556": {
+    "subqueries": [
+      "What are some common methods used to combine substances?",
+      "How does the process of pouring one substance into another work chemically or physically?",
+      "Can you provide examples of situations where substances are combined through pouring?"
+    ]
+  },
+  "7-535": {
+    "subqueries": [
+      "What are some tools or technologies commonly used for viewing stars more easily?",
+      "How do environmental factors affect the visibility of stars?",
+      "What skills or knowledge can enhance one's ability to view stars? "
+    ]
+  },
+  "7-949": {
+    "subqueries": [
+      "What are the different types of sugar available for cooking and how do they affect sweetness?",
+      "How does sugar interact with other ingredients to enhance or modify the flavor profile of a dish?",
+      "Can you provide examples of dishes where sugar significantly increases the overall sweetness?"
+    ]
+  },
+  "483": {
+    "subqueries": [
+      "What constitutes a \"protected environment\"?",
+      "What are some common activities or actions considered inappropriate or harmful in such environments?",
+      "What potential consequences might a person face if they engage in these activities within a protected environment? "
+    ]
+  },
+  "1637": {
+    "subqueries": [
+      "What causes the seasons in the northern and southern hemispheres?",
+      "When does the northern hemisphere experience its longest day of the year?",
+      "During which season is the southern hemisphere experiencing when the northern hemisphere has its longest day?"
+    ]
+  },
+  "8-158": {
+    "subqueries": [
+      "What specific weather advisories were issued for the winter storm affecting the city?",
+      "Why does the man choose to drive to work despite the severe weather conditions?",
+      "What does the man discover while driving on the highway during the winter storm? "
+    ]
+  },
+  "8-198": {
+    "subqueries": [
+      "What are some devices or technologies that allow humans to breathe underwater?",
+      "Can any of these devices enable permanent underwater living for humans?",
+      "What requirements must be met for someone to live continuously and sustainably under the sea?"
+    ]
+  },
+  "7-957": {
+    "subqueries": [
+      "What types of marine animals or organisms typically inhabit the same regions as sea turtles?",
+      "How do sea turtles interact with other species within their shared habitat?",
+      "Are there any specific environmental features or conditions that both sea turtles and these co-inhabiting species rely on?"
+    ]
+  },
+  "1348": {
+    "subqueries": [
+      "What materials are being considered for recycling?",
+      "Are there local facilities or programs available to handle these materials?",
+      "Does the specific material meet accepted criteria and standards for recyclability?"
+    ]
+  },
+  "9-143": {
+    "subqueries": [
+      "What characteristics make air and water potential sources of energy?",
+      "Why are air and water considered to have an \"infinite\" supply in terms of energy sourcing?",
+      "Under which category or type do the use of air and water as energy sources fall?  "
+    ]
+  },
+  "9-211": {
+    "subqueries": [
+      "What are the primary inputs (reactants) involved in the process where a cell converts oxygen and carbohydrates?",
+      "What are the main products (outputs) of this cellular process involving oxygen and carbohydrates?",
+      "What is the name of the biochemical pathway or process that transforms these reactants into the specified products within a cell? "
+    ]
+  },
+  "9-1002": {
+    "subqueries": [
+      "What are some examples of animals with complex social structures?",
+      "How do these animals acquire and demonstrate learned behaviors?",
+      "Are there specific studies or observations that highlight particular learned behaviors in certain animals? "
+    ]
+  },
+  "9-1004": {
+    "subqueries": [
+      "What patterns or shapes are typically recognized among the stars in the night sky?",
+      "How do these star patterns change over the course of a year?",
+      "Are there any specific astronomical events associated with these changes throughout the year?"
+    ]
+  },
+  "9-838": {
+    "subqueries": [
+      "What factors influence the absorption of sunlight on a surface?",
+      "How does the color or material of a surface affect its ability to absorb sunlight?",
+      "Are there specific conditions (e.g., angle of incidence, time of day) that increase the likelihood of sunlight being absorbed by a particular surface?"
+    ]
+  },
+  "7-305": {
+    "subqueries": [
+      "What are some common hunting techniques used by hawks?",
+      "How do these techniques specifically lead to the death of their prey?",
+      "Are there any unique adaptations in hawks that facilitate this method of killing? "
+    ]
+  },
+  "1578": {
+    "subqueries": [
+      "What are the primary atmospheric conditions that cause storms to form?",
+      "How do different types of storms (such as thunderstorms, hurricanes, or tornadoes) typically impact their surroundings?",
+      "In what ways can storms influence weather patterns, environments, and human activities?"
+    ]
+  },
+  "941": {
+    "subqueries": [
+      "How does the magnitude of acceleration relate to the mass and force applied on an object according to Newton's second law of motion?",
+      "What is the effect of applying a constant force on two objects with different masses in terms of their resulting accelerations?",
+      "How can you compare the accelerations of the two blocks to determine which one speeds up more when the same force is applied?"
+    ]
+  },
+  "9-250": {
+    "subqueries": [
+      "What are the different factors or forces that can cause disturbances in a body of water?",
+      "How does each factor affect the stability and motion of standing water?",
+      "Which of the given options corresponds to any of these disturbance-causing factors?  "
+    ]
+  },
+  "6": {
+    "subqueries": [
+      "What are the various types or categories of greeting cards available?",
+      "Where do these different types of greeting cards originate from in terms of manufacturing and design?",
+      "Who designs, produces, and distributes greeting cards on a large scale?"
+    ]
+  },
+  "790": {
+    "subqueries": [
+      "What is meant by \"new seasons\" in this context?",
+      "How many existing categories or classifications are being referred to as \"twenty-four new seasons\"?",
+      "In what field or subject do these \"twenty-four new seasons\" exist? (e.g., television, fashion, nature)"
+    ]
+  },
+  "855": {
+    "subqueries": [
+      "What are the main components or elements involved in the process of photosynthesis?",
+      "What environmental conditions are necessary for photosynthesis to occur effectively?",
+      "Are there any specific cellular organelles required for photosynthesis, and if so, which ones? "
+    ]
+  },
+  "8-12": {
+    "subqueries": [
+      "Which fish species exhibit the behavior of lurking in shallow water and leaving it to capture prey?",
+      "What specific hunting techniques do these fish use when they are out of water?",
+      "How do these fish develop or adapt their abilities to hunt in this manner over years? "
+    ]
+  },
+  "9-4": {
+    "subqueries": [
+      "What types of tubes are found within a plant stem?",
+      "How do these tubes function in transporting water and nutrients?",
+      "Where is the transported water and nutrients directed within the plant?"
+    ]
+  },
+  "1445": {
+    "subqueries": [
+      "What are some categories or types of changes that can occur on Earth?",
+      "Can you provide examples of natural changes that happen on Earth?",
+      "Are there any examples of human-induced changes that affect the Earth? "
+    ]
+  },
+  "1847": {
+    "subqueries": [
+      "What characteristics define a forested environment?",
+      "Why are many forested environments typically green in appearance?",
+      "Can you provide specific examples of forested environments that exhibit a predominantly green coloration?"
+    ]
+  },
+  "8-465": {
+    "subqueries": [
+      "What are the primary factors that contribute to the cycle of day and night on a planet?",
+      "How does a planet's rotation influence its experience of day and night?",
+      "In what way do other celestial bodies or external factors affect the transition between day and night on a given planet?"
+    ]
+  },
+  "645": {
+    "subqueries": [
+      "How does exposure to cold temperatures affect the body's physiological response and energy levels?",
+      "What are the potential mental and physical effects of prolonged stress or anxiety experienced while being lost?",
+      "How might exhaustion from trying to find one's way out in a forest contribute to falling asleep?"
+    ]
+  },
+  "1629": {
+    "subqueries": [
+      "What are some common dietary patterns or preferences among city-dwellers?",
+      "How does urban living influence food availability and choices for city residents?",
+      "Are there any popular types of cuisine or specific foods frequently consumed in urban areas?"
+    ]
+  },
+  "8-214": {
+    "subqueries": [
+      "What specific anatomical or physiological features do tunas possess that contribute to their swimming speed?",
+      "How do these features enable tunas to swim faster compared to other fish, such as seahorses?",
+      "What are the anatomical and physiological characteristics of seahorses that limit their swimming speed?"
+    ]
+  },
+  "9-680": {
+    "subqueries": [
+      "What is the primary function of leaves in the process of photosynthesis?",
+      "How do leaves facilitate the absorption of sunlight for photosynthesis?",
+      "In what ways do leaves contribute to the exchange of gases necessary for photosynthesis?"
+    ]
+  },
+  "7-419": {
+    "subqueries": [
+      "What characteristics do flowers typically have that attract pollinators?",
+      "Which types of organisms commonly act as pollinators for plants?",
+      "How do these characteristics and organisms interact to facilitate the process of pollination?"
+    ]
+  },
+  "1653": {
+    "subqueries": [
+      "Who is the inventor of pasteurization?",
+      "What other projects or fields did this inventor work on besides pasteurization?",
+      "How are these additional projects or fields related to their work in pasteurization? "
+    ]
+  },
+  "1220": {
+    "subqueries": [
+      "What are the defining characteristics of summer and fall seasons in terms of weather and environment?",
+      "How do these characteristics typically transition during the shift from summer to fall?",
+      "What specific changes (e.g., temperature, foliage, animal behavior) are commonly observed during this seasonal change?"
+    ]
+  },
+  "1566": {
+    "subqueries": [
+      "What are the primary ingredients typically used to make lemonade?",
+      "How do these ingredients contribute individually and collectively to its flavor profile?",
+      "Are there common variations or additional flavors in different types of lemonade that alter its taste? "
+    ]
+  },
+  "8-104": {
+    "subqueries": [
+      "What components are necessary for creating an electrical circuit capable of lighting up a room?",
+      "How does sending electricity through a conductor complete an electrical circuit in this scenario?",
+      "What role does the switch play in controlling the flow of electricity to light up the room? "
+    ]
+  },
+  "9-640": {
+    "subqueries": [
+      "What is a wasp?",
+      "What purpose does a wasp's stinger serve?",
+      "In what situations or against whom might a wasp use its stinger?"
+    ]
+  },
+  "7-84": {
+    "subqueries": [
+      "What are the main layers or components that make up the Earth's structure?",
+      "Which layer constitutes the outermost part of the Earth?",
+      "What materials primarily compose this outermost layer? "
+    ]
+  },
+  "9-104": {
+    "subqueries": [
+      "What types of materials do birds typically use for nest building?",
+      "In what environments or locations are these materials commonly found?",
+      "How do the behaviors and species of birds influence their choice of nesting sites?"
+    ]
+  },
+  "7-278": {
+    "subqueries": [
+      "What geological processes lead to the formation of canyons?",
+      "How do these processes result in the creation of cliffs within canyons?",
+      "What characteristics distinguish canyons as unique rock formations? "
+    ]
+  },
+  "1360": {
+    "subqueries": [
+      "What characteristics define a \"live birth\" in medical terms?",
+      "How do different species exhibit variations in live births (e.g., mammals vs. reptiles)?",
+      "Can you provide examples of live births that are commonly recognized or celebrated, such as human childbirth? "
+    ]
+  },
+  "9-898": {
+    "subqueries": [
+      "What are the potential uses or applications for hydrocarbon chains containing eight carbon atoms?",
+      "How many hydrocarbon chains with eight carbon atoms are required for each application mentioned in question 1?",
+      "Which application requires the fewest number of these hydrocarbon chains based on the information from questions 1 and 2?"
+    ]
+  },
+  "9-1140": {
+    "subqueries": [
+      "What is evaporation and how does it occur?",
+      "In what contexts or scenarios is evaporation a contributing factor or process?",
+      "How do the effects of evaporation influence these specific contexts or scenarios? "
+    ]
+  },
+  "7-200": {
+    "subqueries": [
+      "What is the biological function of a skunk's \"stink sack\"?",
+      "How does a skunk use its stink sack as a defensive mechanism?",
+      "Are there any other animals with similar defensive features to the skunk's stink sack?"
+    ]
+  },
+  "348": {
+    "subqueries": [
+      "What are the different types of energy sources?",
+      "Which energy sources are classified as non-renewable?",
+      "Can non-renewable energy sources be depleted or exhausted over time?"
+    ]
+  },
+  "9-471": {
+    "subqueries": [
+      "What factors contribute to increasing the population of chickens on a farm?",
+      "How can farmers manage resources effectively to support a larger chicken population?",
+      "What are the potential challenges and solutions for maintaining animal health and welfare in larger chicken populations? "
+    ]
+  },
+  "9-953": {
+    "subqueries": [
+      "What types of items typically produce little or no pollution during their production process?",
+      "How can a factory assess the environmental impact of producing different types of items?",
+      "Are there any sustainable materials or technologies available that the factory can use to minimize pollution in its production processes?"
+    ]
+  },
+  "458": {
+    "subqueries": [
+      "What are some common behaviors or actions animals exhibit when trying to cool down in hot weather?",
+      "How does a dog's physiology and behavior help it manage high temperatures?",
+      "Are there specific activities or environments that would help Lassie, as a typical working dog breed, alleviate the effects of heat?"
+    ]
+  },
+  "1116": {
+    "subqueries": [
+      "What are the processes involved in the cycles of freezing and thawing of water?",
+      "How do temperature changes influence these cycles?",
+      "What impacts do these cycles have on natural environments or man-made structures?"
+    ]
+  },
+  "7-974": {
+    "subqueries": [
+      "What are the terms used to describe different types of predictions or hypotheses in scientific research?",
+      "How do scientists use these terms to differentiate between various kinds of hypotheses?",
+      "Specifically, which term is used for a hypothesis that suggests one event will result from another (cause and effect)?"
+    ]
+  },
+  "7-785": {
+    "subqueries": [
+      "What technologies or methods are commonly used for locating specific areas within a geographic region?",
+      "How can these technologies specifically identify the northern portion of a forest?",
+      "Are there any devices that integrate such technologies to provide location information?"
+    ]
+  },
+  "7-41": {
+    "subqueries": [
+      "What are some examples of animals with two legs?",
+      "What types of sounds do these two-legged animals typically make?",
+      "Are there any specific characteristics or patterns in the sounds made by two-legged animals? "
+    ]
+  },
+  "7-473": {
+    "subqueries": [
+      "What are the biological processes involved in scar formation?",
+      "Are there any natural factors or conditions that influence whether a person is more likely to develop scars after an injury?",
+      "Do genetic predispositions play a role in how naturally prone someone might be to developing scars? "
+    ]
+  },
+  "7-815": {
+    "subqueries": [
+      "What defines a substance as \"life-sustaining\"?",
+      "Which specific life processes or systems do these life-sustaining substances support?",
+      "How are these life-sustaining substances obtained and delivered to living organisms? "
+    ]
+  },
+  "9-555": {
+    "subqueries": [
+      "What types of items might opossums and raccoons find in trash cans?",
+      "How can consuming these items affect the health of scavengers like opossums and raccoons?",
+      "Are there any specific risks or health issues associated with a diet that includes food from trash cans for these creatures?"
+    ]
+  },
+  "9-604": {
+    "subqueries": [
+      "What are the months that come immediately after December in a calendar year?",
+      "Which region is considered the \"heart\" of Australia geographically or culturally?",
+      "Is there a specific term or nickname used for this period in the heart of Australia following December? "
+    ]
+  },
+  "1539": {
+    "subqueries": [
+      "What defines a species as a carnivore?",
+      "Are there any strict examples where carnivores exclusively consume animal matter without any plant-based or other non-animal intake?",
+      "Can you identify specific instances or behaviors in certain carnivorous species that demonstrate they only eat animals? "
+    ]
+  },
+  "8-84": {
+    "subqueries": [
+      "What are some common sources of electrical energy?",
+      "How does electricity flow through a circuit to power a light bulb?",
+      "What components are typically involved in converting electrical energy into light? "
+    ]
+  },
+  "7-737": {
+    "subqueries": [
+      "Which nutrients are essential for bone health and healing?",
+      "What specific roles do vitamins play in the process of bone healing?",
+      "Can you identify which vitamins are directly involved in enhancing or supporting bone repair and regeneration? "
+    ]
+  },
+  "7-831": {
+    "subqueries": [
+      "What characteristics define a material as an electric insulator?",
+      "Can you list some common materials known for their insulating properties?",
+      "Are there any specific examples of everyday objects made from these insulating materials? "
+    ]
+  },
+  "7-631": {
+    "subqueries": [
+      "What are some examples of animals that exhibit ritual behaviors during springtime?",
+      "Can you describe specific ritual behaviors observed in these animals during the spring?",
+      "Why do these animals engage in such behaviors specifically in the spring season?"
+    ]
+  },
+  "9-822": {
+    "subqueries": [
+      "What are some activities or actions that involve hitting keys?",
+      "How does hitting the keys of a piano compare to these activities in terms of technique and sound production?",
+      "Are there any specific instruments, games, or devices where key-hitting plays a similar role as it does on a piano?"
+    ]
+  },
+  "9-689": {
+    "subqueries": [
+      "What is meant by \"conservation\" in environmental or resource management contexts?",
+      "Can you identify a specific area where conservation efforts are commonly applied (e.g., wildlife, water, energy)?",
+      "Provide an example of a specific action or project that represents conservation within the chosen area."
+    ]
+  },
+  "9-39": {
+    "subqueries": [
+      "What are some methods of indirect plant modification?",
+      "How do genetic engineering techniques work in altering plant traits without direct interaction?",
+      "What role do environmental factors play in modifying plants indirectly, and how can they be manipulated to achieve desired changes?"
+    ]
+  },
+  "156": {
+    "subqueries": [
+      "What are the dimensions (diameter or radius) of the plate in question compared to the other plates?",
+      "Are there any visual markers or identifiers on this plate that might indicate it's intended for a specific purpose or portion size?",
+      "How do the sizes of the other plates at the meal compare to each other?"
+    ]
+  },
+  "7-882": {
+    "subqueries": [
+      "What are the defining characteristics of bacteria as a biological domain?",
+      "How do different types of bacteria affect their environments and ecosystems?",
+      "In what ways can bacteria impact human health, both positively and negatively?"
+    ]
+  },
+  "7-264": {
+    "subqueries": [
+      "What are some natural methods by which seeds are commonly dispersed?",
+      "Can you provide examples of how animals contribute to the dispersal of seeds?",
+      "Are there any unusual or less common mechanisms by which seeds can be dispersed? "
+    ]
+  },
+  "9-119": {
+    "subqueries": [
+      "What types of birds typically have thin beaks?",
+      "What kind of food or feeding habits are associated with thin-beaked birds?",
+      "How does a thin beak provide an advantage in accessing certain types of food compared to other beak shapes? "
+    ]
+  },
+  "9-249": {
+    "subqueries": [
+      "What type of energy is commonly used by telephones to convert sound waves into signals?",
+      "How do telephones process and transmit these converted signals for communication?",
+      "In the context of telecommunication, what role does the identified energy type play in ensuring effective acoustic transfer? "
+    ]
+  },
+  "8-61": {
+    "subqueries": [
+      "What are the key environmental factors that contribute to successful farming?",
+      "How do different climates and weather patterns affect crop growth and livestock health?",
+      "Which geographical features, such as soil type and water availability, are essential for sustaining agricultural activities? "
+    ]
+  },
+  "775": {
+    "subqueries": [
+      "What factors influence the heat energy of a pond?",
+      "How does temperature change over time in this specific pond?",
+      "Are there any records or data indicating periods when the pond had lower temperatures compared to other times?"
+    ]
+  },
+  "8-349": {
+    "subqueries": [
+      "What are the basic components or types of precipitation involved in forming sleet?",
+      "How does sleet form within atmospheric conditions?",
+      "In what state (solid, liquid, gas) do these components exist when they reach the ground as sleet? "
+    ]
+  },
+  "9-862": {
+    "subqueries": [
+      "What characteristics define a flexible container?",
+      "Can you list some common types or examples of flexible containers used in everyday applications?",
+      "How do these examples meet the criteria for being considered \"flexible\" as defined in question 1?"
+    ]
+  },
+  "8-303": {
+    "subqueries": [
+      "What is the nature of the activity that involves casting an image of an object through a pinhole onto a screen?",
+      "Why are people advised to take this opportunity \"en masse\" recently?",
+      "How does participating in this activity enhance or improve the enjoyment of it?"
+    ]
+  },
+  "8-118": {
+    "subqueries": [
+      "What are some common physical adaptations or behaviors that prey species have developed for escaping predators?",
+      "How do environmental factors influence the effectiveness of different escape strategies used by prey animals?",
+      "Can you provide examples of specific prey species and the methods they use to successfully evade their predators? "
+    ]
+  },
+  "9-615": {
+    "subqueries": [
+      "What are some common characteristics of a lake, pond, and stream?",
+      "How are lakes, ponds, and streams utilized in various activities or purposes?",
+      "In what contexts (recreational, ecological, economic) are lakes, ponds, and streams typically used?"
+    ]
+  },
+  "9-950": {
+    "subqueries": [
+      "What is the primary nutrient or element required by okra in addition to water and sunlight for optimal growth?",
+      "How does each of these elements (water, sunlight, and the additional requirement) specifically contribute to the growth process of okra?",
+      "Are there any specific conditions or amounts needed for the third element that are critical for the successful cultivation of okra?"
+    ]
+  },
+  "8-441": {
+    "subqueries": [
+      "What is the purpose of clicking on a fan in a room?",
+      "How does the mechanism inside the fan work when it's turned on?",
+      "Why might someone use a fan on a particularly hot day? "
+    ]
+  },
+  "9-1188": {
+    "subqueries": [
+      "What does the term \"windy\" typically describe?",
+      "How is wind speed measured or classified?",
+      "At what threshold of wind speed can it be considered \"high speed\"? "
+    ]
+  },
+  "9-391": {
+    "subqueries": [
+      "What are the primary factors that determine how well a flower attracts pollinators?",
+      "How does the intensity or concentration of a flower's fragrance influence its attractiveness to pollinators?",
+      "Is there any research or evidence supporting the relationship between increased floral fragrance and improved pollination success?"
+    ]
+  },
+  "1279": {
+    "subqueries": [
+      "What are the different types of weathering (physical, chemical, and biological)?",
+      "How do each of these types of weathering processes contribute to changes in rocks or materials over time?",
+      "Can you provide specific examples or case studies where each type of weathering has been observed occurring over several years?"
+    ]
+  },
+  "1429": {
+    "subqueries": [
+      "What are the main organs involved in the human digestive process?",
+      "Which enzymes and substances aid in breaking down different types of food during digestion?",
+      "How do dietary habits, hydration, and physical activity influence the efficiency of digestion in humans? "
+    ]
+  },
+  "1513": {
+    "subqueries": [
+      "What is the typical diet of scavengers?",
+      "Which animals or food sources are commonly available for scavengers in their natural habitats?",
+      "How do scavengers identify and select their food sources compared to other feeding strategies like hunting or grazing?"
+    ]
+  },
+  "624": {
+    "subqueries": [
+      "What specific efforts are being made to preserve ecosystems within national parks?",
+      "How do these preservation efforts impact the management and policies of national parks?",
+      "In what ways might these changes affect wildlife, plant life, and visitor experiences in national parks?"
+    ]
+  },
+  "7-22": {
+    "subqueries": [
+      "What does \"thermal production\" refer to in the context of stoves?",
+      "How do stoves typically utilize thermal production in their operation?",
+      "In what common applications or contexts is the thermal production of stoves generally employed?"
+    ]
+  },
+  "179": {
+    "subqueries": [
+      "What is the process of respiration?",
+      "How does respiration contribute to energy production in cells?",
+      "Which types of activities or biological processes rely on this energy produced through respiration?"
+    ]
+  },
+  "9-158": {
+    "subqueries": [
+      "What term describes an organism that resembles something else for survival purposes?",
+      "How do insects use mimicry as a defense mechanism against predators?",
+      "Can you list some examples of insects that exhibit this type of behavior and the entities they resemble? "
+    ]
+  },
+  "1392": {
+    "subqueries": [
+      "What is the primary function of nerves within the human body?",
+      "How do nerves interact with sensory organs (e.g., eyes, ears, skin) to detect stimuli?",
+      "Can you list and describe different types of sensations that nerves are responsible for detecting (e.g., touch, pain, temperature)?"
+    ]
+  },
+  "1143": {
+    "subqueries": [
+      "What is gravitational pull and how does it work between two objects?",
+      "How does the gravitational pull specifically affect planets in our solar system?",
+      "Which specific phenomenon results from the gravitational pull of the sun on objects within its influence?"
+    ]
+  },
+  "1706": {
+    "subqueries": [
+      "What was the initial direction indicated by the arrow on the compass?",
+      "In which direction did we turn after looking at the arrow on the compass?",
+      "Based on our new direction, what cardinal or intercardinal direction were we ultimately walking in? "
+    ]
+  },
+  "1068": {
+    "subqueries": [
+      "What is the primary element of the respiratory system where gas exchange occurs?",
+      "Which gases are involved in the diffusion process within this primary element?",
+      "How does the diffusion of these gases occur when blood passes through this primary element? "
+    ]
+  },
+  "7-871": {
+    "subqueries": [
+      "What are the different states of matter?",
+      "How does heat affect the particles in a substance?",
+      "Can you provide an example where applying heat changes the state of matter?"
+    ]
+  },
+  "7-201": {
+    "subqueries": [
+      "What are some examples of new environments humans have historically moved into?",
+      "How do human adaptations (biological, cultural, technological) occur when settling in these new environments?",
+      "What impacts do human migrations and settlements have on the ecosystems and native species of these new environments?"
+    ]
+  },
+  "932": {
+    "subqueries": [
+      "What are the main ingredients typically used in no-bake cookies?",
+      "How does cooking time affect the texture of foods that do not require baking?",
+      "What changes occur to these types of cookie ingredients when exposed to heat for too long without burning? "
+    ]
+  },
+  "1596": {
+    "subqueries": [
+      "What are some basic necessities animals need for survival?",
+      "How do these requirements vary among different animal species?",
+      "In what ways can environmental factors affect an animal's needs?"
+    ]
+  },
+  "9-865": {
+    "subqueries": [
+      "What are the four seasons of the year in the northern hemisphere?",
+      "Which season follows spring in the sequence of these seasons?",
+      "During which months does this subsequent season occur in the northern hemisphere?"
+    ]
+  },
+  "7-730": {
+    "subqueries": [
+      "What are the different techniques used for fish reproduction?",
+      "How do these techniques work and what is their purpose in aquaculture or conservation?",
+      "Who supplies or provides these fish reproduction techniques, and what services do they offer?  "
+    ]
+  },
+  "9-740": {
+    "subqueries": [
+      "What are some examples of nonrenewable materials?",
+      "What criteria should the man consider when selecting a nonrenewable material for his project?",
+      "Are there any potential drawbacks or considerations associated with using nonrenewable materials in projects?  "
+    ]
+  },
+  "1736": {
+    "subqueries": [
+      "What are some observable phenomena involving star movement relative to the horizon during nighttime?",
+      "How does Earth's rotation affect the apparent motion of stars as viewed from a fixed point on its surface?",
+      "Can you provide an example of a specific type of apparent stellar motion, such as rising or setting of stars? "
+    ]
+  },
+  "7-518": {
+    "subqueries": [
+      "What is nectar and how do bees obtain it?",
+      "How do bees process nectar once they have collected it?",
+      "What substance is produced as a result of the processing of nectar by bees?"
+    ]
+  },
+  "871": {
+    "subqueries": [
+      "What causes water vapor to cool at night?",
+      "How does the process of condensation occur as water vapor cools?",
+      "What are the effects or results of water vapor cooling and potentially forming dew or frost overnight? "
+    ]
+  },
+  "883": {
+    "subqueries": [
+      "What is the typical diet of rabbits?",
+      "Are there specific plants or foods that rabbits are known to prefer?",
+      "How do dietary needs vary between wild and domesticated rabbits?"
+    ]
+  },
+  "9-84": {
+    "subqueries": [
+      "How does increased food intake affect an animal's metabolism?",
+      "What changes occur in an animal's body weight and composition with increased food intake?",
+      "How might increased food intake impact an animal's behavior and energy levels? "
+    ]
+  },
+  "7-603": {
+    "subqueries": [
+      "How often does a full moon occur?",
+      "How often does a crescent moon occur?",
+      "Are both types of moon phases considered normal in the lunar cycle?"
+    ]
+  },
+  "1840": {
+    "subqueries": [
+      "What are decomposers and what role do they play in ecosystems?",
+      "How does decomposition contribute to nutrient recycling in the environment?",
+      "Can you provide examples of decomposers that recycle nutrients from dead organisms back into the soil?"
+    ]
+  },
+  "7-315": {
+    "subqueries": [
+      "What is the value of the moon's gravitational acceleration?",
+      "How does the moon's gravity compare to Earth's gravity in terms of strength and effects on objects?",
+      "What are some observable phenomena or practical implications caused by the moon's gravitational pull, such as its effect on tides?"
+    ]
+  },
+  "7-578": {
+    "subqueries": [
+      "What specific aspects or characteristics of the moon are being referred to?",
+      "In what context is the information about the moon needed (e.g., scientific facts, cultural significance)?",
+      "Are there any particular features or phenomena related to the moon that need exploration (e.g., phases, surface composition)?"
+    ]
+  },
+  "7-996": {
+    "subqueries": [
+      "What are some common characteristics of things that require sustenance?",
+      "How does sustenance support the functions and survival of a living organism?",
+      "In what ways can the requirement for sustenance influence the behavior or environment of a living thing?"
+    ]
+  },
+  "8-249": {
+    "subqueries": [
+      "What is chlorophyll and what role does it play in plants?",
+      "How does chlorophyll contribute to a plant's ability to absorb energy or nutrients?",
+      "Specifically, which type of light or substance does chlorophyll enable plants to absorb efficiently? "
+    ]
+  },
+  "7-791": {
+    "subqueries": [
+      "What are the essential nutrients and resources plants require for growth?",
+      "How do environmental factors such as light, water, and temperature influence plant growth?",
+      "What biological processes within a plant contribute directly to its growth?"
+    ]
+  },
+  "7-452": {
+    "subqueries": [
+      "What specific conditions do plant lights replicate or enhance for plant growth?",
+      "How do different types of plant lights (e.g., LED, fluorescent) compare in terms of efficiency and effectiveness?",
+      "In what scenarios or environments are plant lights particularly beneficial compared to natural sunlight? "
+    ]
+  },
+  "1117": {
+    "subqueries": [
+      "What factors contribute to a car being able to drive off at night?",
+      "How does nighttime visibility impact driving conditions for cars?",
+      "What safety measures or precautions should drivers take when operating a vehicle at night? "
+    ]
+  },
+  "362": {
+    "subqueries": [
+      "What are some common actions or practices that can be implemented to conserve resources?",
+      "How do these actions specifically affect nonrenewable resources as opposed to renewable ones?",
+      "Are there any studies or examples demonstrating a positive impact of these actions on the conservation of nonrenewable resources?"
+    ]
+  },
+  "153": {
+    "subqueries": [
+      "What are the potential pollutants or byproducts typically produced by a large mill?",
+      "How do these pollutants affect water quality when they enter streams and rivers?",
+      "What historical evidence exists of mills contributing to pollution in nearby water bodies? "
+    ]
+  },
+  "9-789": {
+    "subqueries": [
+      "What properties of ceramics make them suitable for use in electrical applications?",
+      "In what specific electrical components or systems are ceramics commonly utilized?",
+      "How do these ceramic materials perform compared to other materials traditionally used in the same electrical applications? "
+    ]
+  },
+  "215": {
+    "subqueries": [
+      "What factors influence the thickness of a rabbit's fur?",
+      "How do seasonal changes affect a rabbit's fur thickness?",
+      "In what environmental conditions or locations might a rabbit have naturally thicker fur? "
+    ]
+  },
+  "9-878": {
+    "subqueries": [
+      "What are the common uses of a tape measure?",
+      "How does a tape measure function to assist with these tasks?",
+      "In what situations is a tape measure particularly useful? "
+    ]
+  },
+  "9-421": {
+    "subqueries": [
+      "What is the effect of applying force to the pedals of a bicycle while stationary?",
+      "How does the orientation and position (e.g., standing on top) affect balance and control when pushing the pedals?",
+      "What mechanisms are involved in converting pedal motion into forward movement for a moving bicycle?"
+    ]
+  },
+  "7-570": {
+    "subqueries": [
+      "What happens when a mosquito's body comes into contact with water or mud?",
+      "How does suction typically affect small organisms like mosquitoes?",
+      "Under what conditions might a dead mosquito end up being absorbed by mud?"
+    ]
+  },
+  "9-648": {
+    "subqueries": [
+      "What is chlorophyll and what role does it play in plants?",
+      "How do trees utilize chlorophyll in the process of photosynthesis?",
+      "Can you explain how having chlorophyll enables trees to produce their own food?"
+    ]
+  },
+  "9-68": {
+    "subqueries": [
+      "What mechanisms or systems are used by bats to navigate and maintain their flight path?",
+      "How do these navigation systems help a bat detect and avoid obstacles in its environment?",
+      "Are there any external factors, such as environmental cues or social interactions with other bats, that influence the bat's ability to stay on course?"
+    ]
+  },
+  "719": {
+    "subqueries": [
+      "What are the different sources (e.g., plants, animals, fungi) of food?",
+      "How do these sources undergo processing or cultivation before consumption?",
+      "What role does geography and climate play in determining where these sources can be found? "
+    ]
+  },
+  "669": {
+    "subqueries": [
+      "What materials are effective at soundproofing floors within apartments?",
+      "How can these soundproofing materials be installed or applied in an apartment setting?",
+      "Are there any alternative methods or products available specifically for reducing noise from movement on floors? "
+    ]
+  },
+  "8-353": {
+    "subqueries": [
+      "What are the characteristics and life cycle stages of an adult salmon?",
+      "Do adult salmon have a natural behavior or instinct to return to their birthplace?",
+      "What environmental or biological factors influence a salmon's ability or likelihood to return to where it was born?"
+    ]
+  },
+  "7-195": {
+    "subqueries": [
+      "What factors determine whether a region is considered \"cold\" or \"warm\"?",
+      "How can climatic conditions in the north differ from those in the mid-north?",
+      "What are the potential outcomes or scenarios if the northern regions experience cold conditions while mid-northern regions remain warm?"
+    ]
+  },
+  "8-314": {
+    "subqueries": [
+      "What physical process occurs when the guy turns on the stove to add heat to the pan?",
+      "How does the addition of heat affect the state of the meat in the pan as it begins to sizzle?",
+      "What changes occur in the meat at a molecular level that result in the sizzling sound and visual effect?"
+    ]
+  },
+  "9-432": {
+    "subqueries": [
+      "What geological processes or materials are involved in the formation of islands?",
+      "How do tectonic activities contribute to the creation of islands?",
+      "What role does sedimentation and volcanic activity play in island formation?"
+    ]
+  },
+  "1724": {
+    "subqueries": [
+      "What are the defining characteristics of a moth?",
+      "How does a moth differ from a butterfly?",
+      "What is the typical lifecycle and habitat of a moth?"
+    ]
+  },
+  "1193": {
+    "subqueries": [
+      "What are the natural growing conditions for a palm tree (e.g., climate, soil type)?",
+      "Which locations have climates and soil conditions significantly different from those preferred by palm trees?",
+      "How do environmental factors such as temperature, humidity, and rainfall affect palm tree growth in various regions?"
+    ]
+  },
+  "1760": {
+    "subqueries": [
+      "How do solar panels generate electricity?",
+      "What factors influence the efficiency of solar panel energy production during different times of the day?",
+      "During which period is sunlight intensity typically at its peak for solar panels? "
+    ]
+  },
+  "9-819": {
+    "subqueries": [
+      "What are the chemical properties of glucose that affect its solubility?",
+      "In what types of solvents (e.g., polar or non-polar) does glucose dissolve easily, and why?",
+      "Are there any factors such as temperature or pH that can influence the solubility of glucose?"
+    ]
+  },
+  "7-236": {
+    "subqueries": [
+      "What are the potential sources of sediment in the area surrounding the shed?",
+      "What environmental or weather conditions could contribute to sediment accumulation near the shed?",
+      "Are there any structures, natural formations, or human activities that might influence how and where sediment builds up around the shed? "
+    ]
+  },
+  "1641": {
+    "subqueries": [
+      "What are the key properties of a gear involved when two gears grind against each other?",
+      "How does friction between two meshing gears affect these properties?",
+      "What specific property or properties are increased due to the grinding action in gears?"
+    ]
+  },
+  "9-1110": {
+    "subqueries": [
+      "What is electrical current and how is it defined?",
+      "How does electrical current interact with a conductor like a wire?",
+      "What mechanism causes the wire to heat up when an electric current passes through it?"
+    ]
+  },
+  "9-85": {
+    "subqueries": [
+      "What natural processes can cause changes to the Earth's surface over time?",
+      "How do human activities contribute to alterations in the planet's surface?",
+      "Are there any astronomical or environmental events that might affect the Earth's surface significantly? "
+    ]
+  },
+  "832": {
+    "subqueries": [
+      "What is peat composed of?",
+      "Where does peat form and what conditions are necessary for its formation?",
+      "From which natural materials or processes is peat typically derived?"
+    ]
+  },
+  "1214": {
+    "subqueries": [
+      "What types of energy or radiation are emitted by sunlight?",
+      "How does each type of energy or radiation from sunlight affect Earth and its environment?",
+      "Are there any specific processes on Earth that rely directly on sunlight as an energy source?  "
+    ]
+  },
+  "9-600": {
+    "subqueries": [
+      "What are the primary defensive mechanisms or behaviors employed by prey animals to evade or deter predators?",
+      "How do environmental factors and habitat features influence the ability of prey animals to avoid predation?",
+      "In what ways does the timing of mating periods impact the survival rates of prey animals against predators?"
+    ]
+  },
+  "298": {
+    "subqueries": [
+      "What are some common methods used for preserving natural resources?",
+      "How do these methods contribute to sustainability and environmental protection?",
+      "Can you provide examples of how each method is implemented in real-world scenarios? "
+    ]
+  },
+  "8-459": {
+    "subqueries": [
+      "What factors are typically considered when determining if a TV screen is \"ugly\"?",
+      "How do various types of lighting conditions (e.g., natural light, artificial light) affect the appearance of a TV screen?",
+      "How do different scenarios involving display settings and environmental conditions impact the quality and aesthetics of a TV screen?"
+    ]
+  },
+  "9-935": {
+    "subqueries": [
+      "What are the specific statements or options provided for evaluation?",
+      "What criteria or evidence can be used to determine the truthfulness of each statement?",
+      "Which statement, if any, aligns with the established criteria or evidence as being true?"
+    ]
+  },
+  "7-73": {
+    "subqueries": [
+      "What physiological changes occur in a bear during hibernation?",
+      "How does hibernation help a bear conserve energy during cold weather?",
+      "Why is it beneficial for a bear to avoid food scarcity by hibernating? "
+    ]
+  },
+  "8-490": {
+    "subqueries": [
+      "What are the essential nutrients and soil conditions required for growing a rosebush?",
+      "How much sunlight and water does a rosebush need to thrive?",
+      "Are there any particular climate or temperature considerations important for growing a rosebush?"
+    ]
+  },
+  "289": {
+    "subqueries": [
+      "What are the known abilities of a jellyfish?",
+      "Which abilities are typically associated with other marine animals but not jellyfish?",
+      "Are there any unique limitations or exclusions in a jellyfish's biological functions? "
+    ]
+  },
+  "7-839": {
+    "subqueries": [
+      "What natural forces are typically responsible for the formation of canyons?",
+      "How do these forces contribute to the erosion and shaping of land to form a canyon?",
+      "Can you provide examples of specific geographic features where these forces have created notable canyons? "
+    ]
+  },
+  "9-198": {
+    "subqueries": [
+      "How does distance affect the apparent size of an object as perceived by the human eye?",
+      "What factors besides distance influence how large an object appears to be (e.g., actual size, perspective, atmospheric conditions)?",
+      "At what point is the relationship between distance and perceived size no longer linear or intuitive?"
+    ]
+  },
+  "7-1059": {
+    "subqueries": [
+      "What natural processes contribute to the formation of canyons?",
+      "How did these specific natural processes affect the geography of the Grand Canyon area over time?",
+      "Are there any unique geological features or historical events that influenced the Grand Canyon's development into its current size and depth?"
+    ]
+  },
+  "140": {
+    "subqueries": [
+      "What characteristics define something as supporting living things?",
+      "What constitutes being a \"home\" for living things?",
+      "Can you identify examples of things that do not have the ability to support or be a home for living things? "
+    ]
+  },
+  "9-267": {
+    "subqueries": [
+      "How does heat affect the molecular structure of matter?",
+      "In what ways can temperature changes lead to physical state transitions in matter?",
+      "What are some specific examples of how substances react to heating, such as expansion or phase change? "
+    ]
+  },
+  "9-453": {
+    "subqueries": [
+      "What are some of the various types of items a chipmunk typically gathers?",
+      "How do chipmunks use these gathered items, specifically in terms of storage for future use?",
+      "In what way can a chipmunk's behavior of storing food contribute to plant dispersal?"
+    ]
+  },
+  "9-1005": {
+    "subqueries": [
+      "What are some common characteristics or traits of dogs and cats that might influence someone's preference?",
+      "How do past experiences with dogs and cats potentially affect a person's perception and preferences towards these animals?",
+      "Are there social, cultural, or familial factors that could contribute to a young boy favoring dogs over cats?"
+    ]
+  },
+  "8-364": {
+    "subqueries": [
+      "What physiological processes occur during a girl's puberty that lead to breast development?",
+      "How do these pubertal changes signify the transition into adulthood for a female?",
+      "What are some common signs or milestones of physical maturity associated with reaching sixteen years old in females? "
+    ]
+  },
+  "9-371": {
+    "subqueries": [
+      "What are the effects of heating on the physical properties of a liquid?",
+      "How does temperature influence the solubility or dissolution process in liquids?",
+      "What is the mechanism by which heated liquids interact with and break down solid materials? "
+    ]
+  },
+  "668": {
+    "subqueries": [
+      "What is the duration of daylight at different times of the year?",
+      "When does the shortest period of daylight occur during the year?",
+      "How do variations in daylight hours impact being outside during daytime? "
+    ]
+  },
+  "1593": {
+    "subqueries": [
+      "What are the characteristics of rocks that could make them suitable for use as shelters?",
+      "Under what environmental conditions would using a rock as a shelter be practical or necessary?",
+      "How can rocks be modified, if at all, to enhance their suitability as shelters?"
+    ]
+  },
+  "7-866": {
+    "subqueries": [
+      "What is considered the last month of the year?",
+      "How does the calendar year differ between the northern and southern hemispheres?",
+      "Which season corresponds to the end of the calendar year in the southern hemisphere?"
+    ]
+  },
+  "9-455": {
+    "subqueries": [
+      "What is an anemometer and how does it function?",
+      "Under what weather conditions or environmental factors would an anemometer experience maximum activity or usage?",
+      "How do these specific conditions affect the measurements taken by an anemometer? "
+    ]
+  },
+  "1645": {
+    "subqueries": [
+      "What is the process by which organisms absorb sunlight?",
+      "Which types of organisms are capable of absorbing sunlight and how do they utilize it?",
+      "What role does absorbed sunlight play in the biological processes of these organisms? "
+    ]
+  },
+  "660": {
+    "subqueries": [
+      "On which planet was television (TV) invented?",
+      "What are some common heavenly objects (e.g., planets, moons, stars) near this planet?",
+      "Which of these heavenly objects is closest to the identified planet? "
+    ]
+  },
+  "1407": {
+    "subqueries": [
+      "What are some common ways chemicals can be handled carelessly?",
+      "How does careless handling of chemicals potentially cause harm or danger?",
+      "What specific consequences or incidents can result from such mishandling?"
+    ]
+  },
+  "9-559": {
+    "subqueries": [
+      "What factors contribute to the initial health and vitality of newborn lion cubs?",
+      "What environmental or behavioral conditions could lead to a cub sustaining a cut on its paw after birth?",
+      "How do healthy cubs typically recover from minor injuries like cuts, and what role does the mother play in this process?"
+    ]
+  },
+  "1732": {
+    "subqueries": [
+      "When does spring typically end?",
+      "What season follows immediately after spring?",
+      "How many seasons follow before spring occurs again?"
+    ]
+  },
+  "9-919": {
+    "subqueries": [
+      "What are the primary components and structures within the skeletal system?",
+      "What roles do these components play in supporting bodily functions?",
+      "How does each identified role contribute specifically to maintaining overall body health or functionality?"
+    ]
+  },
+  "7-276": {
+    "subqueries": [
+      "What are common symptoms of a person who is allergic to sunlight?",
+      "What environments or conditions exacerbate allergies to sunlight?",
+      "Which places are known for having high exposure to sunlight that might trigger such an allergy? "
+    ]
+  },
+  "9-825": {
+    "subqueries": [
+      "What specific measurement or purpose does the scale serve (e.g., weight, balance, size)?",
+      "In what context or environment is the scale being used?",
+      "Are there any particular standards or criteria that need to be met when using this scale?"
+    ]
+  },
+  "364": {
+    "subqueries": [
+      "What are the seasons of the year?",
+      "How do the seasons differ between the northern and southern hemispheres?",
+      "In which months does December fall, and what season is it associated with in the southern hemisphere? "
+    ]
+  },
+  "1202": {
+    "subqueries": [
+      "What are the primary functions of a plant's stem?",
+      "How is the structure of a plant's stem organized internally and externally?",
+      "In what ways do different types of plants (e.g., herbaceous, woody) have variations in their stems?"
+    ]
+  },
+  "7-758": {
+    "subqueries": [
+      "How does sunlight affect the temperature of water over time?",
+      "What changes occur in water as its temperature increases due to sunlight exposure?",
+      "What are the potential physical or chemical processes that could happen to water in a bowl when exposed to sunlight for four hours?"
+    ]
+  },
+  "9-54": {
+    "subqueries": [
+      "What factors contribute to the weathering of stones?",
+      "How do different environments affect the rate and type of stone weathering?",
+      "Which types of stones are more susceptible to rapid weathering in specific conditions?"
+    ]
+  },
+  "7-643": {
+    "subqueries": [
+      "What is brackish water and how does it differ from fresh or saltwater?",
+      "In what types of geographical locations is brackish water typically formed?",
+      "Which natural processes contribute to the formation of brackisch water in these locations?"
+    ]
+  },
+  "9-58": {
+    "subqueries": [
+      "What is the coefficient of friction like between a chair and a wooden floor compared to a chair and a carpeted floor?",
+      "How does surface texture affect the ease of sliding objects across it?",
+      "What characteristics of wood make it more conducive for sliding than carpet?  "
+    ]
+  },
+  "9-904": {
+    "subqueries": [
+      "What is the primary function of the cell membrane?",
+      "How does the cell membrane maintain this function in relation to external and internal environments?",
+      "In what ways can substances pass through or be blocked by the cell membrane? "
+    ]
+  },
+  "7-806": {
+    "subqueries": [
+      "What are white blood cells and what role do they play in the body?",
+      "How many different types of white blood cells exist, and what are their specific functions?",
+      "What are some common conditions or diseases associated with abnormalities in white blood cell count?"
+    ]
+  },
+  "9-23": {
+    "subqueries": [
+      "What are the typical daily activities and behaviors of bears in general?",
+      "How does consuming food like a watermelon affect a bear's energy levels and activity patterns?",
+      "What potential ecological impacts could occur when a bear travels to several areas within its surrounding forest during the day? "
+    ]
+  },
+  "9-687": {
+    "subqueries": [
+      "How do ants typically react when their colony is physically disturbed by an external force such as a lawnmower?",
+      "What are the immediate effects on an ant colony's infrastructure and inhabitants if its nest is destroyed?",
+      "To what extent can an ant colony recover from significant disruption or destruction of its habitat, considering factors like the number of ants killed and remaining survivors?"
+    ]
+  },
+  "7-383": {
+    "subqueries": [
+      "What types of foods are high in dietary fiber?",
+      "How does dietary fiber contribute to maintaining regular bowel movements?",
+      "Can you provide examples of meals or snacks that incorporate high-fiber foods? "
+    ]
+  },
+  "7-204": {
+    "subqueries": [
+      "What are some examples of creatures that use bioluminescence?",
+      "How do these creatures utilize their ability to produce light for hunting purposes?",
+      "Can you provide specific instances or methods through which these creatures attract and capture prey using light?"
+    ]
+  },
+  "7-537": {
+    "subqueries": [
+      "What is the definition of speed in physics?",
+      "How can speed be calculated from distance and time?",
+      "What are the units used to measure speed?"
+    ]
+  },
+  "1868": {
+    "subqueries": [
+      "What specific functions does a scale have?",
+      "In what contexts or industries are scales commonly used?",
+      "What types of measurement units can a scale provide (e.g., weight, mass)?"
+    ]
+  },
+  "8-277": {
+    "subqueries": [
+      "What is AIDS and how does it affect the immune system?",
+      "Which specific cells in the body are targeted and destroyed by HIV, leading to AIDS?",
+      "How do the effects of these cellular damages contribute to the overall weakening and potential failure of bodily functions? "
+    ]
+  },
+  "7-672": {
+    "subqueries": [
+      "What is the definition of a natural resource?",
+      "Can you list some examples of natural resources?",
+      "How do these natural resources originate or get formed in nature? "
+    ]
+  },
+  "9-657": {
+    "subqueries": [
+      "How does the annual growth in size (a few meters) of the celestial body affect its overall volume after a hundred years?",
+      "What is the relationship between the increase in size and the corresponding increase in mass for this celestial body over the course of a century?",
+      "Considering both the changes in volume and mass, what implications do these transformations have on the celestial body's physical characteristics (e.g., gravity, density) after a hundred years?"
+    ]
+  },
+  "7-1039": {
+    "subqueries": [
+      "What is the primary function of the respiratory system?",
+      "How does the respiratory system facilitate gas exchange in the body?",
+      "What role do the structures within the respiratory system play in supporting its functions?"
+    ]
+  },
+  "7-520": {
+    "subqueries": [
+      "What does \"burn away the darkness\" metaphorically represent or signify in this context?",
+      "How can light, whether literal or symbolic, contribute to addressing or alleviating the identified darkness from Question 1?",
+      "Can you provide examples of \"tiny lights,\" either literal small sources of illumination or metaphorical instances, that effectively help burn away the darkness?"
+    ]
+  },
+  "9-579": {
+    "subqueries": [
+      "What structural features of a red maple tree provide support?",
+      "How does the environment of a dense forest affect the growth and support mechanisms of a red maple?",
+      "In what ways can external factors, such as other trees or natural elements, assist in supporting a stately red maple?"
+    ]
+  },
+  "8-402": {
+    "subqueries": [
+      "What is inside a typical beach ball when it is inflated?",
+      "How does bursting affect the containment of materials in an object like a beach ball?",
+      "What physical principles determine what escapes from a burst balloon or similar container? "
+    ]
+  },
+  "7-437": {
+    "subqueries": [
+      "What are the different processes or products in which leaves are involved?",
+      "How do leaves contribute specifically to these processes or the creation of these products?",
+      "Are there any particular types of leaves that are more significant in these roles, and if so, why? "
+    ]
+  },
+  "951": {
+    "subqueries": [
+      "What are common sources of environmental pollution?",
+      "How does each identified source contribute to pollution?",
+      "Are there any specific examples or case studies illustrating these pollution sources?"
+    ]
+  },
+  "8-197": {
+    "subqueries": [
+      "What are examples of nonrenewable resources?",
+      "How do renewable and nonrenewable resources differ?",
+      "Which commonly mentioned energy sources or materials are typically not considered nonrenewable? "
+    ]
+  },
+  "7-302": {
+    "subqueries": [
+      "What is crop rotation and how does it work?",
+      "What are the benefits of implementing crop rotation in agriculture?",
+      "Are there any challenges or limitations associated with practicing crop rotation?"
+    ]
+  },
+  "1949": {
+    "subqueries": [
+      "What is a full moon and how is it defined?",
+      "How does the position of the Earth, Moon, and Sun contribute to the occurrence of a full moon?",
+      "What are the phases of the moon, and where does a full moon fit within this cycle? "
+    ]
+  },
+  "8-75": {
+    "subqueries": [
+      "What are the benefits of keeping the feet on the pedals while riding a bike?",
+      "How does maintaining contact with the pedals contribute to balance and control for a beginner cyclist?",
+      "Why is it important for a new rider to focus on pedal technique during their initial learning phase? "
+    ]
+  },
+  "7-821": {
+    "subqueries": [
+      "What are the physical properties of lemon juice?",
+      "How does mixing substances like lemon juice and water affect their chemical composition?",
+      "Are there any safety or taste considerations when pouring lemon juice into water?"
+    ]
+  },
+  "1956": {
+    "subqueries": [
+      "What are the different reproductive methods used by mammals?",
+      "Which specific reproductive method is used by mice?",
+      "What does the process of this reproductive method involve for mice specifically (e.g., gestation period, number of offspring)? "
+    ]
+  },
+  "9-342": {
+    "subqueries": [
+      "What is the process by which rotting grain decomposes over time?",
+      "How does decomposition affect the physical structure and composition of the ground beneath a pile of organic material like grain?",
+      "What are the potential long-term environmental impacts on the soil in an area where organic matter, such as rotting grain, has been present for an extended period?"
+    ]
+  },
+  "7-428": {
+    "subqueries": [
+      "What are tree rings and how are they formed?",
+      "What kind of information or data can tree rings provide about a tree's history?",
+      "How can scientists use the information from tree rings in broader ecological or environmental studies?"
+    ]
+  },
+  "7-933": {
+    "subqueries": [
+      "What are the characteristics of a bumpy road compared to a smooth road?",
+      "How do these differences impact travel or driving conditions on each type of road?",
+      "Based on the impact identified, what can be inferred about the overall experience or outcome for a road that is bumpier than another?"
+    ]
+  },
+  "9-1007": {
+    "subqueries": [
+      "What types of environmental elements (e.g., weather, temperature) can shelter provide protection against?",
+      "How does shelter help in safeguarding humans from potential threats or dangers (e.g., wild animals, intruders)?",
+      "In what ways does shelter contribute to the physical and psychological well-being of humans?"
+    ]
+  },
+  "1209": {
+    "subqueries": [
+      "What types of environmental factors constitute \"bad weather\" for animals?",
+      "How do different animal species adapt to or find shelter from these adverse weather conditions?",
+      "What specific features or behaviors are essential for animals to effectively protect themselves from bad weather?"
+    ]
+  },
+  "1483": {
+    "subqueries": [
+      "What is meant by \"propped up\" in the context of roses?",
+      "How can roses typically be supported or elevated?",
+      "Are there any specific materials or structures used for propping up roses?"
+    ]
+  },
+  "9-474": {
+    "subqueries": [
+      "What are some examples of resources that are not man-made?",
+      "Where do natural (non-man-made) resources typically occur or exist?",
+      "Are there any specific locations where non-man-made resources cannot be found?"
+    ]
+  },
+  "7-283": {
+    "subqueries": [
+      "What are some common characteristics of rocks known to contain iron (Fe)?",
+      "How can one perform chemical tests or use instruments to detect the presence of iron in a rock sample?",
+      "What geological formations or environments typically host rocks that contain significant amounts of iron? "
+    ]
+  },
+  "304": {
+    "subqueries": [
+      "What happens when rainwater is collected in a rain gutter?",
+      "How does directing this water through a spout impact its distribution on the ground?",
+      "What are the potential effects or consequences of draining rainwater directly onto bare ground?"
+    ]
+  },
+  "9-398": {
+    "subqueries": [
+      "What types of food are included in a \"feast\" for black bears?",
+      "Are there specific prey animals or food sources that black bears in Alaska prefer when it comes to feasting?",
+      "How does the diet and feeding behavior of black bears in Alaska contribute to their ability to hunt particular types of meals?"
+    ]
+  },
+  "8-370": {
+    "subqueries": [
+      "What are the specific conditions or variables (e.g., air resistance, medium) under which each scenario is considered?",
+      "How do these conditions affect the rate at which an object falls due to gravity?",
+      "Are there any additional forces acting on the ball in each scenario that could alter its falling speed? "
+    ]
+  },
+  "9-502": {
+    "subqueries": [
+      "What atmospheric conditions lead to the formation of dark clouds?",
+      "How do these conditions specifically contribute to the development of a storm?",
+      "What sequence of events typically occurs from cloud formation to the onset of a storm? "
+    ]
+  },
+  "9-38": {
+    "subqueries": [
+      "What environmental issue could occur if someone throws their fast food bags out of a car window?",
+      "How does keeping waste items inside a vehicle rather than disposing of them improperly affect environmental protection efforts?",
+      "In what ways can preventing littering by storing trash until it reaches its proper disposal site contribute to protecting the environment?"
+    ]
+  },
+  "1377": {
+    "subqueries": [
+      "What are the primary environmental conditions in the Arctic?",
+      "How do these conditions affect the types of animals that can live there?",
+      "What adaptations allow animals to thrive under these specific Arctic conditions? "
+    ]
+  },
+  "1987": {
+    "subqueries": [
+      "What are national parks and how are they defined or established?",
+      "What types of natural environments and resources do national parks typically protect?",
+      "What are some examples of activities and regulations associated with managing national parks? "
+    ]
+  },
+  "1152": {
+    "subqueries": [
+      "What material or object did they use as \"trash\" in the last scene of the 'Back to the Future' movie?",
+      "How was this material or object used during that particular scene?",
+      "In terms of waste management and environmental practices, what does using trash in this manner exemplify?"
+    ]
+  },
+  "9-1076": {
+    "subqueries": [
+      "What are the specific effects on the ground caused by the landing of atomic bombs?",
+      "What natural phenomena or events exhibit similar ground movement characteristics?",
+      "How do these similar events compare in terms of intensity, scale, and impact with the effects of atomic bomb detonations? "
+    ]
+  },
+  "9-53": {
+    "subqueries": [
+      "What are the conditions under which water boils?",
+      "How does heat transfer occur from the stove to the pot?",
+      "What phase change occurs when water reaches its boiling point? "
+    ]
+  },
+  "9-911": {
+    "subqueries": [
+      "What factors determine whether a habitat can support a particular animal species?",
+      "How do animals typically respond when faced with inadequate resources or environmental changes in their habitat?",
+      "What are some common strategies or behaviors that animals might adopt to survive when their current habitat cannot sustain them? "
+    ]
+  },
+  "7-106": {
+    "subqueries": [
+      "What structural component of a tree provides it with stability?",
+      "How does a tree distribute nutrients throughout its structure?",
+      "What role do these components play in the overall health and function of a tree? "
+    ]
+  },
+  "1700": {
+    "subqueries": [
+      "What are the common components of a stove?",
+      "How do these components function to produce heat?",
+      "What is the primary purpose or use of the heat generated by a stove?"
+    ]
+  },
+  "9-65": {
+    "subqueries": [
+      "What are the primary components involved in a running car engine?",
+      "How does each component contribute to the operation of the engine?",
+      "What are the potential consequences or effects when a car engine is actively running? "
+    ]
+  },
+  "9-775": {
+    "subqueries": [
+      "What are the primary phases of the moon?",
+      "How long does it take for the moon to complete one full cycle through all its phases?",
+      "Over what period do each of these phases typically occur within that cycle?"
+    ]
+  },
+  "1631": {
+    "subqueries": [
+      "What are the safety guidelines for standing near a campfire?",
+      "How close is considered safe when standing near a campfire?",
+      "Are there specific conditions or materials around the campfire that can affect its safety?  "
+    ]
+  },
+  "1213": {
+    "subqueries": [
+      "What physiological processes in animals require warmth?",
+      "Which types of environments are typically associated with animals needing external heat sources?",
+      "Can you provide examples of specific animals that rely on external warmth to maintain these physiological processes?"
+    ]
+  },
+  "8-241": {
+    "subqueries": [
+      "What types of plants do deer typically consume as part of their diet?",
+      "Are there any specific parts of plants (such as leaves, stems, or roots) that deer prefer to eat?",
+      "How does the availability of different plant species influence a deer's feeding habits throughout the seasons?"
+    ]
+  },
+  "9-300": {
+    "subqueries": [
+      "How many hours are there in one day?",
+      "How many minutes are there in one hour?",
+      "What is the product of the number of hours in a day and the number of minutes in an hour?"
+    ]
+  },
+  "9-515": {
+    "subqueries": [
+      "What factors can cause an increase in speed?",
+      "How is acceleration defined, and what causes it to change?",
+      "Are there specific conditions or scenarios where both speed and acceleration increase simultaneously?"
+    ]
+  },
+  "1470": {
+    "subqueries": [
+      "What is the definition of a satellite in astronomical terms?",
+      "How does the moon relate to the Earth based on its orbital characteristics?",
+      "Are there any specific roles or effects the moon has on Earth that characterize this relationship?"
+    ]
+  },
+  "740": {
+    "subqueries": [
+      "What are the different types of weathering?",
+      "How does each type of weathering affect rocks and minerals?",
+      "What are some examples or processes associated with each type of weathering? "
+    ]
+  },
+  "9-476": {
+    "subqueries": [
+      "What are the specific vision characteristics or conditions of each person mentioned?",
+      "How do various factors such as lighting, weather, and distance impact vision during a drive?",
+      "Are there any personal aids or adjustments (e.g., glasses, contact lenses) that improve sight for these individuals while driving? "
+    ]
+  },
+  "9-385": {
+    "subqueries": [
+      "What are the primary factors contributing to changes in predator populations?",
+      "How do fluctuations in predator populations affect ecosystem balance and biodiversity?",
+      "What measures can be taken to manage or mitigate a decline in predator populations?"
+    ]
+  },
+  "9-242": {
+    "subqueries": [
+      "What types of adaptations do some plants have to make it easier for hummingbirds to access their nectar?",
+      "How do hummingbirds typically feed on nectar from these adapted plants?",
+      "While feeding, what benefit or advantage do the plants gain from the interaction with hummingbirds?"
+    ]
+  },
+  "7-1124": {
+    "subqueries": [
+      "How do batteries produce chemical energy?",
+      "What role does chemical energy play in powering a flashlight?",
+      "How is the electrical energy from the battery converted into light by the flashlight? "
+    ]
+  },
+  "1064": {
+    "subqueries": [
+      "What are some effective strategies for reducing pollution and waste?",
+      "How can individuals and communities promote sustainable use of natural resources?",
+      "In what ways can technology and innovation contribute to environmental protection? "
+    ]
+  },
+  "613": {
+    "subqueries": [
+      "How does light affect visibility?",
+      "What happens in terms of visibility when it's dark outside?",
+      "Why is it difficult to see objects without sufficient light?"
+    ]
+  },
+  "8-74": {
+    "subqueries": [
+      "What are some effective methods or activities for gaining physical energy?",
+      "Which dietary choices can help boost energy levels?",
+      "How can lifestyle changes contribute to increased energy levels?  "
+    ]
+  },
+  "493": {
+    "subqueries": [
+      "What are the common animals found in the Sahara Desert?",
+      "How do these animals use camouflage for survival in their environment?",
+      "Which of these animals is most effective at blending into the Sahara's specific landscape and conditions? "
+    ]
+  },
+  "7-845": {
+    "subqueries": [
+      "What are conductors and how do they facilitate the flow of electricity?",
+      "Can you list some common materials that act as good electrical conductors?",
+      "How does the presence of a conductor influence the continuity and efficiency of an electric circuit?  "
+    ]
+  },
+  "9-1161": {
+    "subqueries": [
+      "What physiological process does panting refer to in animals?",
+      "How do humans regulate their body temperature and reduce heat when they are overheated?",
+      "Are there any breathing or cooling mechanisms in humans that serve a similar purpose as panting in animals?"
+    ]
+  },
+  "1939": {
+    "subqueries": [
+      "What are some common effects or phenomena caused by magnetism?",
+      "How does magnetism interact with different materials?",
+      "In what practical applications is magnetism utilized? "
+    ]
+  },
+  "9-22": {
+    "subqueries": [
+      "What is the biological process called when a leaf falls from a tree?",
+      "How do environmental factors influence the timing and occurrence of leaves falling from trees?",
+      "Are there cultural or symbolic meanings associated with the act of leaves falling from trees?"
+    ]
+  },
+  "9-958": {
+    "subqueries": [
+      "What are common materials used for producing electricity through burning?",
+      "How does the process of burning these materials generate electricity?",
+      "Are there specific methods or technologies required to convert the energy released during burning into electrical power?"
+    ]
+  },
+  "7-497": {
+    "subqueries": [
+      "What celestial body is being referred to by \"a\" in the statement?",
+      "How does the concept of rotation apply to this celestial body?",
+      "How does the rotation of this celestial body cause the sun to appear to move from our perspective on Earth? "
+    ]
+  },
+  "7-370": {
+    "subqueries": [
+      "What anatomical term describes the distance from your big toe to your little toe?",
+      "What tools or methods can I use to measure this specific body part accurately?",
+      "Are there any standard units of measurement that are commonly used for measuring distances on the human foot? "
+    ]
+  },
+  "7-954": {
+    "subqueries": [
+      "What are some examples of plants native to a specific ecosystem?",
+      "What are the benefits of sowing native plants in their natural ecosystem?",
+      "What methods and considerations are important for successfully sowing and establishing native plants in an ecosystem?  "
+    ]
+  },
+  "7-393": {
+    "subqueries": [
+      "What unique physical characteristics does a swordbill have compared to other birds?",
+      "How do these characteristics specifically enable a swordbill to access nectar in long, narrow flowers?",
+      "Why are other birds generally unable to drink from the same types of flowers as a swordbill? "
+    ]
+  },
+  "9-288": {
+    "subqueries": [
+      "What are some major factors that contribute to global change over time?",
+      "Can you provide a specific historical event or development that illustrates how the world has changed?",
+      "How do technological advancements impact societal changes on a global scale?  "
+    ]
+  },
+  "449": {
+    "subqueries": [
+      "What are telescopes primarily designed for?",
+      "Can you list some objects or phenomena in the universe that are typically observed with telescopes?",
+      "Are there specific types of telescopes suited for viewing certain celestial bodies or events?"
+    ]
+  },
+  "7-4": {
+    "subqueries": [
+      "How does an electron microscope differ from a light microscope in terms of imaging technique?",
+      "What are the main components and functions within an electron microscope?",
+      "In what ways do the capabilities of an electron microscopes enable advanced scientific research or applications?"
+    ]
+  },
+  "1917": {
+    "subqueries": [
+      "What are some common substances used for writing?",
+      "Which animals might require assistance or treatment and what kind of help do they need?",
+      "Are there any known overlaps between the substances used for writing and those that can assist animals? If so, how do these overlaps function to provide help to animals?"
+    ]
+  },
+  "1454": {
+    "subqueries": [
+      "What are some common methods currently used to produce electricity?",
+      "What qualifies as a \"rarely used\" method in the context of electricity production?",
+      "Are there any specific examples or case studies of methods that fit this description? "
+    ]
+  },
+  "436": {
+    "subqueries": [
+      "What types of environments do geckos typically inhabit?",
+      "Are there specific regions or continents where geckos are more commonly found?",
+      "Can geckos thrive in both natural and urban settings, and if so, what conditions make this possible?"
+    ]
+  },
+  "9-793": {
+    "subqueries": [
+      "How does congregating together affect the interactions between members of a group of organisms?",
+      "In what ways can these interactions influence an organism's ability to survive threats such as predators or harsh environmental conditions?",
+      "Are there any disadvantages or risks associated with organisms living in groups that could negatively impact their overall chances of survival?"
+    ]
+  },
+  "1472": {
+    "subqueries": [
+      "What types of animals typically consume insects?",
+      "Are there specific environmental conditions or habitats where insect consumption is more prevalent?",
+      "How do dietary habits vary among different species that eat insects?"
+    ]
+  },
+  "7-738": {
+    "subqueries": [
+      "What are the primary factors contributing to beach degradation?",
+      "How do human activities impact beach ecosystems and landscapes?",
+      "In what ways can natural events such as storms or climate change further damage beaches?"
+    ]
+  },
+  "1686": {
+    "subqueries": [
+      "What specific types of food do rabbits typically consume?",
+      "How does a rabbit's diet vary based on its environment or life stage?",
+      "Are there any foods that are harmful or toxic for rabbits to eat? "
+    ]
+  },
+  "8-134": {
+    "subqueries": [
+      "What are the natural processes or events that can result in the transportation and establishment of plant species in a new location?",
+      "How do human activities contribute to the movement and introduction of plant species to different regions?",
+      "Are there specific examples of historical or recent cases where new plant species were successfully introduced to an area, either intentionally or accidentally?"
+    ]
+  },
+  "8-401": {
+    "subqueries": [
+      "What materials are effective at retaining heat for insulation purposes?",
+      "Which materials are commonly used for insulating buildings in snowy or cold climates?",
+      "How do different insulating materials compare in terms of cost-effectiveness and installation? "
+    ]
+  },
+  "1417": {
+    "subqueries": [
+      "What are the most environmentally friendly modes of transportation available for travel?",
+      "How do different modes of transportation impact the environment (e.g., carbon emissions, energy consumption)?",
+      "What factors should be considered when planning a trip to minimize environmental impact?"
+    ]
+  },
+  "7-174": {
+    "subqueries": [
+      "What are some examples of chemical changes?",
+      "What conditions or factors typically lead to a chemical change occurring?",
+      "How do these conditions or factors affect the substances involved in the chemical change? "
+    ]
+  },
+  "233": {
+    "subqueries": [
+      "What types of surfaces can interact to cause friction?",
+      "How does the movement or attempt to move objects relate to friction?",
+      "Can you provide a common scenario where these interactions and movements result in friction?  "
+    ]
+  },
+  "398": {
+    "subqueries": [
+      "How is pressure defined and what factors influence it?",
+      "What are different environments or scenarios where animals experience varying levels of pressure (e.g., atmospheric pressure, water pressure)?",
+      "Which specific animals are known to live in conditions with minimal pressure, and how do they adapt to such environments?"
+    ]
+  },
+  "689": {
+    "subqueries": [
+      "What types of habitats do deer typically prefer or thrive in?",
+      "Are there specific environmental features (such as water sources, vegetation types, etc.) that are commonly found in areas where deer populations are prevalent?",
+      "How do human activities and land use impact the distribution and proximity of deer to certain locations?"
+    ]
+  },
+  "9-349": {
+    "subqueries": [
+      "What happens during the process of evaporation in a water-mineral solution?",
+      "How does evaporation affect the concentration of minerals in the solution?",
+      "What type of material or structure typically results when water evaporates from such solutions?"
+    ]
+  },
+  "9-659": {
+    "subqueries": [
+      "What other living organisms have the ability to taste?",
+      "How do these organisms perceive flavors compared to humans?",
+      "What types of flavors are recognized by these organisms?"
+    ]
+  },
+  "7-1003": {
+    "subqueries": [
+      "How is \"tearing\" defined or characterized?",
+      "What are the components or elements of the \"whole\" being referred to?",
+      "In what ways can tearing affect the structure, function, or integrity of the whole? "
+    ]
+  },
+  "7-132": {
+    "subqueries": [
+      "What are the different ways volume can be used as an indicator?",
+      "In what contexts or fields is volume typically analyzed as an indicator?",
+      "How do changes in volume provide insights into the subject being studied? "
+    ]
+  },
+  "8-372": {
+    "subqueries": [
+      "What conditions do greenhouses create that allow flowers to grow during winter?",
+      "How does a greenhouse protect plants from cold and freezing weather?",
+      "In what ways can a greenhouse compensate for the lack of natural sunlight during winter months?"
+    ]
+  },
+  "866": {
+    "subqueries": [
+      "What types of ecosystems are known for containing coral?",
+      "In which geographical locations around the world is coral typically found?",
+      "What specific environmental conditions do corals require to thrive?"
+    ]
+  },
+  "975": {
+    "subqueries": [
+      "What is the definition of \"large fins\"?",
+      "In what contexts or applications are large fins typically used?",
+      "What are the benefits and drawbacks of using large fins in these contexts?"
+    ]
+  },
+  "9-287": {
+    "subqueries": [
+      "What are the options provided?",
+      "What criteria define a \"solution\" for this context?",
+      "How does each option measure against the defined criteria?"
+    ]
+  },
+  "7-303": {
+    "subqueries": [
+      "What components are involved in completing an electrical circuit when a light is switched on?",
+      "How does the action of switching on a light influence the flow of electricity within this circuit?",
+      "What potential outcomes or effects result from the completion of an electrical circuit when a light is turned on?"
+    ]
+  },
+  "9-694": {
+    "subqueries": [
+      "What are the essential functionalities of a cell?",
+      "How do cells manage and perform these essential functions efficiently?",
+      "Why is it advantageous or necessary for a cell to distribute these tasks among different components or systems within itself?"
+    ]
+  },
+  "611": {
+    "subqueries": [
+      "What is the gravitational acceleration on the Moon compared to Earth?",
+      "How does gravity affect weight on celestial bodies with different gravitational forces?",
+      "Why might someone perceive a feeling of being \"pulled down\" differently on the Moon than on Earth?"
+    ]
+  },
+  "7-1035": {
+    "subqueries": [
+      "What criteria or conditions must be met for something to be considered eligible for renewal?",
+      "Are there any specific processes, steps, or actions required to initiate a renewal?",
+      "Is there a defined time frame or deadline within which the renewal can occur?  "
+    ]
+  },
+  "7-862": {
+    "subqueries": [
+      "What meteorological conditions typically lead to the formation of grey clouds?",
+      "How do these weather patterns influence atmospheric changes in the days following their appearance?",
+      "What are some common weather events or phenomena that frequently follow the appearance of grey clouds? "
+    ]
+  },
+  "7-989": {
+    "subqueries": [
+      "What is the phenomenon called when a refraction of light splits into all different colors?",
+      "Under what conditions does this phenomenon typically occur?",
+      "What are some common examples or situations where this phenomenon can be observed? "
+    ]
+  },
+  "1467": {
+    "subqueries": [
+      "What are the primary characteristics and components of a hurricane while it is over water?",
+      "How do these characteristics change when a hurricane moves from over water onto land?",
+      "What specific atmospheric and environmental factors contribute to changes in a hurricane's behavior as it transitions from ocean to land?"
+    ]
+  },
+  "7-978": {
+    "subqueries": [
+      "What is acid rain and what causes it?",
+      "How does acid rain chemically interact with different environments (such as soil, water bodies, and vegetation)?",
+      "What are some of the observed impacts or effects of acid rain on ecosystems, infrastructure, and human health? "
+    ]
+  },
+  "7-900": {
+    "subqueries": [
+      "What is meant by adding heat to a substance?",
+      "How does heat contribute to initiating or accelerating a chemical reaction?",
+      "Can you provide examples of specific reactions where heat causes a chemical change?"
+    ]
+  },
+  "212": {
+    "subqueries": [
+      "What type of substance do skunks typically emit as a defense mechanism?",
+      "From which part of a skunk's body is this substance produced and stored?",
+      "What are the common uses or effects of the substance that skunks produce?"
+    ]
+  },
+  "1484": {
+    "subqueries": [
+      "What are some common reasons or situations that might cause an animal to shed its fur?",
+      "How do seasonal changes impact the shedding patterns of animals with fur?",
+      "Are there any health conditions or stress factors in animals that can lead to increased shedding of fur? "
+    ]
+  },
+  "27": {
+    "subqueries": [
+      "How do seeds typically adhere to the coats or fur of animals?",
+      "What are some natural mechanisms by which seeds disperse through animal interaction?",
+      "What potential outcomes or effects does seed adhesion have on plant distribution and germination? "
+    ]
+  },
+  "927": {
+    "subqueries": [
+      "What are white blood cells and what is their primary function in the body?",
+      "How many different types of white blood cells exist, and can you name them?",
+      "What role do white blood cells play in the immune response to infections or diseases? "
+    ]
+  },
+  "9-272": {
+    "subqueries": [
+      "What types of energy can a thermal conductor transfer?",
+      "Through what mechanisms does a thermal conductor transfer energy?",
+      "Under what conditions or environments is a thermal conductor most effective in conducting energy? "
+    ]
+  },
+  "9-847": {
+    "subqueries": [
+      "What is meant by \"pulse\" in this context?",
+      "How can pulse acceleration occur or be achieved?",
+      "In what scenarios or applications might pulse acceleration be relevant or necessary?  "
+    ]
+  },
+  "7-457": {
+    "subqueries": [
+      "What are the primary characteristics of bicycle riding in terms of physical and mechanical requirements?",
+      "Which species are known for their ability or propensity to ride bicycles, either naturally or through training?",
+      "Are there any other species that exhibit behaviors similar to bicycle riding, and how do they compare?"
+    ]
+  },
+  "7-973": {
+    "subqueries": [
+      "What criteria are used to classify a species as having only one living member?",
+      "Can you provide examples of species that have been classified with only one living member in the past or present?",
+      "What conservation efforts, if any, exist for species identified as having only one living member?"
+    ]
+  },
+  "8-412": {
+    "subqueries": [
+      "What are some typical animal behaviors observed during springtime?",
+      "How does springtime affect the habitats and ecosystems where animals live?",
+      "In what ways do human activities interact with or impact animals during spring? "
+    ]
+  },
+  "801": {
+    "subqueries": [
+      "What is meant by \"smoothing\" in this context?",
+      "Under what conditions or scenarios does smoothing typically occur?",
+      "What are the factors or mechanisms that lead to the occurrence of smoothing?"
+    ]
+  },
+  "771": {
+    "subqueries": [
+      "What is the definition of potential energy?",
+      "What is the definition of kinetic energy?",
+      "How does energy transition occur between potential and kinetic energy in physical systems?"
+    ]
+  },
+  "9-503": {
+    "subqueries": [
+      "What types of animals typically migrate from northern regions to southern areas like Texas?",
+      "During which season do these migrations generally occur?",
+      "Are there specific months or a timeframe within that season when this migration is most commonly observed? "
+    ]
+  },
+  "1015": {
+    "subqueries": [
+      "What is transpiration and how does it occur in plants?",
+      "In what ways can transipation affect the environment or ecosystem where it takes place?",
+      "How might human activities influence the process of transpiration? "
+    ]
+  },
+  "8-98": {
+    "subqueries": [
+      "What are the different types of cloud precipitation?",
+      "How does each type form in clouds?",
+      "Can any specific phenomenon or example illustrate these types of precipitation?"
+    ]
+  },
+  "9-677": {
+    "subqueries": [
+      "What does \"anthropogenic\" mean with regard to climate change?",
+      "What are the primary human activities associated with anthropogenic climate change?",
+      "How do these human activities contribute to changes in the Earth's climate?  "
+    ]
+  },
+  "9-144": {
+    "subqueries": [
+      "What types of clouds exist and how do they differ from one another?",
+      "How do weather patterns influence cloud formation and behavior?",
+      "What roles do clouds play in the Earth's climate system and water cycle? "
+    ]
+  },
+  "851": {
+    "subqueries": [
+      "What are the primary methods of reproduction used by birds?",
+      "How do birds typically lay their eggs, and what role does nesting play in this process?",
+      "Are there any exceptions or unique reproductive strategies among certain bird species? "
+    ]
+  },
+  "9-1112": {
+    "subqueries": [
+      "What are the key characteristics and behaviors of electric particles?",
+      "Which entities or concepts are being compared for similarity in behavior with electric particles?",
+      "How can we determine and measure behavioral similarities between different sets of entities or phenomena?"
+    ]
+  },
+  "655": {
+    "subqueries": [
+      "What is meant by \"source\" in this context?",
+      "What are examples of things that could come directly from a source?",
+      "How does something directly coming from a source differ from indirect methods or intermediaries?"
+    ]
+  },
+  "9-176": {
+    "subqueries": [
+      "What conditions are necessary for evaporation to occur?",
+      "Can you describe a simple experiment or activity where evaporation is evident?",
+      "What observations indicate that evaporation has taken place in an experiment?"
+    ]
+  },
+  "9-194": {
+    "subqueries": [
+      "What are the defining characteristics of a desert climate?",
+      "Which regions around the world are classified as deserts?",
+      "How do temperature and precipitation levels typically vary in desert climates?"
+    ]
+  },
+  "9-704": {
+    "subqueries": [
+      "What type of light does a flashlight emit (e.g., visible light, infrared)?",
+      "What is the source of energy for the flashlight?",
+      "How is the emitted light produced in a flashlight?"
+    ]
+  },
+  "9-522": {
+    "subqueries": [
+      "What is meant by the Earth's Northern axis being \"tilted away from the Sun\"?",
+      "How does the tilt of the Earth's axis affect the distribution of sunlight on its surface?",
+      "During which season in the Northern Hemisphere does the Earth\u2019s Northern axis typically tilt away from the Sun?"
+    ]
+  },
+  "7-717": {
+    "subqueries": [
+      "What role do squirrels play in seed dispersal?",
+      "How do squirrels interact with seeds during their activities?",
+      "What is the impact of these interactions on plant propagation and ecosystem health?"
+    ]
+  },
+  "7-481": {
+    "subqueries": [
+      "What are the specific watering needs of a begonia plant?",
+      "How does using a hose affect the health and growth of a begonia compared to other watering methods?",
+      "What observable changes or benefits occur in begonias when they receive daily watering?"
+    ]
+  },
+  "7-168": {
+    "subqueries": [
+      "How does the Earth's rotation affect the apparent position of the Sun in the sky?",
+      "What is the relationship between local time (e.g., 12:00 PM) and solar noon?",
+      "How do geographical location factors, such as longitude and latitude, influence where the Sun appears at a specific local time?"
+    ]
+  },
+  "8-148": {
+    "subqueries": [
+      "What factors influence the speed of a rolling boulder?",
+      "How does applying force in the opposite direction of motion affect an object's velocity?",
+      "What is the relationship between friction, applied force, and acceleration for a moving object?"
+    ]
+  },
+  "8-237": {
+    "subqueries": [
+      "What specific health indicators or metrics are being considered (e.g., BMI, cholesterol levels, physical activity)?",
+      "What is the lifestyle and medical history of each individual involved?",
+      "Are there any environmental factors affecting the individuals' health that need to be taken into account?"
+    ]
+  },
+  "9-711": {
+    "subqueries": [
+      "What are the primary components of a cow's natural diet?",
+      "How do these dietary components compare with various types of human diets (e.g., vegan, vegetarian, omnivore)?",
+      "Which type of human diet shares the most similarities in terms of macronutrients and food sources with a cow\u2019s diet?"
+    ]
+  },
+  "125": {
+    "subqueries": [
+      "What are the specific characteristics of desert environments that affect plant growth?",
+      "Which types of plants are adapted to survive and thrive in desert conditions?",
+      "What adaptations do these desert-adapted plants have that enable them to grow in arid conditions? "
+    ]
+  },
+  "9-999": {
+    "subqueries": [
+      "What biochemical processes are involved in turning beef from red to brown?",
+      "Which molecules or compounds are responsible for these color changes in beef?",
+      "How do these molecules or compounds derive the necessary energy to facilitate the change in color?"
+    ]
+  },
+  "7-747": {
+    "subqueries": [
+      "What are some examples of \"good things\" that can be increased and potentially benefit organisms?",
+      "How does the increase in a beneficial factor affect the survival rates of organisms that depend on it?",
+      "Can you provide specific scenarios or environments where increasing a beneficial factor leads to an increase in organism survival?"
+    ]
+  },
+  "7-932": {
+    "subqueries": [
+      "What are the primary functions of a radio?",
+      "How do these functions serve specific needs or purposes for users?",
+      "Can you provide an example of how one of these functions is practically applied in everyday life? "
+    ]
+  },
+  "8-382": {
+    "subqueries": [
+      "What is the current location or starting point for the remaining part of the journey?",
+      "Where is the final destination?",
+      "What mode of transportation is being used, and what information is available about distances or routes between these locations?"
+    ]
+  },
+  "9-103": {
+    "subqueries": [
+      "What are the main layers that constitute the Earth?",
+      "What materials compose each of these layers?",
+      "How do these materials interact with and affect the Earth's surface specifically? "
+    ]
+  },
+  "9-1044": {
+    "subqueries": [
+      "What are the specific reproductive methods used by frogs for reproduction?",
+      "How does a frog typically behave or participate in post-reproductive care of its offspring?",
+      "What types of environments or conditions do frog offspring require for successful development, and how might a parent frog contribute to meeting these needs?"
+    ]
+  },
+  "8-67": {
+    "subqueries": [
+      "What are the common methods through which plants can spread their seeds or propagate to new locations?",
+      "How does physical contact with humans contribute to the dispersal of certain plant species, specifically through seed attachment?",
+      "What characteristics do some plant seeds have that allow them to adhere to a person's clothing or skin and subsequently be transported to another location?"
+    ]
+  },
+  "9-685": {
+    "subqueries": [
+      "What functions are associated with the human excretory system?",
+      "Which room or area in a typical house is primarily used for waste disposal and sanitation?",
+      "How can the function of this specific room be related to the processes carried out by the human excretory system? "
+    ]
+  },
+  "7-640": {
+    "subqueries": [
+      "What processes or actions are involved in making a burned-down area ecologically healthy again?",
+      "How can a burned site be rehabilitated for specific purposes such as recreation or wildlife conservation?",
+      "What role does community involvement and support play in the restoration of areas affected by tree fires?"
+    ]
+  },
+  "1374": {
+    "subqueries": [
+      "What is the definition of a \"food chain\"?",
+      "Which organisms are typically involved as the first step in a food chain?",
+      "What specific roles or functions do these organisms play within an ecosystem? "
+    ]
+  },
+  "1151": {
+    "subqueries": [
+      "What are the physical properties of water at 50 degrees Celsius (e.g., state, density)?",
+      "How does the temperature of 50 degrees Celsius compare to the boiling and freezing points of water?",
+      "Are there any specific chemical or biological reactions that occur with water at this temperature?"
+    ]
+  },
+  "9-469": {
+    "subqueries": [
+      "What are the different types of phase changes?",
+      "What happens at a molecular level during a phase change?",
+      "How do energy changes occur in each type of phase change?  "
+    ]
+  },
+  "7-242": {
+    "subqueries": [
+      "What are owls' primary activities during nighttime?",
+      "How do these nighttime activities contribute to their survival and ecological role?",
+      "Are there any variations in nocturnal behavior among different owl species? "
+    ]
   }
 }
