@@ -11,7 +11,6 @@ from collections import Counter
 # Load environment variables from .env file
 load_dotenv()
 JWT_TOKEN = os.getenv("JWT_TOKEN")
-
 API_ENDPOINT = "http://localhost:3000/api/chat/completions"
 
 LETTER_TO_INT = {"A": 0, "B": 1, "C": 2, "D": 3}
@@ -23,17 +22,11 @@ INT_TO_LETTER = {v: k for k, v in LETTER_TO_INT.items()}
 
 
 def call_deepseek(messages, model_name):
-    """
-    Sends a list of messages to the DeepSeek API using the specified model and returns the model's answer text.
-    """
     headers = {
         "Authorization": f"Bearer {JWT_TOKEN}",
         "Content-Type": "application/json",
     }
-    payload = {
-        "model": model_name,
-        "messages": messages,
-    }
+    payload = {"model": model_name, "messages": messages}
     try:
         response = requests.post(API_ENDPOINT, json=payload, headers=headers)
         response.raise_for_status()
@@ -49,10 +42,6 @@ def call_deepseek(messages, model_name):
 
 
 def extract_final_answer(answer_text):
-    """
-    Extracts the final answer label (A-D) from the answer text.
-    Expects a line formatted as: "Final Answer: <letter>"
-    """
     match = re.search(r"Final Answer:\s*([A-D])", answer_text, re.IGNORECASE)
     if match:
         return match.group(1).upper()
@@ -60,10 +49,6 @@ def extract_final_answer(answer_text):
 
 
 def majority_vote(votes):
-    """
-    Computes the majority vote from a list of integers (0-3), ignoring None.
-    Returns the majority integer vote or None if no valid votes.
-    """
     filtered_votes = [v for v in votes if v is not None]
     if not filtered_votes:
         return None
@@ -78,17 +63,11 @@ def majority_vote(votes):
 
 
 def call_deepseek_for_splitting(prompt, model="phi4:latest"):
-    """
-    Sends a prompt to the DeepSeek API using the specified model for splitting, and returns the model's answer text.
-    """
     headers = {
         "Authorization": f"Bearer {JWT_TOKEN}",
         "Content-Type": "application/json",
     }
-    payload = {
-        "model": model,
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    payload = {"model": model, "messages": [{"role": "user", "content": prompt}]}
     try:
         response = requests.post(API_ENDPOINT, json=payload, headers=headers)
         response.raise_for_status()
@@ -106,9 +85,6 @@ def call_deepseek_for_splitting(prompt, model="phi4:latest"):
 def generate_subqueries(
     question_text: str, num_subqueries: int = 3, model="phi4:latest"
 ) -> list:
-    """
-    Uses the provided splitting model to generate subqueries from a given question.
-    """
     prompt = (
         f"Given a question, split it into exactly {num_subqueries} smaller questions that need to be answered "
         "in order to answer the overall question. Do not give an answer to the original question, just sub-questions that need to be answered\n\n"
@@ -131,22 +107,11 @@ def split_questions_into_subqueries(
     num_subqueries=3,
     splitting_model="phi4:latest",
 ):
-    """
-    Processes each question from OpenBookQA in parallel using up to 50 workers.
-    For each question:
-      - Assigns a unique id if missing.
-      - If an entry for that id exists in subqueries.json, skip splitting.
-      - Otherwise, splits the question into sub-questions using the specified splitting model.
-      - Accumulates all subqueries in memory and writes the JSON file once after processing.
-    Returns a dict: {question_id: {"subqueries": [list_of_subqueries]}}.
-    """
     if os.path.exists(subqueries_path) and os.path.getsize(subqueries_path) > 0:
         with open(subqueries_path, "r") as f:
             subqueries_data = json.load(f)
     else:
         subqueries_data = {}
-
-    new_splits = {}
     tasks = []
     for index, question in enumerate(questions):
         qid = question.get("id")
@@ -155,7 +120,6 @@ def split_questions_into_subqueries(
             question["id"] = qid
         if qid not in subqueries_data:
             tasks.append((qid, question["question"]["stem"]))
-
     print(
         f"Processing {len(tasks)} questions for sub-question splitting in parallel..."
     )
@@ -180,7 +144,6 @@ def split_questions_into_subqueries(
             for i, sq in enumerate(subqs, 1):
                 print(f"  SubQ{i}: {sq}")
             subqueries_data[qid] = {"subqueries": subqs}
-            new_splits[qid] = {"subqueries": subqs}
     with open(subqueries_path, "w") as f:
         json.dump(subqueries_data, f, indent=2)
     return subqueries_data
@@ -200,14 +163,10 @@ SYSTEM_MESSAGE_ANSWER = (
 
 
 def build_main_prompt(question_stem, choices, subqueries):
-    """
-    Builds the user prompt to show sub-questions plus the main question and answer choices.
-    """
     prompt = "We have derived the following sub-questions from the main question:\n"
     for i, sq in enumerate(subqueries, 1):
         prompt += f"Sub-question {i}: {sq}\n"
-    prompt += "\n"
-    prompt += f"Main Question: {question_stem}\nChoices:\n"
+    prompt += "\n" + f"Main Question: {question_stem}\nChoices:\n"
     for choice in choices:
         prompt += f"{choice['label']}: {choice['text']}\n"
     prompt += (
@@ -220,25 +179,18 @@ def build_main_prompt(question_stem, choices, subqueries):
 def process_question_for_model(
     model, model_index, question, question_index, subqueries, store_full_responses
 ):
-    """
-    Processes a single question for a given model. Uses the sub-questions (if any).
-    Returns (model_index, question_index, predicted_int, full_answer_text).
-    """
     qid = question.get("id", "unknown")
     question_stem = question["question"]["stem"]
     choices = question["question"]["choices"]
     answer_key = question["answerKey"]
-
     user_prompt = build_main_prompt(question_stem, choices, subqueries)
     messages = [
         {"role": "system", "content": SYSTEM_MESSAGE_ANSWER},
         {"role": "user", "content": user_prompt},
     ]
     answer_text = call_deepseek(messages, model)
-
     final_label = extract_final_answer(answer_text) if answer_text else None
     predicted_int = LETTER_TO_INT.get(final_label, None) if final_label else None
-
     print(f"\n--- Question {qid} (Model: {model}) ---")
     if answer_text is None:
         print("DeepSeek Response: No answer received.")
@@ -250,7 +202,6 @@ def process_question_for_model(
     else:
         print(f"Extracted Final Answer Label: {final_label}")
     print(f"Expected Answer: {answer_key}\n")
-
     return model_index, question_index, predicted_int, (answer_text or "")
 
 
@@ -261,19 +212,11 @@ def run_normal_evaluation(
     output_file="results_matrix.json",
     responses_file="all_model_responses.json",
 ):
-    """
-    Runs the multi-model challenge using sub-questions.
-    Models are processed one at a time so that for each model, all questions are answered.
-    All results are accumulated in memory and written to JSON files once after processing.
-    Returns (results_matrix, expected_answers, all_model_answers).
-    all_model_answers is a dict: { question_id: { model_name: full_response, ... }, ... }
-    """
     num_models = len(models)
     num_questions = len(questions)
     results_matrix = [[None for _ in range(num_questions)] for _ in range(num_models)]
     expected_answers = [LETTER_TO_INT.get(q["answerKey"], None) for q in questions]
     all_model_answers = {}
-
     total_tasks = num_models * num_questions
     pbar = tqdm(total=total_tasks, desc="Evaluating models")
     for model_index, model in enumerate(models):
@@ -291,7 +234,7 @@ def run_normal_evaluation(
                         question,
                         question_index,
                         subqs,
-                        store_full_responses=True,
+                        True,
                     )
                 )
             for future in tasks:
@@ -303,7 +246,6 @@ def run_normal_evaluation(
                 all_model_answers[qid][model] = full_answer_text
                 pbar.update(1)
     pbar.close()
-
     with open(output_file, "w") as f:
         json.dump(
             {
@@ -316,10 +258,8 @@ def run_normal_evaluation(
         )
     with open(responses_file, "w") as f:
         json.dump(all_model_answers, f, indent=2)
-
     print(f"\nResults matrix saved to {output_file}")
     print(f"Full model responses saved to {responses_file}\n")
-
     return results_matrix, expected_answers, all_model_answers
 
 
@@ -345,9 +285,6 @@ AGGREGATOR_SYSTEM_MESSAGE_2 = (
 
 
 def build_aggregator_prompt(question_stem, choices, all_model_responses):
-    """
-    Creates a prompt that includes the question, the answer options, and the provided model responses.
-    """
     prompt = "Main Question:\n"
     prompt += f"{question_stem}\n\n"
     prompt += "Choices:\n"
@@ -370,11 +307,6 @@ def run_aggregator_phase_single(
     system_message=AGGREGATOR_SYSTEM_MESSAGE,
     output_path="aggregator_answers.json",
 ):
-    """
-    Runs a single aggregator phase using the provided aggregator_model and system_message.
-    If the extracted final answer is None, retries the prompt until a valid answer is received (up to max_retries).
-    Returns a dict: { question_id: aggregator_answer_index } and writes JSON once after processing.
-    """
     aggregator_results = {}
     tasks = {}
     max_retries = 20
@@ -395,7 +327,6 @@ def run_aggregator_phase_single(
                 qid,
                 messages,
             )
-
         for future in tqdm(
             as_completed(tasks), total=len(tasks), desc="Aggregator Phase"
         ):
@@ -446,12 +377,6 @@ def run_aggregator_phase_single(
 
 
 def compute_final_answers(questions, results_matrix, aggregator1, aggregator2):
-    """
-    For each question, computes the simple majority vote from the evaluation results and then
-    takes the majority vote among: aggregator1's answer, aggregator2's answer, and the simple majority vote.
-    In case all three are different, returns aggregator1's answer as tie-breaker.
-    Returns a dict: { question_id: final_answer_index } and writes to final_answers.json.
-    """
     num_models = len(results_matrix)
     num_questions = len(questions)
     final_answers = {}
@@ -496,12 +421,6 @@ def print_statistics(
     final_answers,
     aggregator_name="DeepSeek Aggregator",
 ):
-    """
-    Prints statistics including:
-      - Individual model accuracies
-      - Majority vote (evaluation) accuracy
-      - Aggregator 1 accuracy, Aggregator 2 accuracy, and Final combined answer accuracy.
-    """
     num_models = len(models)
     num_questions = len(questions)
 
@@ -575,32 +494,22 @@ def print_statistics(
 
 
 def main():
-    # 1) Load the dev questions
-    questions_num = int(input("\nENTER NUMBER OF QUESTIONS TO PROCESS: "))
-    dev_file = os.path.join("OpenBookQA-V1-Sep2018", "Data", "Main", "dev.jsonl")
-    with open(dev_file, "r") as f:
-        lines = list(islice(f, questions_num))
-    questions = [json.loads(line) for line in lines if line.strip()]
-    print(f"Loaded {len(questions)} questions.")
-
-    # Step selection: ask user which steps to run.
-    print("\nAvailable Steps:")
-    print("1. Split Questions into Sub-Questions")
-    print("2. Evaluation")
-    print("3. Aggregation")
+    # Collect all parameters first
+    params = {}
+    params["questions_num"] = int(input("\nENTER NUMBER OF QUESTIONS TO PROCESS: "))
+    # Step selection (default all)
     steps_input = input(
         "Enter step numbers to run (space separated, default: 1 2 3): "
     ).strip()
     if steps_input:
         try:
-            steps = set(int(x) for x in steps_input.split())
+            params["steps"] = set(int(x) for x in steps_input.split())
         except Exception as e:
             print("Error parsing steps; defaulting to all steps.")
-            steps = {1, 2, 3}
+            params["steps"] = {1, 2, 3}
     else:
-        steps = {1, 2, 3}
-
-    # Available models for splitting.
+        params["steps"] = {1, 2, 3}
+    # Splitting model selection
     SPLITTING_MODEL_OPTIONS = [
         "phi4:latest",
         "dolphin-mixtral:latest",
@@ -615,30 +524,17 @@ def main():
     split_model_input = input(
         "Enter number for question splitting model (default: 1): "
     ).strip()
-    if split_model_input:
-        try:
-            split_index = int(split_model_input) - 1
-            splitting_model = SPLITTING_MODEL_OPTIONS[split_index]
-        except Exception as e:
-            print("Error parsing input; defaulting to first option.")
-            splitting_model = SPLITTING_MODEL_OPTIONS[0]
-    else:
-        splitting_model = SPLITTING_MODEL_OPTIONS[0]
-
-    # Step 1: Splitting questions (if selected)
-    if 1 in steps:
-        num_subqueries = 3
-        subqueries_data = split_questions_into_subqueries(
-            questions, "subqueries.json", num_subqueries, splitting_model
+    try:
+        params["splitting_model"] = (
+            SPLITTING_MODEL_OPTIONS[int(split_model_input) - 1]
+            if split_model_input
+            else SPLITTING_MODEL_OPTIONS[0]
         )
-    else:
-        if os.path.exists("subqueries.json") and os.path.getsize("subqueries.json") > 0:
-            with open("subqueries.json", "r") as f:
-                subqueries_data = json.load(f)
-        else:
-            subqueries_data = {}
+    except Exception as e:
+        print("Error parsing input; defaulting to first option.")
+        params["splitting_model"] = SPLITTING_MODEL_OPTIONS[0]
 
-    # Available evaluation models.
+    # Evaluation models selection
     EVAL_MODEL_OPTIONS = [
         "dolphin-mixtral:latest",
         "aratan/qwen2.5-14bu:latest",
@@ -659,18 +555,18 @@ def main():
     if eval_input:
         try:
             indices = [int(x) - 1 for x in eval_input.split()]
-            selected_eval_models = [
+            params["selected_eval_models"] = [
                 EVAL_MODEL_OPTIONS[i]
                 for i in indices
                 if 0 <= i < len(EVAL_MODEL_OPTIONS)
             ]
         except Exception as e:
             print("Error parsing input; defaulting to all models.")
-            selected_eval_models = EVAL_MODEL_OPTIONS
+            params["selected_eval_models"] = EVAL_MODEL_OPTIONS
     else:
-        selected_eval_models = EVAL_MODEL_OPTIONS
+        params["selected_eval_models"] = EVAL_MODEL_OPTIONS
 
-    # Available aggregator models.
+    # Aggregator model selection for first aggregator
     AGG_MODEL_OPTIONS = [
         "openthinker:32b",
         "deepseek-r1:32b",
@@ -684,38 +580,63 @@ def main():
     for i, model in enumerate(AGG_MODEL_OPTIONS, start=1):
         print(f"{i}. {model}")
     agg_input = input("Enter aggregator model number (default: 1): ").strip()
-    if agg_input:
-        try:
-            agg_index = int(agg_input) - 1
-            aggregator_model_1 = AGG_MODEL_OPTIONS[agg_index]
-        except Exception as e:
-            print("Error parsing input; defaulting to first option.")
-            aggregator_model_1 = AGG_MODEL_OPTIONS[0]
-    else:
-        aggregator_model_1 = AGG_MODEL_OPTIONS[0]
+    try:
+        params["aggregator_model_1"] = (
+            AGG_MODEL_OPTIONS[int(agg_input) - 1] if agg_input else AGG_MODEL_OPTIONS[0]
+        )
+    except Exception as e:
+        print("Error parsing input; defaulting to first option.")
+        params["aggregator_model_1"] = AGG_MODEL_OPTIONS[0]
 
+    # Aggregator model selection for second aggregator
     print("\nAvailable Aggregator Models (for second aggregator):")
     for i, model in enumerate(AGG_MODEL_OPTIONS, start=1):
         print(f"{i}. {model}")
     agg_input_2 = input(
         "Enter aggregator model number for second aggregator (default: 1): "
     ).strip()
-    if agg_input_2:
-        try:
-            agg_index_2 = int(agg_input_2) - 1
-            aggregator_model_2 = AGG_MODEL_OPTIONS[agg_index_2]
-        except Exception as e:
-            print("Error parsing input; defaulting to first option.")
-            aggregator_model_2 = AGG_MODEL_OPTIONS[0]
-    else:
-        aggregator_model_2 = AGG_MODEL_OPTIONS[0]
+    try:
+        params["aggregator_model_2"] = (
+            AGG_MODEL_OPTIONS[int(agg_input_2) - 1]
+            if agg_input_2
+            else AGG_MODEL_OPTIONS[0]
+        )
+    except Exception as e:
+        print("Error parsing input; defaulting to first option.")
+        params["aggregator_model_2"] = AGG_MODEL_OPTIONS[0]
 
-    # Step 2: Evaluation (if selected)
-    if 2 in steps:
+    # Now all parameters are collected; print them out for confirmation.
+    print("\nParameters:")
+    for key, value in params.items():
+        print(f"{key}: {value}")
+
+    # 2) Load dev questions
+    questions_num = params["questions_num"]
+    dev_file = os.path.join("OpenBookQA-V1-Sep2018", "Data", "Main", "dev.jsonl")
+    with open(dev_file, "r") as f:
+        lines = list(islice(f, questions_num))
+    questions = [json.loads(line) for line in lines if line.strip()]
+    print(f"\nLoaded {len(questions)} questions.")
+
+    # Step 1: Splitting
+    if 1 in params["steps"]:
+        num_subqueries = 3
+        subqueries_data = split_questions_into_subqueries(
+            questions, "subqueries.json", num_subqueries, params["splitting_model"]
+        )
+    else:
+        if os.path.exists("subqueries.json") and os.path.getsize("subqueries.json") > 0:
+            with open("subqueries.json", "r") as f:
+                subqueries_data = json.load(f)
+        else:
+            subqueries_data = {}
+
+    # Step 2: Evaluation
+    if 2 in params["steps"]:
         results_matrix, expected_answers, all_model_answers = run_normal_evaluation(
             questions,
             subqueries_data,
-            selected_eval_models,
+            params["selected_eval_models"],
             output_file="results_matrix.json",
             responses_file="all_model_responses.json",
         )
@@ -739,19 +660,19 @@ def main():
         else:
             all_model_answers = {}
 
-    # Step 3: Aggregation (if selected)
-    if 3 in steps:
+    # Step 3: Aggregation
+    if 3 in params["steps"]:
         aggregator_answers1 = run_aggregator_phase_single(
             questions,
             all_model_answers,
-            aggregator_model=aggregator_model_1,
+            aggregator_model=params["aggregator_model_1"],
             system_message=AGGREGATOR_SYSTEM_MESSAGE,
             output_path="aggregator_answers1.json",
         )
         aggregator_answers2 = run_aggregator_phase_single(
             questions,
             all_model_answers,
-            aggregator_model=aggregator_model_2,
+            aggregator_model=params["aggregator_model_2"],
             system_message=AGGREGATOR_SYSTEM_MESSAGE_2,
             output_path="aggregator_answers2.json",
         )
@@ -775,7 +696,7 @@ def main():
 
     # Compute simple majority vote from evaluation results.
     simple_majority = {}
-    num_eval_models = len(selected_eval_models)
+    num_eval_models = len(params["selected_eval_models"])
     for q_idx, question in enumerate(questions):
         qid = question.get("id", "unknown")
         votes = []
@@ -840,9 +761,9 @@ def main():
             questions,
             results_matrix,
             expected_answers,
-            selected_eval_models,
-            aggregator_answers1,  # printing aggregator1 stats here
-            aggregator_answers2,  # printing aggregator2 stats here
+            params["selected_eval_models"],
+            aggregator_answers1,
+            aggregator_answers2,
             final_answers,
             aggregator_name="DeepSeek Aggregator",
         )
