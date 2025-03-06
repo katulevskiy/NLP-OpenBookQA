@@ -10,6 +10,7 @@ JWT_TOKEN = os.getenv("JWT_TOKEN")
 # API endpoint (using the working endpoint from your curl example)
 API_ENDPOINT = "http://localhost:3000/api/chat/completions"
 
+
 def call_deepseek(prompt):
     """
     Sends a prompt to the DeepSeek API and returns the model's answer text.
@@ -19,7 +20,7 @@ def call_deepseek(prompt):
         "Content-Type": "application/json",
     }
     payload = {
-        "model": "deepseek-r1:32b",
+        "model": "phi4:latest",
         "messages": [{"role": "user", "content": prompt}],
     }
     try:
@@ -54,15 +55,22 @@ def split_question_into_subqueries(question: str, num_subqueries: int = 2) -> li
     if not answer_text:
         return []
 
-    subqueries = re.findall(r"\d+\.\s*(.*)", answer_text) #regex to match a numbered list format
-    return subqueries[:num_subqueries] if subqueries else answer_text.split("\n")[:num_subqueries]
+    subqueries = re.findall(
+        r"\d+\.\s*(.*)", answer_text
+    )  # regex to match a numbered list format
+    return (
+        subqueries[:num_subqueries]
+        if subqueries
+        else answer_text.split("\n")[:num_subqueries]
+    )
 
 
 def main():
-    #Experiment subqueries:
+    # Experiment subqueries:
     question = "Can a suit of armor conduct electricity?"
     subqueries = split_question_into_subqueries(question, num_subqueries=3)
     print("Generated Subqueries:", subqueries)
+
 
 if __name__ == "__main__":
     main()

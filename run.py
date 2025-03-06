@@ -11,7 +11,7 @@ load_dotenv()
 JWT_TOKEN = os.getenv("JWT_TOKEN")
 
 # API endpoint (using the working endpoint from your curl example)
-API_ENDPOINT = "http://localhost:3000/api/chat/completions"
+API_ENDPOINT = "http://75.80.52.243:3000/api/chat/completions"
 
 
 def call_deepseek(prompt):
@@ -119,7 +119,7 @@ def main():
     print(
         "Running Experiment 1: Using only the question and choices (no additional context)..."
     )
-    accuracy1 = run_experiment(500, use_context=False)
+    accuracy1 = run_experiment(5, use_context=False)
 
     # Experiment 2: With openbook.txt as context for each question
     openbook_path = os.path.join(
@@ -132,10 +132,10 @@ def main():
         print("openbook.txt not found!")
         context_text = ""
     print("\nRunning Experiment 2: Using openbook.txt as additional context...")
-    accuracy2 = run_experiment(500, use_context=True, context_text=context_text)
+    # accuracy2 = run_experiment(500, use_context=True, context_text=context_text)
     print(f"\nEXPERIMENT RESULTS:")
     print(f"Experiment 1 Accuracy: {accuracy1:.2f}%")
-    print(f"Experiment 2 Accuracy: {accuracy2:.2f}%")
+    # print(f"Experiment 2 Accuracy: {accuracy2:.2f}%")
 
 
 if __name__ == "__main__":

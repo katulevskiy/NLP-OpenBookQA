@@ -13,15 +13,24 @@ load_dotenv()
 JWT_TOKEN = os.getenv("JWT_TOKEN")
 
 # API endpoint (using the working endpoint from your curl example)
-API_ENDPOINT = "http://ai.katulevskiy.com:3000/api/chat/completions"
+API_ENDPOINT = "http://localhost:3000/api/chat/completions"
 
 # Mapping for letters to integers (A->0, B->1, C->2, D->3)
 LETTER_TO_INT = {"A": 0, "B": 1, "C": 2, "D": 3}
 
+# Define a system message with general instructions for the assistant.
+SYSTEM_MESSAGE = (
+    "You are a helpful assistant specialized in answering multiple-choice questions. "
+    "Use any provided relevant facts to guide your answer. "
+    "Carefully think about the question."
+    "Respond with one of the options A, B, C, or D and include a final line formatted as 'Final Answer: <letter>'."
+)
 
-def call_deepseek(prompt, model_name):
+
+def call_deepseek(prompt, model_name, system_message=SYSTEM_MESSAGE):
     """
     Sends a prompt to the DeepSeek API using the specified model and returns the model's answer text.
+    The prompt is split into a system message (general instructions) and a user message (specific question details).
     """
     headers = {
         "Authorization": f"Bearer {JWT_TOKEN}",
@@ -29,7 +38,10 @@ def call_deepseek(prompt, model_name):
     }
     payload = {
         "model": model_name,
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": [
+            {"role": "system", "content": system_message},
+            {"role": "user", "content": prompt},
+        ],
     }
     try:
         response = requests.post(API_ENDPOINT, json=payload, headers=headers)
@@ -63,7 +75,7 @@ def process_question_for_model(
 ):
     """
     Processes a single question for a given model.
-    Builds a prompt that includes any selected facts as hints, then the question and choices.
+    Constructs a user prompt that includes any selected facts, then the question and its choices.
     Returns a tuple: (model_index, question_index, predicted_int)
     """
     qid = question.get("id", "unknown")
@@ -71,24 +83,25 @@ def process_question_for_model(
     choices = question["question"]["choices"]
     answer_key = question["answerKey"]
 
-    # Build the prompt. If we have selected facts for this question id, add them.
-    prompt = ""
+    # Build the user part of the prompt.
+    user_prompt = ""
     if selected_facts:
-        prompt += "Relevant facts:\n"
+        user_prompt += "Relevant facts:\n"
         for fact in selected_facts:
-            prompt += f"- {fact}\n"
-        prompt += "\n"
+            user_prompt += f"- {fact}\n"
+        user_prompt += "\n"
 
-    prompt += f"Question: {question_stem}\n"
-    prompt += "Choices:\n"
+    user_prompt += f"Question: {question_stem}\n"
+    user_prompt += "Choices:\n"
     for choice in choices:
-        prompt += f"{choice['label']}: {choice['text']}\n"
-    prompt += (
+        user_prompt += f"{choice['label']}: {choice['text']}\n"
+    user_prompt += (
         "\nPlease choose the correct answer label (A, B, C, or D) and "
         "state your final decision at the end of your answer in the format 'Final Answer: <label>'."
     )
 
-    answer_text = call_deepseek(prompt, model)
+    # Call DeepSeek with both system and user messages.
+    answer_text = call_deepseek(user_prompt, model)
     final_label = extract_final_answer(answer_text) if answer_text else None
 
     print(f"\n--- Question {qid} (Model: {model}) ---")
@@ -174,7 +187,7 @@ def run_experiment(questions_num):
     expected_answers = [LETTER_TO_INT.get(q["answerKey"], None) for q in questions]
 
     tasks = []
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=50) as executor:
         for model_index, model in enumerate(models):
             for question_index, question in enumerate(questions):
                 # Look up selected facts for this question id if available.
@@ -297,7 +310,7 @@ def run_experiment(questions_num):
 
 
 def main():
-    questions_num = 500  # Adjust the number of questions as needed.
+    questions_num = 20  # Adjust the number of questions as needed.
     run_experiment(questions_num)
 
 
