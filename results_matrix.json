@@ -1,14 +1,8 @@
 {
   "models": [
-    "dolphin-mixtral:latest",
     "aratan/qwen2.5-14bu:latest",
-    "deepseek-r1:32b",
-    "aratan/DeepSeek-R1-32B-Uncensored:latest",
     "mistral:latest",
-    "llama3.1:8b",
-    "phi4:latest",
-    "qwen2.5:32b",
-    "openthinker:32b"
+    "phi4:latest"
   ],
   "results_matrix": [
     [
@@ -23,37 +17,7 @@
     ],
     [
       0,
-      3,
-      0
-    ],
-    [
-      0,
       1,
-      0
-    ],
-    [
-      0,
-      2,
-      0
-    ],
-    [
-      0,
-      3,
-      0
-    ],
-    [
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      3,
-      0
-    ],
-    [
-      0,
-      3,
       0
     ]
   ],

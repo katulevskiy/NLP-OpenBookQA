@@ -1,23 +1,23 @@
 {
-  "7-57": {
-    "subqueries": [
-      "What are the properties of gases that allow them to fill any container?",
-      "How do liquids behave when placed in a container compared to gases?",
-      "Why do liquids not fill every part of a container like gases do?"
-    ]
-  },
   "7-1024": {
     "subqueries": [
-      "What environmental or climatic conditions drive birds to migrate south during the winter?",
-      "How does migrating south benefit birds in terms of survival and reproduction?",
-      "Are there specific species of birds that consistently migrate south for the winter, and if so, why? "
+      "What are the primary environmental factors that influence bird migration patterns?",
+      "Why might migrating south benefit birds during the winter season specifically?",
+      "How do physiological and behavioral adaptations in birds support their ability to undertake long-distance migrations?"
     ]
   },
   "8-376": {
     "subqueries": [
-      "What specific adaptations do frilled sharks have for living deep in the ocean?",
-      "What specific adaptations do anglerfish have for living deep in the ocean?",
-      "Why are species with such adaptations referred to by a particular term related to their habitat? "
+      "What adaptations do frilled sharks have for living in deep-sea environments?",
+      "How do anglerfish adapt to survive in deep-ocean conditions?",
+      "Why might animals with such adaptations be referred to as \"deep-sea creatures\" or similar terms?"
+    ]
+  },
+  "7-57": {
+    "subqueries": [
+      "What are the properties of gases that allow them to fill any container they are placed in?",
+      "How do the properties of liquids differ from those of gases regarding filling a container?",
+      "Under what conditions might a liquid not completely fill a container? "
     ]
   }
 }
