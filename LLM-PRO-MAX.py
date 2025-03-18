@@ -310,7 +310,7 @@ def run_aggregator_phase_single(
     aggregator_results = {}
     tasks = {}
     max_retries = 50
-    with ThreadPoolExecutor(max_workers=50) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         for question in questions:
             qid = question.get("id", "unknown")
             question_stem = question["question"]["stem"]
